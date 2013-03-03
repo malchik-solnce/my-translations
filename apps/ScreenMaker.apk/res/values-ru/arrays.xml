@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="darkwhite">
+        <item>темный</item>
+        <item>белый</item>
+    </string-array>
+    <string-array name="dark">
+        <item>темный</item>
+    </string-array>
+    <string-array name="white">
+        <item>белый</item>
+    </string-array>
+    <string-array name="sortDevices">
+        <item>Все</item>
+        <item>Samsung</item>
+        <item>Nexus</item>
+        <item>HTC</item>
+        <item>Sony</item>
+        <item>Motorola</item>
+        <item>Asus</item>
+        <item>240x320</item>
+        <item>320x480</item>
+        <item>480x800</item>
+        <item>480x854</item>
+        <item>540x960</item>
+        <item>720x1280</item>
+        <item>768x1280</item>
+        <item>800x1280</item>
+    </string-array>
+</resources>

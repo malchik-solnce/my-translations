@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Next Honeycomb live wallpaper</string>
+    <string name="wallpaper_author">Next Launcher Team</string>
+    <string name="wallpaper_desc">Honey comb</string>
+    <string name="next_name">Next Launcher,</string>
+    <string name="best_app">будет лучшим!</string>
+    <string name="need_nextlauncher">Скачайте Next Launcher и наслаждайтесь красивыми эффектами</string>
+    <string name="down_load_nextlauncher">Скачать</string>
+    <string name="install_google_play">Пожалуйста, сначала установите Google Play</string>
+</resources>

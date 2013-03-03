@@ -1,0 +1,171 @@
+<resources>
+    <string-array name="screen_orientation_entry">
+        <item>"Auto pasukimas"</item>
+        <item>"Vertikalus"</item>
+        <item>"Vertikalus (bei klaviatūros)"</item>
+        <item>"Horizontalus"</item>
+    </string-array>
+    <string-array name="wallpaper_mode_entries">
+        <item>"Numatytas"</item>
+        <item>"Vertikalus"</item>
+    </string-array>
+    <string-array name="fun_bg_type_entris">
+        <item>"Permatomas fonas"</item>
+        <item>"Savo fonas"</item>
+    </string-array>
+    <string-array name="font_size_entries">
+        <item>"Numatytas dydis"</item>
+        <item>"Pasirinktas dydis"</item>
+    </string-array>
+    <string-array name="screen_indicator_entry">
+        <item>"Rodyti indikatorių"</item>
+        <item>"Slėpti indikatorių"</item>
+        <item>"Auto-slėpti indikatorių"</item>
+    </string-array>
+    <string-array name="app_style_entry">
+        <item>"NextLauncher Stilius"</item>
+        <item>"Numatytas"</item>
+    </string-array>
+    <string-array name="scroll_list_title">
+        <item>"Vertikalus"</item>
+        <item>"Horizontalus puslapis po puslapio"</item>
+        <item>"Horizontalus"</item>
+    </string-array>
+    <string-array name="inout_list_title">
+        <item>"Numatytas"</item>
+        <item>"Jokio"</item>
+        <item>"Atsitiktinis"</item>
+        <item>"Atsitiktinis (Savo)"</item>
+        <item>"Vėjo malūnas"</item>
+        <item>"Didėjimas"</item>
+        <item>"Versti"</item>
+        <item>"TV"</item>
+    </string-array>
+    <string-array name="screen_rows_cols_title">
+        <item>"Auto"</item>
+        <item>"4×4"</item>
+        <item>"5×4"</item>
+        <item>"5×5"</item>
+        <item>"Savo"</item>
+    </string-array>
+    <string-array name="appname_setting_entries">
+        <item>"Rodyti etiketes"</item>
+        <item>"Slėpti etiketes"</item>
+    </string-array>
+    <string-array name="screen_transition_entris">
+        <item>"Greitis: 50"</item>
+        <item>"Greitis: 75"</item>
+        <item>"Greitis: 25"</item>
+        <item>"Savo"</item>
+    </string-array>
+    <string-array name="apps_sort_dialog_style">
+        <item>"Rūšiuoti pagal įdiegimo vieta"</item>
+        <item>"Rūšiuoti pagal įdiegimo datą"</item>
+        <item>"Rūšiuoti pagal pavadinimą"</item>
+        <item>"Rūšiuoti pagal dydį"</item>
+    </string-array>
+    <string-array name="grid_list_title">
+        <item>"Automatiškai"</item>
+        <item>"4×4"</item>
+        <item>"5×4"</item>
+        <item>"Savo"</item>
+    </string-array>
+    <string-array name="gesture_entries">
+        <item>"Išjungti"</item>
+        <item>"Funkcijos"</item>
+        <item>"Aplikacijos"</item>
+        <item>"Nuoroda"</item>
+    </string-array>
+    <string-array name="select_desktop_transition">
+        <item>"Numatytas"</item>
+        <item>"Atsitiktinis"</item>
+        <item>"Atsitiktinis (Pasirinktinis)"</item>
+        <item>"Versti (paprastas)"</item>
+        <item>"Vėjo malūnas"</item>
+        <item>"Skristi"</item>
+    </string-array>
+    <string-array name="icon_menu_effect_type">
+        <item>"Atsitiktinis"</item>
+        <item>"Numatytas"</item>
+        <item>"Pavasaris"</item>
+        <item>"Pulsacija"</item>
+        <item>"Burbulas"</item>
+        <item>"Sekti"</item>
+    </string-array>
+    <string-array name="desktop_preview_transition">
+        <item>"Cilindras"</item>
+        <item>"Butas"</item>
+        <item>"Kampas"</item>
+    </string-array>
+    <string-array name="func_app_icon_effect_entris">
+        <item>"Numatytas"</item>
+        <item>"Atsitiktinis"</item>
+        <item>"Atsitiktinis (Savo)"</item>
+        <item>"Vežimas"</item>
+        <item>"Cilindras"</item>
+        <item>"Flip (paprastas)"</item>
+        <item>"Vėjo malūnas"</item>
+        <item>"Skraidyti"</item>
+        <item>"Kubiodas"</item>
+    </string-array>
+    <string-array name="dock_bg_type_entris">
+        <item>"Slėpti foną"</item>
+        <item>"Savo fonas"</item>
+    </string-array>
+    <string-array name="communication_arry">
+        <item>"Neskaitytas tekstinis pranešimas"</item>
+        <item>"Praleistas skambutis"</item>
+        <item>"Neskaitytas Gmail"</item>
+        <item>"Neskaitytas K9mail"</item>
+        <item>"Neskaitytas Facebook"</item>
+        <item>"Neskaitytas Sina Weibo"</item>
+    </string-array>
+    <string-array name="screen_indicator_showmode_array">
+        <item>"Numatytas Stilius"</item>
+        <item>"Skaitinis Stilius"</item>
+    </string-array>
+    <string-array name="screen_indicator_position_array">
+        <item>"Ekrano viršuje"</item>
+        <item>"Ekrano apačioje"</item>
+    </string-array>
+    <string-array name="screen_indicator_array">
+        <item>"Rodyti indikatorių"</item>
+        <item>"Slėpti indikatorių"</item>
+        <item>"Auto-slėpti indikatorių"</item>
+    </string-array>
+    <string-array name="func_app_vertical_scroll_effect_entris">
+        <item>"Numatytas"</item>
+        <item>"Krioklys"</item>
+    </string-array>
+    <string-array name="orientation_entries">
+        <item>"Auto sukimas"</item>
+        <item>"Vertikalus"</item>
+        <item>"Vertikalus (išjungta klaviatūrą)"</item>
+        <item>"Horizontalus"</item>
+    </string-array>
+    <string-array name="icon_size_setting_entries">
+        <item>"Rekomenduojamas dydis (didelis)"</item>
+        <item>"Numatytasis dydis (mažas)"</item>
+        <item>"Savo dydis"</item>
+    </string-array>
+    <string-array name="qatutorial_list_items">
+        <item>"1.Keisti ekranus"</item>
+        <item>"2.Doko gestai"</item>
+        <item>"3.Pridėti programas"</item>
+        <item>"4.Aplankas ekrane"</item>
+        <item>"5.Gestų meniu"</item>
+    </string-array>
+    <string-array name="gesture_goshortcut">
+        <item>"Rodyti peržiūrą"</item>
+        <item>"Rodyti programas"</item>
+        <item>"Rodyti įspėjimą"</item>
+        <item>"Rodyti/slėpti būsenos juostą"</item>
+        <item>"Nustatymai"</item>
+        <item>"Meniu"</item>
+    </string-array>
+    <string-array name="dock_line_entries">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_turn_vibe_items">
+        <item>Вкл.</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="settings_vibe_during_call_options">
+        <item>Отключить ViBe</item>
+        <item>Включить ViBe</item>
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="continent">
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Европа</item>
+        <item>Северная америка</item>
+        <item>Oceania</item>
+        <item>Южная америка</item>
+        <item>Великобритания</item>
+    </string-array>
+	<string-array name="pref_timer_save_titles">
+        <item>Вручную</item>
+        <item>1 секунда</item>
+        <item>3 секунды</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+    </string-array>
+	<string-array name="whiteblance_title">
+        <item>Авто</item>
+        <item>Lights</item>
+        <item>Fluorescent</item>
+        <item>Sunlight</item>
+        <item>Пасмурно</item>
+        <item>Темно</item>
+        <item>Shade</item>
+        <item>Fluorescent</item>
+        <item>Облачно</item>
+        <item>Illuminant</item>
+    </string-array>
+	<string-array name="focusmode_title">
+        <item>Автофокус</item>
+        <item>Макро</item>
+        <item>Бесконечное расстояние</item>
+        <item>General Distance</item>
+    </string-array>
+	<string-array name="meter_title">
+        <item>Обычный</item>
+        <item>Центр</item>
+    </string-array>
+	<string-array name="hot_location">
+        <item>Москва#Россия#RS#zmw:00000.1.27612#go1002723#14400000</item>
+        <item>Мурманск#Россия#RS#zmw:00000.1.22113#go1145071#14400000</item>
+        <item>Нижний Новгород#Россия#RS#zmw:00000.29.27459#go1041370#14400000</item>
+        <item>Новосибирск#Россия#RS#zmw:00000.1.29634#go1002831#25200000</item>
+        <item>Ростов#Россия#RS#zmw:00000.1.27329#go1002711#14400000</item>
+        <item>Санкт-Петербург#Россия#RS#zmw:00000.1.26063#go1002591#14400000</item>
+        <item>Улан-Удэ#Россия#RS#zmw:00000.1.30823#go1002895#32400000</item>
+        <item>Владивосток#Россия#RS#zmw:00000.1.31960#go1002942#39600000</item>
+        <item>Екатеринбург#Россия#RS#zmw:00000.1.28440#go1146486#21600000</item>
+    </string-array>
+</resources>

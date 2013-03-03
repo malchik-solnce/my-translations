@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="polling_time">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>4 часа</item>
+        <item>1 день</item>
+    </string-array>
+    <string-array name="overview_mode">
+        <item>Открыть в обзоре</item>
+        <item>Открыть в браузере</item>
+    </string-array>
+    <string-array name="temperature_mode">
+        <item>Цельсий</item>
+        <item>Фаренгейт</item>
+    </string-array>
+    <string-array name="wind_mode">
+        <item>миль/ч</item>
+        <item>км/ч</item>
+    </string-array>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player_select_menu">
+        <item>Стоковый плеер</item>
+        <item>"Winamp(нужно вкл. 'Упр. наушниками' в настройках Winamp)"</item>
+    </string-array>
+    <string-array name="timing_control_menu">
+        <item>0.1 сек</item>
+        <item>0.15 сек</item>
+        <item>0.2 сек</item>
+        <item>0.25 сек</item>
+        <item>0.3 сек</item>
+    </string-array>
+    <string-array name="plug_off_fuction_menu">
+        <item>Ничего</item>
+        <item>Играть музыку</item>
+        <item>Остановить музыку</item>
+    </string-array>
+    <string-array name="squre_function_menu">
+        <item>Убрать кнопку</item>
+        <item>Запуск Plug In Music</item>
+        <item>Запуск плеера</item>
+        <item>Принуд. изменение состояния</item>
+    </string-array>
+    <string-array name="timer_type_menu">
+        <item>Время</item>
+        <item>Песни</item>
+    </string-array>
+    <string-array name="key_control_menu">
+        <item>Отключено</item>
+        <item>Когда экран выкл.</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="control_menu">
+        <item>Кнопки</item>
+        <item>Команды</item>
+        <item>Команды (fixed)</item>
+    </string-array>
+    <string-array name="bg_change_menu">
+        <item>По умолчанию</item>
+        <item>Никакой</item>
+        <item>Свой цвет</item>
+        <item>Своя картинка</item>
+    </string-array>
+    <string-array name="pad_location_menu">
+        <item>Сверху</item>
+        <item>Внизу</item>
+    </string-array>
+    <string-array name="pad_width_menu">
+        <item>Тонкая</item>
+        <item>Нормальная</item>
+        <item>Толстая</item>
+        <item>Очень толстая</item>
+    </string-array>
+    <string-array name="double_tab_menu">
+        <item>Запустить плеер</item>
+        <item>Запустить приложение</item>
+        <item>Переключить Воспр./Пауза</item>
+    </string-array>
+</resources>

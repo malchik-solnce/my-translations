@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/rename_dialog_root" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_horizontal" android:id="@id/rename_old_name" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <EditText android:id="@id/rename_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0px" android:hint="Введите новое имя" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <org.appforce.ui.VibratingButton android:id="@id/rename_ok" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="ОК" android:layout_weight="0.5" />
+        <org.appforce.ui.VibratingButton android:id="@id/rename_cancel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Отмена" android:layout_weight="0.5" />
+    </LinearLayout>
+</LinearLayout>

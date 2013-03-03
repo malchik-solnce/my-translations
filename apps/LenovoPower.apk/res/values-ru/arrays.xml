@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>2 минуты</item>
+        <item>10 минут</item>
+    </string-array>
+    <string-array name="screen_brightness_entries">
+        <item>Мин</item>
+        <item>30%</item>
+        <item>60%</item>
+        <item>Макс</item>
+        <item>Авто</item>
+    </string-array>
+</resources>

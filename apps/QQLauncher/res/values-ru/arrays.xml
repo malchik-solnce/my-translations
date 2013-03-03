@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_task_operation">
+        <item>Завершить процесс</item>
+        <item>Перейти к программе</item>
+        <item>Просмотр подробных сведений</item>
+        <item>Исключить</item>
+    </string-array>
+    <string-array name="menu_fav_operation">
+        <item>Отмена любимых</item>
+    </string-array>
+    <string-array name="mode_setting_entries">
+        <item>Режим по умолчанию</item>
+        <item>Полный режим</item>
+        <item>Простой режим</item>
+    </string-array>
+    <string-array name="mode_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="transition_effect_entries">
+        <item>По умолчанию</item>
+        <item>Куб</item>
+        <item>Развернуть/свернуть</item>
+        <item>Ротари</item>
+        <item>Карта</item>
+        <item>Магия</item>
+    </string-array>
+    <string-array name="transition_effect_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="setting_normal_functionlist_entries">
+        <item>Сетка</item>
+        <item>Лист</item>
+    </string-array>
+    <string-array name="setting_normal_functionlist_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="setting_switchdesktop_specialeffects_entries">
+        <item>Classic</item>
+        <item>Smooth</item>
+        <item>Fade</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Card</item>
+        <item>Cube</item>
+        <item>Cylinder</item>
+        <item>Wave</item>
+        <item>Roll</item>
+        <item>Random</item>
+    </string-array>
+    <string-array name="setting_switchdesktop_specialeffects_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="app_icon_order_values">
+        <item>Сортировка по имени программы</item>
+        <item>Сортировать по частоте использования</item>
+        <item>Сортировать по времени установки</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_default</item>
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+    </string-array>
+    <string-array name="backup_launcher_values">
+        <item>Резервное копирование</item>
+        <item>Восстановление резерва</item>
+    </string-array>
+    <string-array name="local_download_list_loading_pause">
+        <item>Пауза</item>
+        <item>Отменить загрузку</item>
+        <item>Посмотреть детали</item>
+    </string-array>
+    <string-array name="local_download_list_loading_continue">
+        <item>Возобновить</item>
+        <item>Отменить загрузку</item>
+        <item>Посмотреть детали</item>
+    </string-array>
+    <string-array name="local_download_list_loading_reloading">
+        <item>Перекачать</item>
+        <item>Отменить загрузку</item>
+        <item>Посмотреть детали</item>
+    </string-array>
+    <string-array name="app_update_frequency">
+        <item>Никогда</item>
+        <item>Ежедневно</item>
+        <item>Каждые три дня</item>
+        <item>Еженедельно</item>
+        <item>Ежемесячно</item>
+    </string-array>
+    <string-array name="app_update_frequency_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="ranks_title_low">
+        <item>Слабо 3x3</item>
+        <item>Умеренно 4x3</item>
+        <item>Плотно 4x4</item>
+    </string-array>
+    <string-array name="ranks_title_middle">
+        <item>Слабо 4x4</item>
+        <item>Умеренно 5x4</item>
+        <item>Плотно 5x5</item>
+    </string-array>
+    <string-array name="ranks_title_high">
+        <item>Слабо 5x4</item>
+        <item>Умеренно 5x5</item>
+        <item>Плотно 6x5</item>
+    </string-array>
+    <string-array name="choose_names">
+        <item>Игры</item>
+        <item>Настройки</item>
+        <item>Социальные</item>
+        <item>Интернет</item>
+        <item>Коммуникации</item>
+        <item>Персонализация</item>
+        <item>Развлечения</item>
+        <item>Музыка</item>
+        <item>Образ жизни</item>
+        <item>Бизнес</item>
+        <item>Учеба</item>
+        <item>Чтение</item>
+        <item>Система</item>
+        <item>Финансы</item>
+        <item>Общие</item>
+        <item>Редкие</item>
+    </string-array>
+    <string-array name="qqapp_title">
+        <item>Mobile QQ</item>
+        <item>Qzone</item>
+        <item>Tencent Weibo</item>
+        <item>QQ browser</item>
+        <item>Friends network</item>
+        <item>QQ games</item>
+        <item>QQ addressbook</item>
+        <item>Micro-letter</item>
+        <item>QQ Mobile Housekeeper</item>
+        <item>SOSO map</item>
+        <item>Application box</item>
+        <item>QQ music</item>
+        <item>QQ reading</item>
+        <item>QQ input method</item>
+        <item>Mobile QQ</item>
+        <item>Qzone</item>
+    </string-array>
+    <string-array name="qqapp_package">
+        <item>com.tencent.qq</item>
+        <item>com.qzone</item>
+        <item>com.tencent.WBlog</item>
+        <item>com.tencent.mtt</item>
+        <item>com.tencent.pengyou</item>
+        <item>com.tencent.qqgame</item>
+        <item>com.tencent.qqphonebook</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.qqpimsecure</item>
+        <item>com.tencent.map</item>
+        <item>com.tencent.android.qqdownloader</item>
+        <item>com.tencent.qqmusic</item>
+        <item>com.qq.reader</item>
+        <item>com.tencent.qqpinyin</item>
+        <item>com.tencent.qq</item>
+        <item>com.qzone</item>
+    </string-array>
+    <string-array name="update_style_icon">
+        <item>style_icon_market</item>
+        <item>style_icon_web</item>
+    </string-array>
+    <string-array name="update_style_names">
+        <item>Google Play</item>
+        <item>Обозреватель</item>
+    </string-array>
+    <array name="qqnavigation_changyong" />
+    <string-array name="feedback_list_names">
+        <item>Связь</item>
+        <item>Предложение</item>
+        <item>Оценить приложение</item>
+    </string-array>
+    <string-array name="feedback_list_icon">
+        <item>icon_feedback</item>
+        <item>icon_suggest</item>
+        <item>icon_score</item>
+    </string-array>
+    <string-array name="setting_switchapplist_specialeffects_entries">
+        <item>Classic</item>
+        <item>Smooth</item>
+        <item>Fade</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Card</item>
+        <item>Cube</item>
+        <item>Cylinder</item>
+        <item>Wave</item>
+        <item>Roll</item>
+        <item>Random</item>
+    </string-array>
+    <string-array name="setting_switchapplist_specialeffects_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="mid_autumn_wallpapers">
+        <item>theme_midautumn_wallpaper</item>
+    </string-array>
+    <array name="qqnavigation_changyong_link" />
+    <string-array name="qqnavigation_shejiao_link">
+        <item>http://pt.3g.qq.com/s?aid=nLogin3gqq</item>
+        <item>http://z.qq.com/</item>
+        <item>http://ti.3g.qq.com/</item>
+        <item>http://t.sina.cn</item>
+        <item>http://3g.kaixin001.com/</item>
+        <item>http://3g.renren.com/</item>
+    </string-array>
+    <string-array name="qqnavigation_jiaotong_link">
+        <item>http://touch.qunar.com/flight.jsp</item>
+        <item>http://touch.qunar.com/train.jsp</item>
+        <item>http://tools.wap.58.com/bus/index.html</item>
+        <item>http://qq.ip138.com/daishoudian/index.html</item>
+        <item>http://map.wap.soso.com/index.jsp</item>
+        <item></item>
+    </string-array>
+    <string-array name="qqnavigation_yingyin_link">
+        <item>http://3g.youku.com/</item>
+        <item>http://m.tudou.com/</item>
+        <item>http://m.pptv.com/</item>
+        <item></item>
+        <item>http://music.3g.qq.com/</item>
+        <item>http://3g.kugou.com/</item>
+        <item>http://wap.duomi.com/</item>
+        <item></item>
+    </string-array>
+    <string-array name="qqnavigation_meitu_link">
+        <item>http://m.baidu.com/img</item>
+        <item>http://image.wap.soso.com/index.jsp</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="qqnavigation_youxi_link">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="qqnavigation_gouwu_link">
+        <item>http://m.taobao.com</item>
+        <item>http://m.360buy.com/</item>
+        <item>http://qgo.3g.qq.com/</item>
+        <item>http://m.dangdang.com/</item>
+        <item>http://m.tuan.qq.com/</item>
+        <item>http://m.tuan800.com/</item>
+    </string-array>
+    <string-array name="qqnavigation_xinwen_link">
+        <item>http://3g.qq.com/</item>
+        <item>http://3g.sina.com.cn/</item>
+        <item>http://3g.163.com/</item>
+        <item>http://3g.ifeng.com/</item>
+        <item>http://wap.sohu.com/</item>
+        <item>http://wap.people.com.cn/</item>
+    </string-array>
+    <string-array name="qqnavigation_xiaoshuo_link">
+        <item>http://wap.zongheng.com/</item>
+        <item>http://3g.hongxiu.com/</item>
+        <item>http://m.qidian.com/</item>
+        <item>http://3g.17k.com/</item>
+        <item>http://ebook12.3g.qq.com/</item>
+    </string-array>
+    <array name="qqnavigation_changyong_package" />
+    <string-array name="qqnavigation_shejiao_package">
+        <item>com.tencent.mobileqq</item>
+        <item>com.qzone</item>
+        <item>com.tencent.WBlog</item>
+        <item>com.sina.weibo</item>
+        <item>com.kaixin001.activity</item>
+        <item>com.renren.mobile.android</item>
+    </string-array>
+    <string-array name="qqnavigation_jiaotong_package">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>com.tencent.map</item>
+        <item>cn.com.tiros.android.navidog</item>
+    </string-array>
+    <string-array name="qqnavigation_yingyin_package">
+        <item>com.youku.phone</item>
+        <item>com.tudou.android</item>
+        <item>com.pplive.androidphone</item>
+        <item>com.tencent.qqlive</item>
+        <item>com.tencent.qqmusic</item>
+        <item>com.kugou.android</item>
+        <item>com.duomi.android</item>
+        <item>com.xiami</item>
+    </string-array>
+    <string-array name="qqnavigation_meitu_package">
+        <item>com.baidu.wallpaper</item>
+        <item></item>
+        <item>com.tencent.qqphoto</item>
+        <item>com.mt.mtxx.mtxx</item>
+        <item>vStudio.Android.Camera360</item>
+    </string-array>
+    <string-array name="qqnavigation_youxi_package">
+        <item>com.tencent.qqgame</item>
+        <item>org.cocos2dx.FishGame</item>
+        <item>com.halfbrick.fruitninjafree</item>
+        <item>com.rovio.angrybirdsrio</item>
+        <item>com.zeptolab.ctr.paid</item>
+    </string-array>
+    <string-array name="qqnavigation_gouwu_package">
+        <item>com.taobao.taobao</item>
+        <item>com.jingdong.app.mall</item>
+        <item></item>
+        <item>com.dangdang.android</item>
+        <item>com.tencent.groupon</item>
+        <item>com.tuan800.android</item>
+    </string-array>
+    <string-array name="qqnavigation_xinwen_package">
+        <item>com.tencent.news</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>com.sohu.newsclient</item>
+        <item></item>
+    </string-array>
+    <string-array name="qqnavigation_xiaoshuo_package">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>com.chineseall.reader</item>
+        <item>com.qq.reader</item>
+    </string-array>
+    <string-array name="letter_list">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="ranks_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

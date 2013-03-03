@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="260.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="100.0dip">
+        <TextView android:textColor="#ffffffff" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="   Чтобы запустить аудио записи через SMS с поддержкой пароля, вы должны отправить SMS в формате:\n\n   TRK-password-time параметр в секундах (время записи)\n\n   Чтобы начать запись без пароля, используйте:\n\n   TRK--time параметр в секундах\n\n   Пример:\n   TRK-fdhj5-600\nTRK--900" />
+    </ScrollView>
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_record_via_sms_settings_checkbox_password" android:paddingTop="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Запрос пароля" />
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_record_via_sms_settings_checkbox_notification" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Уведомление для сработанных удаленных записей" />
+    <org.appforce.ui.VibratingButton android:id="@id/dialog_record_via_sms_settings_btn_change_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Сменить пароль" style="?android:attr/buttonStyleSmall" />
+    <org.appforce.ui.VibratingButton android:id="@id/dialog_record_via_sms_settings_btn_change_mail" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Изменить емэйл" style="?android:attr/buttonStyleSmall" />
+    <org.appforce.ui.VibratingButton android:id="@id/dialog_record_via_sms_settings_btn_close" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Закрыть" android:layout_weight="1.0" style="?android:attr/buttonStyleSmall" />
+</LinearLayout>

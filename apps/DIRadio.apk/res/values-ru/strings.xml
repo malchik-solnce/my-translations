@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_1">Прослушивание %1$s канала на Digitally Imported. Это здорово.</string>
+    <string name="download_failed">О, нет! Приложение не может подключиться. Пожалуйста, проверьте ваше соединение и попробуйте еще раз.
+
+Вы также можете проверить обновленную версию приложения в Android Маркете</string>
+    <string name="upgrade_tagline">Наслаждайтесь Digitally Imported на максимум!</string>
+    <string name="premium_thank_you">"Спасибо за поддержку Digitally Imported.
+
+Ваш вклад имеет большое значение для нашей работы."</string>
+    <string name="social_share">Наслаждайся %1$s каналом от Digitally Imported на Андроид</string>
+    <string name="track_share">"Слушай %1$s на @diradio's %2$s канал"</string>
+    <string name="i_am_new_account">Создать учетную запись</string>
+    <string name="premium_service_key">di-премиум</string>
+    <string name="tos_warning">Нажимая Регистрация Вы соглашаетесь с &lt;a href=http://www.di.fm/members/tos>Terms of Service&lt;/a> and the &lt;a href=http://www.di.fm/members/privacy>Privacy Policy&lt;/a>.</string>
+    <string name="version">v%1$s (%2$d)</string>
+    <string name="pct_loaded">%1$d%% загружено</string>
+    <string name="retry">Повторить</string>
+    <string name="popular_sort">Популярные</string>
+    <string name="alpha_sort">Буквенный</string>
+    <string name="no_favorites">Вы не добавили еще какие либо каналы в Избранное</string>
+    <string name="no_favorite_shows">Вы не добавили еще какие либо каналы в Избранное. Как только вы это сделаете, шоу на эти каналы появятся здесь</string>
+    <string name="all_channels">Весь список</string>
+    <string name="now_playing">Сейчас звучит</string>
+    <string name="channel_director">Канал директор: %1$s</string>
+    <string name="track_history">История вещения</string>
+    <string name="everyone">Все</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="notices">Notices</string>
+    <string name="community">Онлайн</string>
+    <string name="favorites">Избранное</string>
+    <string name="channels">Каналы</string>
+    <string name="styles">По стилям</string>
+    <string name="all">Все</string>
+    <string name="shows">Шоу</string>
+    <string name="shows_title">Предстоящие шоу</string>
+    <string name="connect_to">Соединение с %1$s</string>
+    <string name="quit">Выход</string>
+    <string name="add_favorite">Добавить в избранное</string>
+    <string name="remove_favorite">Удалить из избранного</string>
+    <string name="move_favorite_up">Вверх</string>
+    <string name="move_favorite_down">Вниз</string>
+    <string name="premium">Премиум</string>
+    <string name="upgrade_title">Переход на премиум</string>
+    <string name="sell_title">Что вы получаете с премиум-классом:</string>
+    <string name="sell_point1">Более высокое качество звука</string>
+    <string name="sell_point2">100% без рекламы музыка</string>
+    <string name="sell_point3">100% без рекламы</string>
+    <string name="sell_point4">Премиум доступ для рабочего стола и других поддерживаемых устройств</string>
+    <string name="lets_go">ВПЕРЕД</string>
+    <string name="premium_members">Премиум члены</string>
+    <string name="login">Логин</string>
+    <string name="cancel">Отмена</string>
+    <string name="forgot">Забыли пароль?</string>
+    <string name="username">Имя:</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirmation">Пароль еще раз :)</string>
+    <string name="unknown_username">Ваше имя пользователя не было найдено</string>
+    <string name="unknown_email">Ваш адрес электронной почты не был найден</string>
+    <string name="reminded_password">"Напоминания пароля было отправлена ​​на ваш зарегистрированный адрес электронной почты
+
+Пожалуйста, добавьте %1$S в белый список спам-фильтра"</string>
+    <string name="reminder_sent">Email отправлен</string>
+    <string name="ok">OK</string>
+    <string name="missing_username">Отсутствует имя пользователя</string>
+    <string name="missing_username_detail">Пожалуйста, введите ваше имя пользователя</string>
+    <string name="remind_failed">Не удалось напомнить</string>
+    <string name="auth_failed">Ваше имя пользователя или пароль неверный</string>
+    <string name="auth_failed_title">Не могу войти</string>
+    <string name="premium_account_status">Ваше Премиум членство:</string>
+    <string name="active">Активный</string>
+    <string name="expired">Истекший</string>
+    <string name="logout">Выйти</string>
+    <string name="please_renew_message">"Мы хотели бы видеть вас, как опорный элемент снова.
+
+Хотели бы вы продлить Премиум сейчас?"</string>
+    <string name="renew_button">ОБНОВИТЬ</string>
+    <string name="now_premium">Все каналы в настоящее время в премиум-качестве</string>
+    <string name="settings">Настройки</string>
+    <string name="cellular">3G</string>
+    <string name="wifi">WiFi</string>
+    <string name="premium_bandwidth_settings">Премиум настройки вещания</string>
+    <string name="basic_bandwidth_settings">Стандартные настройки вещания</string>
+    <string name="autolock">Авто-блокировка экрана</string>
+    <string name="autolock_hint">При выключенном экране будет гореть, но от аккумулятора будет меньше, если не подключен.</string>
+    <string name="bandwidth_hint">Совет: Установите битрэйт ниже, если вы испытываете прерывания звука</string>
+    <string name="power_management">Управление энергопотреблением</string>
+    <string name="email_friend">Email другу</string>
+    <string name="email_2">Проверьте это в: %1$s</string>
+    <string name="email_3">Бесплатные приложения для Android, iPhone и BlackBerry: %1$s</string>
+    <string name="download_here">Скачать можно здесь</string>
+    <string name="reset">Сброс</string>
+    <string name="total_usage">Всего данных полученно:</string>
+    <string name="wifi_usage">WiFi Данные полученные:</string>
+    <string name="wwan_usage">3G/4G Данные полученные:</string>
+    <string name="data_use_details">Подробности данных</string>
+    <string name="twitter_share">Share on Twitter</string>
+    <string name="facebook_share">Share on Facebook</string>
+    <string name="twitter_account">diradio</string>
+    <string name="share_title">Помощь по паролю</string>
+    <string name="share_prompt">Пусть ваши друзья знают о нас на Facebook или Twitter</string>
+    <string name="offers">Смотрите предложения</string>
+    <string name="app_circle_explain">Получи 3-дневную бесплатную услугу Премиум, за опробование нового приложения. Просто скачайте одно из этих приложений, открыть его, а затем вернитесь к премиум в наше приложение.</string>
+    <string name="catalog">Доступные предложения</string>
+    <string name="no_shows_on_favorites">Есть не запланированы шоу на ваши любимые каналы. Попробуйте посмотреть на всех каналах</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">Войти</string>
+    <string name="sign_up_button">Войти</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="email">Email</string>
+    <string name="i_have_account">У меня уже есть аккаунт</string>
+    <string name="submit_failed">Нам не удалось связаться с сервером. Пожалуйста, проверьте ваше интернет-соединение, а затем повторите попытку</string>
+    <string name="thank_you">Спасибо</string>
+    <string name="begin_using">Нажмите кнопку ENTER, чтобы начать использовать наш бесплатный стандартный сервис.</string>
+    <string name="confirmation">"Подтверждение по электронной почте было отправлено на %1$s.
+
+Подтвердите свой аккаунт, чтобы получить пробный период премиум сервиса."</string>
+    <string name="enter">ENTER</string>
+    <string name="sign_in">Вход в аккаунт</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="i_forgot_button">Я забыл свой пароль</string>
+    <string name="password_help">Справка пароля</string>
+    <string name="reset_password">Восст. пароль</string>
+    <string name="forgot_instructions">Пожалуйста, введите адрес электронной почты, который использовали при регистрации</string>
+    <string name="free_trial">7-дневная бесплатная пробная версия</string>
+    <string name="earn_days">ПОЛУЧИТЕ БЕСПЛАТНО PREMIUM</string>
+    <string name="request_trial">ЗАПРОС БЕСПЛАТНОГО ТРИАЛ</string>
+    <string name="trial_activation_failed">Не удалось активировать пробную версию</string>
+    <string name="send_activation_title">Запрос бесплатного триал</string>
+    <string name="send_activation_message">"Ваша учетная запись должна быть активирована до начала Премиум Trial. Хотели бы Вы повторно отправить подтверждение по электронной почте на '%1$s'?"</string>
+    <string name="resend">Переслать</string>
+    <string name="start_trial_now_title">Начать бесплатную пробную версию?</string>
+    <string name="start_trial_now_message">Хотите начать свою 7-дневную бесплатную пробную версию сейчас?</string>
+    <string name="sign_out">Выйти из аккаунта</string>
+    <string name="confirm_sign_out_title">Выйти?</string>
+    <string name="confirm_sign_out_message">Вы уверены, что хотите выйти из системы?</string>
+    <string name="expires_in">У вас %1$s оставшихся дней</string>
+    <string name="sleep_timer">Спящий режим</string>
+    <string name="update_now">Обновить</string>
+    <string name="continue_title">Продолжить</string>
+</resources>

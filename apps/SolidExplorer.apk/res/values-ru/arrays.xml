@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_formats">
+        <item>21-6–2012</item>
+        <item>21.6.2012</item>
+        <item>6-21–2012</item>
+        <item>2012–21–6</item>
+        <item>2012–6–21</item>
+        <item>21 Июня, 2012</item>
+        <item>21. Июня, 2012</item>
+        <item>12 Сен, 2012</item>
+        <item>12. Сен, 2012</item>
+        <item>Июнь 21, 2012</item>
+        <item>Сен 12, 2012</item>
+        <item>Ср 12 Сен, 2012</item>
+        <item>Ср 12. Сен, 2012</item>
+        <item>Ср Сен 12, 2012</item>
+    </string-array>
+</resources>

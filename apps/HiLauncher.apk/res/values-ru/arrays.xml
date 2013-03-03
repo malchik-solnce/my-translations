@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>demo.</item>
+    </string-array>
+    <string-array name="picture_suffixs">
+        <item>.jpg</item>
+        <item>.jpeg</item>
+        <item>.bmp</item>
+        <item>.png</item>
+        <item>.gif</item>
+    </string-array>
+    <string-array name="custom_wallpaper_select_dialog_operate_type">
+        <item>Выберите обои</item>
+    </string-array>
+    <string-array name="shop_theme_category_id">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="shop_theme_category_name">
+        <item>Game</item>
+        <item>Love</item>
+        <item>Star</item>
+        <item>Nature</item>
+        <item>Animals</item>
+        <item>Cars</item>
+        <item>Arts</item>
+        <item>Cool</item>
+        <item>Sports</item>
+        <item>City</item>
+        <item>Holiday</item>
+    </string-array>
+    <string-array name="shop_theme_hot_search_keyword">
+        <item>Kitty</item>
+        <item>Simple</item>
+        <item>Jackson</item>
+        <item>Snoopy</item>
+        <item>Monkey</item>
+        <item>Harry</item>
+        <item>Beauty</item>
+    </string-array>
+    <string-array name="workspace_screens_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="select_dialog_widget_skin_operate_type">
+        <item>Применить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="setting_theme_interval_entries">
+        <item>Каждые восемь часов</item>
+        <item>Каждые двенадцать часов</item>
+        <item>Каждый день</item>
+        <item>Каждые два дня</item>
+    </string-array>
+    <string-array name="setting_theme_interval_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="dialog_icon_sort">
+        <item>Сортировать по эффектам</item>
+        <item>По названию А-Z</item>
+        <item>По названию Z-A</item>
+        <item>Сортировать по времени установки рание-последние</item>
+        <item>Сортировать по времени установки последние-рание</item>
+    </string-array>
+    <string-array name="special_desk_effect_entries">
+        <item>Дефолт</item>
+        <item>Куб</item>
+        <item>Вращать</item>
+        <item>Волна</item>
+        <item>Сальто</item>
+        <item>Отскок</item>
+        <item>Бумага</item>
+        <item>Двойная звезда</item>
+        <item>Колесница</item>
+        <item>Случайный</item>
+    </string-array>
+    <string-array name="special_desk_effect_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="special_effect_entries">
+        <item>Дефолт</item>
+        <item>Куб</item>
+        <item>Вращать</item>
+        <item>Волна</item>
+        <item>Сальто</item>
+        <item>Отскок</item>
+        <item>Бумага</item>
+        <item>Двойная звезда</item>
+        <item>Колесница</item>
+        <item>Случайный</item>
+    </string-array>
+    <string-array name="special_effect_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="shake_a_shake_entries">
+        <item>Закрыть</item>
+        <item>Изменить тему</item>
+        <item>Запуск приложения</item>
+    </string-array>
+    <string-array name="shake_a_shake_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="shake_a_shake_sway_entries">
+        <item>Чувствительно</item>
+        <item>Умеренно-</item>
+        <item>Умеренно</item>
+        <item>Умеренно+</item>
+        <item>Сильно</item>
+    </string-array>
+    <string-array name="shake_a_shake_sway_values">
+        <item>150</item>
+        <item>175</item>
+        <item>200</item>
+        <item>225</item>
+        <item>250</item>
+    </string-array>
+    <string-array name="memory_clean_date_format_entries">
+        <item>12 часовой стиль</item>
+        <item>24 часовой стиль</item>
+    </string-array>
+    <string-array name="memory_clean_date_format_values">
+        <item>12</item>
+        <item>24</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+    <string-array name="setting_quick_search_show_item">
+        <item>Всегда показывать</item>
+        <item>Слайдшоу</item>
+        <item>Всегда скрывать</item>
+    </string-array>
+</resources>

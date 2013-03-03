@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_horizontal" android:id="@id/activity_records_order_by" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_records_order_by" />
+    <LinearLayout android:orientation="vertical" android:id="@id/activity_records_order_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/activity_records_order_by">
+        <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingButton android:id="@id/activity_records_order_by_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_records_order_by_name" android:minLines="2" android:layout_weight="1.0" />
+            <org.appforce.ui.VibratingButton android:id="@id/activity_records_order_by_duration" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_records_order_by_duration" android:minLines="2" android:layout_weight="1.0" />
+            <org.appforce.ui.VibratingButton android:id="@id/activity_records_order_by_creation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_records_order_by_creation" android:minLines="2" android:layout_weight="1.0" />
+        </LinearLayout>
+        <AutoCompleteTextView android:id="@id/activity_records_search" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/records_marker_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <org.appforce.ui.VibratingButton android:id="@id/records_marker_done" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/done" android:layout_weight="1.0" />
+        <org.appforce.ui.VibratingButton android:id="@id/records_marker_all" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/all" android:layout_weight="1.0" />
+        <org.appforce.ui.VibratingButton android:id="@id/records_marker_cancel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_weight="1.0" />
+    </LinearLayout>
+    <ListView android:id="@id/records_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scrollingCache="false" android:layout_above="@id/records_marker_container" android:layout_below="@id/activity_records_order_container" />
+</RelativeLayout>

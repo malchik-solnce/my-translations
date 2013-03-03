@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="music_main_screen_list">
+        <item>Плейлисты</item>
+        <item>Исполнители</item>
+        <item>Альбомы</item>
+        <item>Музыка</item>
+        <item>Жанры</item>
+        <item>Популярные</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_values">
+        <item>descending</item>
+        <item>ascending</item>
+    </string-array>
+    <string-array name="pref_crossfading_entries">
+        <item>Отключено</item>
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+    </string-array>
+    <string-array name="pref_crossfading_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="pref_recently_ad_choices">
+        <item>Последняя сессия сканирования</item>
+        <item>Последние 2 недели</item>
+        <item>Последние 2 месяца</item>
+    </string-array>
+    <string-array name="pref_recently_ad_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_choices">
+        <item>Сначала новые</item>
+        <item>Новые последние</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_choices">
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_choices">
+        <item>Вход и выход</item>
+        <item>Слайд влево - вправо</item>
+        <item>Слайд вверх - вниз</item>
+        <item>Случайный выбор</item>
+        <item>Без эффекта</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_dmgr_activeDownloads_choices">
+        <item>Одна</item>
+        <item>Две</item>
+        <item>Три</item>
+        <item>Четыре</item>
+        <item>Пять</item>
+    </string-array>
+    <string-array name="pref_dmgr_activeDownloads_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="equalzier_custom_name">
+        <item>Мой 1</item>
+        <item>Мой 2</item>
+        <item>Мой 3</item>
+    </string-array>
+    <string-array name="equalizer_presetlist">
+        <item>Acoustic</item>
+        <item>Bass Booster</item>
+        <item>Bass Reducer</item>
+        <item>Classical</item>
+        <item>Dance</item>
+        <item>Electronic</item>
+        <item>Flat</item>
+        <item>Hip Hop</item>
+        <item>Jazz</item>
+        <item>Latin</item>
+        <item>Loudness_1</item>
+        <item>Loudness_2</item>
+        <item>Lounge</item>
+        <item>Piano</item>
+        <item>Pop</item>
+        <item>R&amp;amp;B</item>
+        <item>Rock</item>
+        <item>Small Speakers</item>
+        <item>Spoken Word</item>
+        <item>Treble Booster</item>
+        <item>Treble Reducer</item>
+        <item>Voice</item>
+    </string-array>
+    <string-array name="dm_dn_status">
+        <item>" "</item>
+        <item>Не запущено</item>
+        <item>Загружается</item>
+        <item>Приостановлено</item>
+        <item>Завершено</item>
+        <item>Отменено</item>
+        <item>Не удалось</item>
+        <item>Остановлено</item>
+    </string-array>
+</resources>

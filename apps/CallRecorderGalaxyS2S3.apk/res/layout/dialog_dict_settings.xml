@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="260.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_dict_settings_notification_on" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Показывать уведомления записи" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Постоянное уведомление начала/остановки записи диктофона" />
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_dict_settings_auto_start_on" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Автозапуск записи" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Автоматический запуск записи нового вызова" />
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_dict_settings_auto_stop_on" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Автоостановка записи" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Автоматичекая остановка записи после вызова" />
+    <org.appforce.ui.VibratingButton android:id="@id/dialog_dict_save_changes" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Сохранить" />
+</LinearLayout>

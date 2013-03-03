@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/frame" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="10.0px" android:textStyle="bold" android:id="@id/widget_text" android:paddingLeft="4.0px" android:paddingRight="4.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Служба записи:" />
+    <ImageButton android:id="@id/button_on_off" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/button_off" />
+</LinearLayout>

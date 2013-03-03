@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio_output_device">Выходное устройство</string>
+    <string name="audio_output_mode">Режим выхода</string>
+    <string name="menu_add_to_preset">Добавить в пресеты</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_record_start">Начать запись</string>
+    <string name="menu_record_stop">Остановить запись</string>
+    <string name="button_ok">OK</string>
+    <string name="error_sdcard_access">Нет доступа к SD-карте</string>
+    <string name="fm_service_started">FM Service</string>
+    <string name="menu_sleep">Таймер</string>
+    <string name="menu_sleep_cancel">Отменить таймер сна</string>
+    <string name="menu_wired_headset">Проводная гарнитура</string>
+    <string name="menu_spkr">Динамик</string>
+    <string name="menu_hdst">Наушники</string>
+    <string name="menu_scan_start">Сканировать</string>
+    <string name="menu_scan_stop">Остановить поиск</string>
+    <string name="button_text_stop">Стоп</string>
+    <string name="msg_seeking">Поиск FM-станции</string>
+    <string name="msg_scanning">Сканирование всех FM станций</string>
+    <string name="msg_scanning_pty">Сканирование для</string>
+    <string name="msg_search_title">FM -</string>
+    <string name="msg_searching">Поиск станций с сильным сигналом для создания заданного списка</string>
+    <string name="msg_searching_title">Автом. выбор пресетов</string>
+    <string name="msg_noantenna">Пожалуйста, подключите гарнитуру для использования FM-радио</string>
+    <string name="dialog_sleep_title">Выберите время автоотключения</string>
+    <string name="presetlist_select_name">Выбрано %1$s</string>
+    <string name="presetlist_add_new">Добавить список</string>
+    <string name="dialog_presetlist_title">Список пресетов</string>
+    <string name="presetlist_prefix_name">LIST-</string>
+    <string name="dialog_presetlist_rename_title">Введите имя</string>
+    <string name="dialog_preset_rename_title">Введите имя</string>
+    <string name="presetlist_delete_name">Удалить список %1$s и станции?</string>
+    <string name="presetlist_autoselect_title">Подтвердите автом. выбор</string>
+    <string name="presetlist_autoselect_name">Автоматический выбор удалит все пресеты в списке %1$s. Продолжить?</string>
+    <string name="enter_frequency">Настроиться на станцию</string>
+    <string name="enter_new_frequency_title">Введите частоту</string>
+    <string name="preset_now_playing">Проигрывается</string>
+    <string name="preset_delete_title">Удалить предустановку</string>
+    <string name="preset_search_title">Поиск</string>
+    <string name="preset_empty_title">Нет станций в списке</string>
+    <string name="preset_empty_add_summary">Добавить станции</string>
+    <string name="preset_add">Добавить</string>
+    <string name="preset_replace">Заменить</string>
+    <string name="preset_tune">Настроить</string>
+    <string name="preset_rename">Переименовать</string>
+    <string name="preset_delete">Удалить</string>
+    <string name="preset_search">Поиск для %1$s</string>
+    <string name="settings_menu">Настройки</string>
+    <string name="region">Региональная группа</string>
+    <string name="record_dur">Длительность записи</string>
+    <string name="auto_select_af">Альтернативные частоты</string>
+    <string name="auto_select_af_enabled">Автоматический выбор включен</string>
+    <string name="auto_select_af_disabled">Автоматический выбор отключен</string>
+    <string name="fac_defaults">Возврат к заводским установкам</string>
+    <string name="revert_to_fac">Возврат к заводским установкам</string>
+    <string name="settings_back">Назад</string>
+    <string name="factory_reset_confirm_title">Подтвердите сброс настроек</string>
+    <string name="factory_reset_confirm_msg">Это удалит все настройки, продолжить?</string>
+    <string name="settings_back_summary">Возвр. к предыдущему виду</string>
+    <string name="settings_revert_defaults_title">Возврат к заводским установкам</string>
+    <string name="settings_revert_defaults_summary">Сбросить все настройки</string>
+    <string name="aud_stereo">Стерео</string>
+    <string name="aud_mono">Моно</string>
+    <string name="station_move">Переместить</string>
+    <string name="station_edit">Изменить</string>
+    <string name="delete_station_title">Удаление</string>
+    <string name="find_af_station">Найти</string>
+    <string name="menu_add_list">Добавить список</string>
+    <string name="menu_rename_list">Переименовать список</string>
+    <string name="menu_reorder_list">Пересортировать список</string>
+    <string name="menu_scan_for_preset">Сканирование для пресетов</string>
+    <string name="menu_delete_list">Удалить список</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Отмена</string>
+    <string name="search_dialog_title">Сканирование станций</string>
+    <string name="search_category">Выберите тип поиска</string>
+    <string name="search_category_title">Тип поиска</string>
+    <string name="search_category_tune">Настроить</string>
+    <string name="search_category_type">Выберите поиск по типу программы</string>
+    <string name="search_category_type_title">Поиск по типу программы</string>
+    <string name="presets_back">Назад</string>
+    <string name="presets_back_summary">Вернуться к предыдущему виду</string>
+    <string name="nav_mode_presets">Предустановки</string>
+    <string name="nav_mode_stations">Станции</string>
+    <string name="fm_command_timeout_title">Тайм-аут</string>
+    <string name="fm_tune_timeout_msg">Не получено ответа для настройки FM-станции. Если проблема не устранена, пожалуйста, выключите и включите радио снова.</string>
+    <string name="fm_command_failed_title">Сбой FM операции</string>
+    <string name="fm_cmd_failed_msg">FM операция не удалась. Если проблема не устранена, пожалуйста, выключите и включите радио снова.</string>
+    <string name="fm_antenna_title">Нужна гарнитура</string>
+    <string name="fm_antenna_msg">"Для лучшего приема, подключите гарнитуры (антенна) нажмите OK и кнопку Питания.
+
+  Чтобы отключить эту проверку, выберите Меню -> Настройки -> Интерфейс -> Антенна -> Отключить проверки."</string>
+    <string name="fm_cmd_failed_msg_hdmi">FM operation failed. FM &amp; HDMI concurrency is not supported.</string>
+    <string name="stop_scanning">Остановить сканирование</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">My FM recordings</string>
+    <string name="audio_db_album_name">FM recordings</string>
+    <string name="audio_db_playlist_name">FM recordings</string>
+    <string name="dialog_freqset_title">Введите частоту</string>
+    <string name="root_warn_msg">"Телефон должен обладать Root правами, для корректной работы приложения. Я не рекомендую это для среднего пользователя.
+
+  Свяжитесь со мной в любое время, чтобы отменить заказ.
+
+"</string>
+    <string name="gals_alsa_warn_msg">"9 августа: ВНИМАНИЕ!
+
+  1 год после ее создания, аудио этот метод все еще может убить динамики на некоторых аппаратных изменений.
+
+  После 300-400 часов исследования и работы я не могу точно определить источник или лечение.
+
+  21 апреля: Это аудио метода производится 21 доклад повреждения динамиков и и была вновь включена из-за спроса.
+
+  Я оцениваю это повлияло на 1-5 процентов пользователей Galaxy S на ICS.
+
+  Все доклады пришли из относительно новых пользователей у меня не было контакта с предыдущей, так что если вы уже использовали этот метод раньше, я подозреваю, что риск минимален.
+
+  Если вы берете на себя полную ответственность за риск, и обещаете не сердиться на меня - нажмите кнопку ОК.
+
+  Если вы сердитесь, или думаете, что что-то не так с моими навыками разработки программного обеспечения, пожалуйста, скажите на милость, мне относятся к секретным документ с подробным том, как безопасно включить FM звук через ALSA управления Galaxy S. AFAICT, нет ни одного. Да, я читал код для различных аудио-библиотекам, и ALSA драйверами, много раз, и хотя попытки 4 марта, казалось, был сладким виртуальную копию CM7 аудио LIB, по крайней мере, еще один человек сообщил о проблеме после 4 марта.
+
+  Это только происходит на некоторых старых аппаратных изменений с первых дней Галс высоких темпов дефект? Возможно, но я не знаю.
+
+  Ringer/Buzzer колонки доступны на Ebay новые за $6 или $8 отремонтированы поставляется из США в США.
+
+  Пожалуйста, см. мой пост на XDA для дальнейшей информации, ссылок и инструкции по замене динамика для смелых сделать это своими руками.
+
+"</string>
+    <string name="new_about_msg">"Это не одноразовое приложение, где Вы можете прослушать все станции за несколько дней. Сколько часов вы проведете прослушивая радио в ближайшие 20+ лет?
+
+  Сколько можно сэкономить данных при бесплатном прослушивании этого радио по сравнению с потоковым?
+
+  Google отказывается поддерживать FM-радио, они не имеют разработчика ресурсов.
+
+ Нажмите \"Unlocked\" чтобы купить Spirit FM Unlocked и поддержку развития проекта.
+
+ Нажмите \"Light\" чтобы купить Spirit FM Light.
+
+ Spirit сейчас работает на большинстве устройствах, поддерживающих FM-радио. Purchases are valid for 20+ years on as many devices as you own or will own.
+
+ See Market Recent Changes for my take on CNet article \"We're not paying enough for apps\".
+
+ Light &amp; Unlocked include:
+
+ - Lifetime technical support for as many devices as you own &amp; questions you have.
+
+ - Stereo, Mono &amp; alternative settings.
+
+ - Mute &amp; Speaker support.
+
+ - 6 nameable presets.
+
+ - Status Bar &amp; Notification window.
+
+ - Sleep function, Test functions, Email Logs, UI settings &amp; RSSI graphic.
+
+ - And many more Light &amp; Unlocked exclusive features to come !
+
+ Unlocked adds:
+
+ - Enhanced technical support and attention to feature requests.
+
+ - RDS song info etc: RT, PS, PTY, PI &amp; AF (RadioText, Program Service, Type, ID &amp; Alternate Frequency).
+
+ - Unlimited Preset lists &amp; nameable presets.
+
+ - Landscape mode, forced or automatic.
+
+ - Media button &amp; CM lockscreen support for mute, volume &amp; frequency.
+
+ - All UI settings, including antenna &amp; station ID.
+
+ - And many more Unlocked exclusive features to come !
+
+ Spirit supports Broadcom &amp; Texas Instruments FM/BT/WiFi combo chips, as well as Silicon Labs chips on.
+
+ On startup, Spirit attempts to enable FM. Bluetooth power may be toggled.
+
+ ..
+
+ ..
+
+ Spirit FM is Copyright (c) 2011-2012 Michael A. Reid. Все права защищены навечно..
+
+ Спасибо ! :)
+
+"</string>
+    <string name="copyright_msg">Spirit FM is Copyright (c) 2011-2012 Michael A. Reid. Все права защищены.</string>
+    <string name="free_about_msg">"This is not a throwaway game app you play for a few days. How many hours will you spend listening to FM in the next 20+ years ?
+
+ How much can you save on data plans by listening to free, over the air radio versus streaming ?
+
+ Google refuses to support FM &amp; claims they lack the dev resources.
+
+ Press \"Unlocked\" to buy the fully featured Spirit FM Unlocked &amp; support independent development.
+
+ Press \"Light\" to buy Spirit FM Light.
+
+ Spirit now runs on most FM capable devices. Purchases are valid for 20+ years on as many devices as you own or will own.
+
+ Light &amp; Unlocked include:
+
+ - Lifetime technical support for as many devices as you own &amp; questions you have.
+
+ - Stereo, Mono &amp; alternative settings.
+
+ - Mute &amp; Speaker support.
+
+ - 6 nameable presets.
+
+ - Status Bar &amp; Notification window.
+
+ - Sleep function, Test functions, Email Logs, UI settings &amp; RSSI graphic.
+
+ - And many more Light &amp; Unlocked exclusive features to come !
+
+ Unlocked adds:
+
+ - Enhanced technical support and attention to feature requests.
+
+ - RDS song info etc: RT, PS, PTY, PI &amp; AF (RadioText, Program Service, Type, ID &amp; Alternate Frequency).
+
+ - Unlimited Preset lists &amp; nameable presets.
+
+ - Landscape mode, forced or automatic.
+
+ - Media button &amp; CM lockscreen support for mute, volume &amp; frequency.
+
+ - All UI settings, including antenna &amp; station ID.
+
+ - And many more Unlocked exclusive features to come !
+
+ Spirit supports Broadcom &amp; Texas Instruments FM/BT/WiFi combo chips, as well as Silicon Labs chips on Samsungs.
+
+ On startup, Spirit attempts to enable FM. Bluetooth power may be toggled.
+
+ Broadcom chips can be used with BT off. Startup time is usually under 10 seconds.
+
+ The User Interface &amp; all aspects of this app are continuously being improved.
+
+ Spirit FM is Copyright (c) 2011-2012 Michael A. Reid. All rights reserved.
+
+ Thank you ! :)
+
+"</string>
+    <string name="light_about_msg">"Thank you for purchasing Spirit FM Light. Your support is essential to ongoing improvement of this app.
+
+ This is not a throwaway game app you play for a few days. How many hours will you spend listening to FM in the next 20+ years ?
+
+ How much can you save on data plans by listening to free, over the air radio versus streaming ?
+
+ Google refuses to support FM &amp; claims they lack the dev resources.
+
+ Press \"Light\" to see the Market listing &amp; add a review, +1 or whatever.
+
+ Press \"Unlocked\" to buy the fully featured Spirit FM Unlocked &amp; support independent development.
+
+ Spirit now runs on most FM capable devices. Purchases are valid for 20+ years on as many devices as you own or will own.
+
+ Light &amp; Unlocked include:
+
+ - Lifetime technical support for as many devices as you own &amp; questions you have.
+
+ - Stereo, Mono &amp; alternative settings.
+
+ - Mute &amp; Speaker support.
+
+ - 6 nameable presets.
+
+ - Status Bar &amp; Notification window.
+
+ - Sleep function, Test functions, Email Logs, UI settings &amp; RSSI graphic.
+
+ - And many more Light &amp; Unlocked exclusive features to come !
+
+ Unlocked adds:
+
+ - Enhanced technical support and attention to feature requests.
+
+ - RDS song info etc: RT, PS, PTY, PI &amp; AF (RadioText, Program Service, Type, ID &amp; Alternate Frequency).
+
+ - Unlimited Preset lists &amp; nameable presets.
+
+ - Landscape mode, forced or automatic.
+
+ - Media button &amp; CM lockscreen support for mute, volume &amp; frequency.
+
+ - All UI settings, including antenna &amp; station ID.
+
+ - And many more Unlocked exclusive features to come !
+
+ Spirit supports Broadcom &amp; Texas Instruments FM/BT/WiFi combo chips, as well as Silicon Labs chips on Samsungs.
+
+ On startup, Spirit attempts to enable FM. Bluetooth power may be toggled.
+
+ Broadcom chips can be used with BT off. Startup time is usually under 10 seconds.
+
+ The User Interface &amp; all aspects of this app are continuously being improved.
+
+ Spirit FM is Copyright (c) 2011-2012 Michael A. Reid. All rights reserved.
+
+ Thank you ! :)
+
+"</string>
+    <string name="ul_about_msg">"Спасибо за покупку Spirit FM Unlocked. Your support is essential to ongoing improvement of this app.
+
+ Нажмите \"Unlocked\" to see the Market listing &amp; add a review, +1 or whatever.
+
+ Spirit now runs on most FM capable devices. Purchases are valid for 20+ years on as many devices as you own or will own.
+
+ Light &amp; Unlocked include:
+
+ - Lifetime technical support for as many devices as you own &amp; questions you have.
+
+ - Stereo, Mono &amp; alternative settings.
+
+ - Mute &amp; Speaker support.
+
+ - 6 nameable presets.
+
+ - Status Bar &amp; Notification window.
+
+ - Sleep function, Test functions, Email Logs, UI settings &amp; RSSI graphic.
+
+ - And many more Light &amp; Unlocked exclusive features to come !
+
+ Unlocked adds:
+
+ - Enhanced technical support and attention to feature requests.
+
+ - RDS song info etc: RT, PS, PTY, PI &amp; AF (RadioText, Program Service, Type, ID &amp; Alternate Frequency).
+
+ - Unlimited Preset lists &amp; nameable presets.
+
+ - Landscape mode, forced or automatic.
+
+ - Media button &amp; CM lockscreen support for mute, volume &amp; frequency.
+
+ - All UI settings, including antenna &amp; station ID.
+
+ - And many more Unlocked exclusive features to come !
+
+ Spirit supports Broadcom &amp; Texas Instruments FM/BT/WiFi combo chips, as well as Silicon Labs chips on Samsungs.
+
+ On startup, Spirit attempts to enable FM. Bluetooth power may be toggled.
+
+ Broadcom chips can be used with BT off. Startup time is usually under 10 seconds.
+
+ The User Interface &amp; all aspects of this app are continuously being improved.
+
+ Spirit FM is Copyright (c) 2011-2012 Michael A. Reid. All rights reserved.
+
+ Thank you ! :)
+
+"</string>
+    <string name="free_intro_msg">"Новые пользователи: специальные настройки не требуется на многих телефонах. Пожалуйста, напишите мне если Вам нужна помощь.
+
+ Spirit FM Free в настоящее время ограничены возиожности основных настроек, громкости и настроек. Звук только моно.
+
+ Нажмите ОК для получения дополнительной информации и покупки Spirit FM Light или Unlocked.
+
+ Пожалуйста, прокрутите вниз, чтобы читать дальше, или...
+
+ - Нажмите OK, чтобы отключить это введение. Для доступа в дальнейшем используйте Меню-> Помощь-> Введение.
+
+ - Нажмите кнопку Назад, чтобы предотвратить автоматический запуск, для того, чтобы повторно настроить и решить проблемы при запуске.
+
+ Spirit ТОЛЬКО FM приложения поддерживают многие устройства, чипсы, API и диски и был первым на Android 4 ICS.
+
+ Spirit сейчас работает на большинстве устройств, поддерживающих FM. Закупки действительны в течение 20 с лишним лет, как на многих устройствах, как вы самостоятельно или будет владеть.
+
+ К сожалению, Spirit все еще не может работать на многих устройствах, особенно последних единиц американского рынка.
+
+ Пожалуйста, не downrate Духа, если он не работает на вашем устройстве. Или электронной почте Ваша модель # и я удалить его из списка, если это необходимо.
+
+ Есть очень мало реальных FM приложений на рынке из-за сложности инженерного секреты компании скрывают.
+
+ Я просто один человек, который пытается делать то, что Google заявили, что они не имеют силы, чтобы сделать, LOL.
+
+ Spirit FM не является одноразовым приложением, которое Вы можете прослушать за несколько дней. Сколько часов Вы проведете прослушивая радио в ближайшие 20+ лет?
+
+ Сколько можно сэкономить данных и денег, слушая это радио бесплатно, по сравнению с потоковым?
+
+ Хотя я стараюсь, чтобы Spirit FM был безопасным и приятным, как только можно, Вы решаете, покупать ли приложение с его ценой или нет.
+
+ Пользовательский интерфейс и все аспекты этого приложения постоянно совершенствуется.
+
+ Для полных или усовершенствованных функций, пожалуйста, нажмите OK, чтобы приобрести Spirit FM Unlocked или Light и помочь продолжить это развитие.
+
+ СПАСИБО! ... :)
+
+"</string>
+    <string name="light_intro_msg">"Новые пользователи: специальные настройки не требуется на многих телефонах. Пожалуйста, напишите мне если Вам нужна помощь.
+
+ Благодарим Вас за покупку Spirit FM Unlocked. Ваша поддержка необходима для постоянного совершенствования этого приложения.
+
+ Пожалуйста, прокрутите вниз, чтобы читать дальше, или...
+
+ - Нажмите OK, чтобы отключить это введение. Для доступа в дальнейшем используйте Меню-> Помощь-> Введение.
+
+ - Нажмите кнопку Назад, чтобы предотвратить автоматический запуск, для того, чтобы повторно настроить и решить проблемы при запуске.
+
+ Если у Вас есть установленные бесплатная или легкая версии приложения, Вы можете удалить их, чтобы освободить некоторое пространство и избежать путаницы. Как правило, лучше не запускать обе программы одновременно.
+
+ Разблокированное приложение можно отличить по иконке антенны, она находится справа, в том числе и в области уведомлений. В бесплатной или лайт версии иконки остались слевой стороны.
+
+ Spirit FM не является одноразовым приложением, которое Вы можете прослушать за несколько дней. Сколько часов Вы проведете прослушивая радио в ближайшие 20+ лет?
+
+ Сколько можно сэкономить данных и денег, слушая это радио бесплатно, по сравнению с потоковым?
+
+ Хотя я стараюсь, чтобы Spirit FM был безопасным и приятным, как только можно, Вы решаете, покупать ли приложение с его ценой или нет.
+
+ Пользовательский интерфейс и все аспекты этого приложения постоянно совершенствуется.
+
+ СПАСИБО! ... :)
+
+"</string>
+    <string name="ul_intro_msg">"Новые пользователи: специальные настройки не требуется на многих телефонах. Пожалуйста, напишите мне если Вам нужна помощь.
+
+ Благодарим Вас за покупку Spirit FM Unlocked. Ваша поддержка необходима для постоянного совершенствования этого приложения.
+
+ Пожалуйста, прокрутите вниз, чтобы читать дальше, или...
+
+ - Нажмите OK, чтобы отключить это введение. Для доступа в дальнейшем используйте Меню-> Помощь-> Введение.
+
+ - Нажмите кнопку Назад, чтобы предотвратить автоматический запуск, для того, чтобы повторно настроить и решить проблемы при запуске.
+
+ Если у Вас есть установленные бесплатная или легкая версии приложения, Вы можете удалить их, чтобы освободить некоторое пространство и избежать путаницы. Как правило, лучше не запускать обе программы одновременно.
+
+ Разблокированное приложение можно отличить по иконке антенны, она находится справа, в том числе и в области уведомлений. В бесплатной или лайт версии иконки остались слевой стороны.
+
+ Spirit FM не является одноразовым приложением, которое Вы можете прослушать за несколько дней. Сколько часов Вы проведете прослушивая радио в ближайшие 20+ лет?
+
+ Сколько можно сэкономить данных и денег, слушая это радио бесплатно, по сравнению с потоковым?
+
+ Хотя я стараюсь, чтобы Spirit FM был безопасным и приятным, как только можно, Вы решаете, покупать ли приложение с его ценой или нет.
+
+ Пользовательский интерфейс и все аспекты этого приложения постоянно совершенствуется.
+
+ СПАСИБО! ... :)
+
+"</string>
+    <string name="settings_msg">"Press the Menu button &amp; then select Settings for these options:
+
+ Regional Band:
+ Default is North America. Select your Country or Region. Sets frequency range, channel spacing, RDS / RBDS, &amp; emphasis.
+
+ Audio Settings:
+ Method:
+ Default CyanogenMod for CM7 etc. If speaker or headset audio doesn't work, select each Audio Method in sequence until it works.
+
+ You don't need to leave the Settings screen. Volume is set to 80% &amp; speaker/headset mode is toggled for testing.
+
+ If none of the Audio Methods works, your device or ROM is not yet supported. Sorry ! Hopefully soon...
+
+ Output Device:
+ Headset or Speaker. On a few devices, only one output device can be enabled at this time.
+
+ Output Mode:
+ Blend (default), Switch, Stereo or Mono. Mono reduces noise with weak signals. Speaker mode is always Mono.
+
+ Spirit FM Free supports forced stereo mode only.
+
+ Volume Scale:
+ Default 100. Set to 5 - 20 if volume is too loud.
+
+ Volume Control Stream:
+ Default 3 (Music) is best. May be useful on some stock ROMs that use an FM specific audio stream.
+
+ User Interface Settings:
+ RDS:
+ On or off. Spirit FM Unlocked only. Off may save some power when not needed. Power cycle may be required.
+
+ Theme:
+ Default/Black, Light (inverse) or Translucent. Light may be useful in bright light. App restart required.
+
+ Orientation:
+ Portrait, Landscape or Automatic. Light may be useful in bright light. Spirit FM Unlocked only. App restart required.
+
+ Antenna:
+ Startup Warning, Disable Check, Startup Require, Monitor &amp; Mute or Monitor &amp; Off. The last appears broken. App restart required.
+
+ Media Buttons Prev + Next:
+ Volume, Seek or Disabled. Spirit FM Unlocked only.
+
+ Media Buttons Pause/Play:
+ Mute/Unmute, Disabled, Volume Up or Seek Up. Spirit FM Unlocked only.
+
+ Station ID:
+ Automatic, RDS PI, Callsign, Name or None. Name &amp; ? not working at present. Spirit FM Unlocked only.
+
+ Custom Elements:
+ Disable or Enable the Settings->UI Elements options. Disable may improve startup speed.
+
+ Automatic Seek:
+ When frequency graphic is touched (or dragged on MIUI), automatically seek to the next station.
+
+ Radiotext Web Search:
+ Initiates a web search for the contents of the RDS RadioText Screen Area. Eg. Provide links to song lyrics etc.
+
+ Bold Presets:
+ Enable or disable Bold text on Preset buttons.
+
+ Display XXX, Frequency XXX, Preset XXX, Mode Buttons:
+ Enable or disable various elements of the User Interface. Restart app after changes. Can remove un-needed buttons etc. such as Preset Buttons 1 on the free app.
+
+ UI Elements Settings:
+ A relatively complex set of User Interface customizations that allows changing background &amp; text colors, text size, button rounding &amp; relative sizes.
+ See: http://forum.xda-developers.com/showpost.php?p=19332582&amp;postcount=1611 
+ And: http://forum.xda-developers.com/showpost.php?p=21407305&amp;postcount=2062 
+ Also: http://forum.xda-developers.com/showpost.php?p=21631594&amp;postcount=2096 
+
+ Alternate Frequency Settings:
+ Spirit FM Unlocked only for all AF settings.
+
+ AF Mode:
+ Disabled, Manual, RDS or RDS+Region. ...See: http://forum.xda-developers.com/showpost.php?p=19711845&amp;postcount=1707 
+
+ Debug Settings:
+ This is where Not ready for prime time options go, sometimes possibly indefinitely. Some are difficult to explain or understand. :)
+ Most of these require app restart to work...
+
+ :
+ 
+
+"</string>
+    <string name="display_msg">"Spirit FM Unlocked adjusts to portrait &amp; landscape. At top (or left) is the \"Display\" area.
+
+ 1st row: Left: RSSI (signal strength) &amp; 4 bar graphic.
+
+ 2nd row: Graphic frequency indicator &amp; control. Red needle shows current frequency 87.5-108 MHz.
+
+ Press or drag needle to set frequency &amp; seek up to next strong station.
+
+ 3rd row: Middle: 8 characters RDS Program Service. May show song &amp; artist info.
+
+ Left: RDS Program ID. Right: RDS Program Type (News, Rock, etc.)
+
+ Program ID is a 5 digit number to uniquely identify a station within a continent. US values mapped to callsigns (eg WKBW). Numeric values may be cleared 20 seconds after tuning.
+
+ 4th row: Graphic fine tune thumbwheel.
+
+ Full drag moves 1 MHz. Drag needs to start a bit inside the image.
+
+ 5th row: Graphic volume indicator &amp; control. Indicator shows current volume 0 - 100.
+
+ Press or drag to set volume. 6th row: RDS RadioText. At power-up contains debug info (\"FM:...\").
+
+ RadioText is 64 characters. Often contains artist &amp; song name, etc.
+
+ RDS is error prone &amp; some RDS encoders are unusual. This can result in errors.
+
+"</string>
+    <string name="state_controls_msg">"At bottom (or right): Mute / Unmute (Pause / Play), Speaker / Headset &amp; Power.
+
+ Mute / Unmute &amp; Speaker / Headset buttons show the \"when pressed\" state.
+
+ Power button turns off FM &amp; terminates app.
+
+"</string>
+    <string name="sttn_controls_msg">"Station buttons are below the Display area.
+
+ 1st row: Numeric frequency (eg 106.1). Press to enter a new frequency. Broadcom supports a resolution of 0.001 MHz &amp; TI supports 0.05 MHz.
+
+ 102.0 MHz can be entered as: 102, 102.0, 102.000, 1020, 10200 or 102000.
+
+ 102.101 MHz: 102.101 or 102101.
+
+ On each side of numeric frequency are Seek Down &amp; Seek Up buttons to search for next strong station.
+
+ 2nd row: Undefined Mode button.
+
+ On each side of the Mode button are frequency down &amp; up buttons.
+
+"</string>
+    <string name="preset_controls_msg">"Preset buttons are below the Station buttons.
+
+ 1st row: Middle (or left) button allows Preset List selection &amp; configuration. You can: Select, Delete or Rename an existing List, or add a new List.
+
+ The Left &amp; Right Arrow buttons access the previous &amp; next page of presets with Spirit FM Unlocked. There is no hard limit for presets for the Unlocked app.
+
+ In Portrait or Landscape there are 6 or 4 preset buttons. Press a non blank button to tune that preset.
+
+ When blank, pressing a preset button programs it to current frequency. When not blank, a long press offers these selections:
+
+ Tune, Replace, Rename &amp; Delete. Replace allows a button to be re programmed to the current frequency.
+
+"</string>
+    <string name="hwetc_controls_msg">"The Android Notification screen allows quick access to Spirit FM Unlocked.
+
+ Media buttons embedded in headset cables &amp; lock-screen controls are supported by Spirit FM Unlocked. Pause / Play can mutes or unmute audio, or adjust volume or seek.
+
+ Next &amp; Previous optionally adjust volume or seek down or up to the next strong channel.
+
+ Volume buttons should work even when the display is turned off or the app is not on screen.
+
+ In some cases, these buttons may not work if the app is off screen, or the screen is turned off or locked.
+
+ In such cases, setting Debug -> Silent Loop &amp;/or Use Ringer VCS &amp; restarting the app may help.
+
+ Volume control auto repeat (long press) may not work when the app is off screen. On CyanogenMod 7 there may be auto repeat interference that starts the media player unexpectedly. CM7 has a system setting to disable this.
+
+"</string>
+    <string name="unlock_code_msg">"To unlock manually. enter the code above with Menu -> Unlock in the old Spirit FM free base app, &amp; then power cycle the app.
+
+ The code is valid for 1 day. Unlock is permanent, unless you completely remove Spirit FM.
+
+ Contact me at mikereidis@gmail.com with any questions. THANK YOU...! :)
+
+"</string>
+</resources>

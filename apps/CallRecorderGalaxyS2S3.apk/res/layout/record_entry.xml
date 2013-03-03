@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/record_entry" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.appforce.ui.VibratingCheckBox android:id="@id/record_mark" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/record_mark">
+        <RelativeLayout android:id="@id/record_icon_container" android:layout_width="64.0px" android:layout_height="64.0px">
+            <ImageView android:id="@id/record_format" android:tag="org.appforce.ui.SkipColorFilter" android:layout_width="64.0px" android:layout_height="64.0px" android:src="@drawable/three_gp" />
+            <ImageView android:id="@id/record_type" android:tag="org.appforce.ui.SkipColorFilter" android:layout_width="32.0px" android:layout_height="32.0px" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+        <TextView android:gravity="right" android:id="@id/record_created" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+        <TextView android:id="@id/record_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/record_created" android:layout_toRightOf="@id/record_icon_container" />
+    </RelativeLayout>
+</RelativeLayout>

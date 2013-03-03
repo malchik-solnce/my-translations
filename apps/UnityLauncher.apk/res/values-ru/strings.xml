@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unity Launcher</string>
+    <string name="applistactivity_actionbartitle">Выберите приложения, для добавления в боковую панель</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="shortcut_added">Ярлык добавлен. Долго удерживайте его, чтобы изменить порядок.</string>
+    <string name="saved_on_sdcard">Приложение установлено на SD-карту. Пожалуйста, подключите SD-карту.</string>
+    <string name="add_application">Приложение</string>
+    <string name="add_shortcut">Ярлык</string>
+    <string name="sort">Сортировка</string>
+    <string name="delete">Удалить</string>
+    <string name="main_title">Общие настройки</string>
+    <string name="start_service">Запустить сервис</string>
+    <string name="pin_apps_title">Приложения для запуска</string>
+    <string name="pin_apps">Выбрать</string>
+    <string name="appearance_setting">Визуальные настройки</string>
+    <string name="pixel">пикселей</string>
+    <string name="launcher_visibility_timeout">Время видимости</string>
+    <string name="millisec">миллисекунд</string>
+    <string name="Launcher_Animation_Delay">Задержка анимации</string>
+    <string name="four_hundred">400</string>
+    <string name="Launcher_Gravity">Положение панели</string>
+    <string name="Launcher_Bar_Background_Color">Фон панели</string>
+    <string name="Launcher_Icon_Background">Фон иконок</string>
+    <string name="Show_App_name_below_Icon">Показ. названия приложений</string>
+    <string name="Launcher_app_name_Background_color">Цвет фона имен приложений</string>
+    <string name="launcher_gravity_dialog_title">Положение панели</string>
+    <string name="license_error_msg">Ошибка лицензии: Если вы приобрели приложение в Google Play, то, пожалуйста, войдите в одну из своих учетных записей.</string>
+    <string name="welcome_dialog_title">Спасибо за выбор Unity Launcher</string>
+    <string name="welcome_dialog_msg">"Следуйте шагам ниже, чтобы начать пользоваться программой:
+ 1. Первое, что Вам нужно сделать, это выбрать свои частые, любимые приложения. Для этого нажмите кнопку Выбрать.
+ 2. Затем Вам нужно запустить службу на первой странице, сделать это можно, переключив кнопку вкл/выкл
+ 3. Свайп от левого края экрана будет вызывать панель лаунчера (боковую панель). На первый взгляд работа приложеия может показаться медленной, но после первого вызова все будет гладко.
+ 4. После чего можно приступить к настройке лаунчера (боковой панели) на свой вкус"</string>
+    <string name="first_time_service_launch_msg">"Добавление приложений в боковую панель. Пришло время провести пальцем от левого края экрна, чтобы вызвать и использовать панель из любого места, находясь в приложении или на главном экране.
+ Используйте строку-бар ниже, для настройки чувствительности ширины края вызова панели, если малая ширина не реагирует на Ваши свайпы."</string>
+    <string name="actionbar_title">Настройки Unity</string>
+    <string name="invalid_license">Неверная лицензия</string>
+    <string name="add">ДОБ</string>
+    <string name="loading">Загрузка</string>
+    <string name="loading_app_list">Загрузка списка приложений...</string>
+    <string name="edgesetupmessage">Спасибо за установка Unity. Светящаяся левая сторона экрана вызывается свайпом от края. Таким способом, Вы получите доступ к Unity Launcher из любого приложения в телефоне. Поэтому очень важно настроить ширину и высоту этого края, для того, чтобы заставить его работать лучше для Вашего устройства.</string>
+    <string name="next">Далее</string>
+    <string name="swipe_edge_width">Ширина</string>
+    <string name="swipe_edge_width_message">Ширина края вызова панели должна быть как можно меньше, т.к. это сделает экран под ней не реагирующим на прикосновения</string>
+    <string name="swipe_edge_height">Высота</string>
+    <string name="swipe_edge_height_message">Высота края вызова панели это площадь реагирования на свайпы. Если Вы измените высоту, то можете разместить его вверхней, в центральной или нижней части экрана, из настроек положения края.</string>
+    <string name="swipe_edge_position">Положение</string>
+    <string name="swipe_edge_position_height_msg">После размещения края вызова вверху, внизу или по центру, измените его высоту для лучшего результата</string>
+    <string name="swipe_edge_setting_title">Настройки края вызова</string>
+    <string name="swipe_edge_visibility">Видимость</string>
+    <string name="swipe_edge_color">Цвет</string>
+    <string name="swipe_edge_sensitivity">Чувствительность</string>
+    <string name="swipe_edge_sensitivity_msg">Изменение чувствительности панели вызова. Высокая чувствительность распознает даже Ваши легкие прикосновения.</string>
+    <string name="launcher_list_style">Стиль панели</string>
+    <string name="Ubuntu_style">Ubuntu Phone</string>
+    <string name="android_style">Android</string>
+    <string name="color_select_color">Выберите цвет</string>
+    <string name="color_old_color">Старый</string>
+    <string name="color_new_color">Новый</string>
+    <string name="color_hex_invalid">Неверный hex код цвета!</string>
+</resources>

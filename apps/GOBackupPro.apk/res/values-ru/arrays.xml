@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="week">
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>СБ</item>
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+    </string-array>
+    <string-array name="backup_sort_type_desc">
+        <item>По имени</item>
+        <item>По размеру</item>
+        <item>По дате установки</item>
+    </string-array>
+    <string-array name="online_backup_sort_type_desc">
+        <item>По имени</item>
+        <item>По размеру</item>
+    </string-array>
+    <string-array name="restore_sort_type_desc">
+        <item>По имени</item>
+        <item>По размеру</item>
+        <item>По статусу установки</item>
+    </string-array>
+    <string-array name="schduled_backup_content_paid">
+        <item>Бэкап ваших данных</item>
+        <item>Бэкап ваших приложений</item>
+        <item>Бэкап системных данных</item>
+    </string-array>
+    <string-array name="schduled_backup_content_free">
+        <item>Бэкап ваших данных</item>
+        <item>Бэкап ваших приложений</item>
+    </string-array>
+    <string-array name="repeat_modes">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+    </string-array>
+    <string-array name="repeat_modes_details">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Еженедельно(каждую %1$s)</item>
+        <item>Ежемесячно(в %2$s день)</item>
+    </string-array>
+    <string-array name="advance_remind_time">
+        <item>0 минут</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="advance_remind_time_toast">
+        <item>Этот график установлен на 1</item>
+        <item>Этот график установлен на %1$s</item>
+        <item>Этот график установлен на %2$s</item>
+        <item>Этот график установлен на %1$s и %2$s</item>
+        <item>Этот график установлен на %3$s</item>
+        <item>Этот график установлен на %1$s и %3$s</item>
+        <item>Этот график установлен на %2$s и %3$s</item>
+        <item>Этот график установлен на %1$s, %2$s и %3$s</item>
+    </string-array>
+    <string-array name="backupable_app_state">
+        <item>Не поддерживаемые резервные копии</item>
+        <item>Обновляемые резервные копии</item>
+        <item>Поддерживаемые резервные копии</item>
+    </string-array>
+    <string-array name="app_install_state">
+        <item>Удаленные</item>
+        <item>Обновленные</item>
+        <item>Установленные</item>
+    </string-array>
+	<string-array name="app_state">
+        <item>Удаленные</item>
+        <item>Установленные</item>
+    </string-array>
+    <string-array name="app_backup_type">
+        <item>Бэкап апк и данных</item>
+        <item>Бэкап апк</item>
+        <item>Бэкап данных</item>
+    </string-array>
+    <string-array name="app_restore_type">
+        <item>Восстанов. апк и данные</item>
+        <item>Восстановить апк</item>
+        <item>Восстановить данные</item>
+    </string-array>
+	<string-array name="freeze_app_sort_types">
+        <item>По имени приложения</item>
+        <item>По дате установки</item>
+    </string-array>
+</resources>

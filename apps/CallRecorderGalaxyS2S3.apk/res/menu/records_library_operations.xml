@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/item_play" android:title="Воспроизвести" />
+    <item android:id="@id/item_rename" android:title="Переименовать" />
+    <item android:id="@id/item_delete" android:title="Удалить" />
+    <item android:id="@id/item_move" android:title="Передвинуть" />
+    <item android:id="@id/item_send" android:title="Отпраивть по почте" />
+    <item android:id="@id/item_info" android:title="Информация" />
+    <item android:id="@id/item_evernote_uplaod" android:title="Выгрузить в Evernote" />
+    <item android:id="@id/delete_multiple" android:title="@string/menu_delete_multiple" />
+</menu>

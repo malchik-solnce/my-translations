@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center_horizontal" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Нажмите, чтобы остановить запись" />
+    <Imageorg.appforce.ui.VibratingButton android:layout_gravity="center_horizontal" android:id="@id/stop_recording_dialog_img_btn" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/button_recording" />
+</LinearLayout>

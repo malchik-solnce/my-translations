@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViBe</string>
+    <string name="contact_mult_select_tip">Длительное нажмите на контакт позволяет выбрать несколько</string>
+    <string name="restart_msg">"Что-то пошло не так.
+Пожалуйста, перезапустите ViBe."</string>
+    <string name="crash_msg">Упс. Что-то пошло не так. Если это повторится, пожалуйста, свяжитесь с support@base2apps.com. Мы к вашим услугам.</string>
+    <string name="widget_button">Настроить ViBe</string>
+    <string name="vibe_name_default">По умолчанию</string>
+    <string name="vibe_name_off">Без вибрации</string>
+    <string name="vibe_name_knockknock">Knock Knock</string>
+    <string name="vibe_name_heartbeat">Heartbeat</string>
+    <string name="vibe_name_bee">Bee</string>
+    <string name="vibe_name_rampdown">Ramp Down</string>
+    <string name="vibe_name_crash">Crash</string>
+    <string name="vibe_name_weapon">Weapon</string>
+    <string name="vibe_name_explosion">Explosion</string>
+    <string name="vibe_name_bounc">Bounce</string>
+    <string name="vibe_name_engine">Engine</string>
+    <string name="vibe_name_rampup">Ramp Up</string>
+    <string name="vibe_name_custom">Создать свой ViBe</string>
+    <string name="product_premium_title">Премиум ViBe</string>
+    <string name="product_premium_description">Премиум ViBe</string>
+    <string name="product_premium_low_title">Премиум ViBe</string>
+    <string name="product_premium_low_description">Премиум ViBe для пользователей, которые уже приобрели ViBe</string>
+    <string name="vibe_status_never">Никогда</string>
+    <string name="vibe_status_always">Всегда</string>
+    <string name="vibe_status_ringer_only">При режиме Звонок</string>
+    <string name="contact_list_message">Чтобы добавить шаблон вибрации, выберите один или несколько контактов</string>
+    <string name="contact_list_filter_hint">Введите имя</string>
+    <string name="contact_list_empty">Контакты не найдены</string>
+    <string name="contact_list_multi_select_ok_button">OK</string>
+    <string name="billing_start_purchase_fail">"Не удается запустить процесс покупки.
+Восстановление службы %s. Пожалуйста, повторите попытку через несколько секунд."</string>
+    <string name="billing_init_paypal">"Инициализация %s.
+Пожалуйста, подождите несколько секунд."</string>
+    <string name="billing_no_con">Нет подключения к интернету</string>
+    <string name="billing_paypal_not_yet_init">"%s еще не инициализирован.
+Пожалуйста, подождите несколько секунд."</string>
+    <string name="billing_purchase_dialog_title">Покупка</string>
+    <string name="billing_purchase_dialog_text">"Открытие окна покупки.
+Пожалуйста, подождите..."</string>
+    <string name="sel_vib_act_title">%1$s: %2$s</string>
+    <string name="sel_vib_act_title_multiple">%1$s: %2$s контактов</string>
+    <string name="sel_vib_act_group_standard">Стандартные</string>
+    <string name="sel_vib_act_group_premium">Премиум пак</string>
+    <string name="sel_vib_act_group_default">По умолчанию</string>
+    <string name="sel_vib_act_group_custom">Пользовательские</string>
+    <string name="sel_vib_act_deletion_error">Произошла ошибка. ViBe не может быть удален.</string>
+    <string name="sel_vib_act_save_dialog_text">Сохранение контактов...</string>
+    <string name="sel_vib_act_saved">Вибрация %s установлена для одного контакта</string>
+    <string name="sel_vib_act_saved_multiple">Вибрация %1$s установлена для %2$d контактов</string>
+    <string name="sel_vib_act_tab_normal">Обычные</string>
+    <string name="sel_vib_act_tab_custom">Пользов.</string>
+    <string name="settings_header">Настройки</string>
+    <string name="settings_vibe_turned_on">"ViBe сейчас 'ВКЛ'"</string>
+    <string name="settings_vibe_turned_off">"ViBe сейчас 'ВЫКЛ'"</string>
+    <string name="settings_vibe_phone_status">"ViBe '%s' для вызовов"</string>
+    <string name="settings_vibe_sms_status">"ViBe '%s' для СМС"</string>
+    <string name="settings_default_vibe">"По умолчанию '%s' ViBe"</string>
+    <string name="settings_payment_method">"Метод оплаты '%s'"</string>
+    <string name="settings_exit_button">OK</string>
+    <string name="settings_turn_vibe_title">Включение ViBe</string>
+    <string name="settings_vibe_status_phone">ViBe для вызовов</string>
+    <string name="settings_vibe_status_sms">ViBe для сообщений</string>
+    <string name="settings_payment_method_dialog_title">Предпочтительный способ оплаты</string>
+    <string name="settings_default_vibe_dialog_title">ViBe по умолчанию</string>
+    <string name="settings_default_vibe_ok">OK</string>
+    <string name="custom_vibe_start_message">Нажмите, чтобы начать запись</string>
+    <string name="custom_vibe_play">Восп</string>
+    <string name="custom_vibe_stop">Стоп</string>
+    <string name="custom_vibe_new">Новый</string>
+    <string name="custom_vibe_unlock">Разблок</string>
+    <string name="custom_vibe_save">Сохранить</string>
+    <string name="custom_vibe_duplicate_name">ViBe с именем %s уже существует</string>
+    <string name="instruction_read_more"><a href="http://base2apps.com/vibe/faq">Помощь</a></string>
+    <string name="premium_unlock_message">Поздравляем! Вы только что разблокировали премиум версию ViBe!</string>
+    <string name="buy_all_dialog_title">Спец. предложеине</string>
+    <string name="buy_all_dialog_text">"Купите полную версию со скидкой в 60%:
+- Создавать неограниченное кол-во своих Vibes
+- Получить все остальные премиум Vibes"</string>
+    <string name="buy_all_dialog_negative_button">Просто купить</string>
+    <string name="buy_all_dialog_positive_button">Купить со скидкой</string>
+    <string name="unlock_dialog_title">ViBe скидка</string>
+    <string name="unlock_dialog_text">"Nice ViBe! купите полную версию со скидкой 60%:
+- Создавать неограниченное кол-во своих Vibes
+- Получить все остальные премиум Vibes"</string>
+    <string name="unlock_dialog_positive_button">Разблок.</string>
+    <string name="update_buy_dialog_title">Выгодное предложение</string>
+    <string name="update_buy_dialog_text">"Мы снизили цены, чтобы разблокировать полную версию ViBe:
+- Создавать неограниченное кол-во своих Vibes
+- Получить все остальные премиум Vibes"</string>
+    <string name="update_buy_dialog_negative_button">Позже</string>
+    <string name="update_buy_dialog_positive_button">Купить</string>
+    <string name="buy_second_dialog_title">Покупка полной версии</string>
+    <string name="buy_second_dialog_text">"Разблокируйте полную версию Vibe чтобы:
+- Создавать неограниченное кол-во своих Vibes
+- Получить все остальные премиум Vibes"</string>
+    <string name="buy_second_dialog_positive_button">Купить</string>
+    <string name="delete_vibe_dialog_title">Удаление ViBe</string>
+    <string name="delete_vibe_dialog_text">Вы уверены, что хотите удалить этот ViBe?</string>
+    <string name="delete_vibe_dialog_warning">Этот ViBe связан с <b>одним</b> контактом</string>
+    <string name="delete_vibe_dialog_warning_multiple">Этот ViBe назначен к %s контактам</string>
+    <string name="delete_vibe_dialog_negative_button">Отмена</string>
+    <string name="delete_vibe_dialog_positive_button">Удалить</string>
+    <string name="vibe_name_dialog_title">Название ViBe</string>
+    <string name="vibe_name_dialog_text">Пожалуйста, введите имя для своего ViBe</string>
+    <string name="vibe_name_dialog_input_hint">Введите название</string>
+    <string name="vibe_name_dialog_cancel_button">Отмена</string>
+    <string name="vibe_name_dialog_ok_button">OK</string>
+    <string name="billing_internal_error">Произошла ошибка покупки</string>
+    <string name="billing_init_error">Не удалось инициализировать платежный сервис</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_instructions">Введение</string>
+    <string name="billing_not_supported">Пожалуйста, свяжитесь с нашей службой поддержки: support@base2apps.com</string>
+    <string name="app_rater_no_button">Нет</string>
+    <string name="app_rater_rate_button">Да</string>
+    <string name="app_rater_message_you_love">"That is awesome! You are the best.
+
+Please share the love!"</string>
+    <string name="app_rater_message_we_love">ViBe loves you!</string>
+    <string name="app_rater_message_no_love">"Bummer!
+
+What can ViBe do to win you over?"</string>
+    <string name="app_rater_feedback_button">Let us know!</string>
+    <string name="app_rater_love_button">Aww, I love ViBe too!</string>
+    <string name="app_rater_no_love_button">"I don't love ViBe"</string>
+    <string name="app_rater_dont_show_again_button">Больше не показывать</string>
+    <string name="b2a_support_mail">support@base2apps.com</string>
+    <string name="b2a_support_mail_subject">Отзыв ViBe</string>
+    <string name="contact_list_swipe_sms_msg">Эй %1$s, я назначил на Вас ViBe. При сообщении и звонке от Вас, я чувствую %2$s шаблон ViBe! %3$s</string>
+    <string name="contact_list_swipe_no_number">Этот контакт не имеет телефонного номера</string>
+    <string name="contact_list_swipe_tip">Попробуйте сдвинуть контакт справа налево</string>
+    <string name="contact_list_sms_url">http://base2apps.com/vibe/play?t=%1$s&amp;v=%2$s</string>
+    <string name="settings_vibe_during_call">%s во время вызова</string>
+    <string name="settings_vibe_during_call_title">Во время вызова</string>
+    <string name="vibe_name_boss">Boss</string>
+    <string name="vibe_name_alert">Alert</string>
+    <string name="app_rater_leave_me_alone_button">Leave me alone...</string>
+</resources>

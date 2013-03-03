@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_sorting_names">
+        <item>По имени</item>
+        <item>По частоте использования</item>
+    </string-array>
+    <string-array name="ezwidgets">
+        <item>Перек-ли (4x1)</item>
+        <item>Сообщения (4x4)</item>
+        <item>Часы и Погода (4x2)</item>
+        <item>Часы (4x1)</item>
+        <item>Погода (4x1)</item>
+        <item>Диспетчер задач (4x1)</item>
+        <item>Рожд. елка (4x4)</item>
+        <item>Закладки (4x4)</item>
+        <item>Поиск (4x1)</item>
+    </string-array>
+    <string-array name="ezshortcuts">
+        <item>Телефон</item>
+        <item>Контакты</item>
+        <item>Сообщения</item>
+        <item>Интерент</item>
+    </string-array>
+    <string-array name="default_categories">
+        <item>Другие</item>
+        <item>Игры</item>
+        <item>Книги</item>
+        <item>Деловые</item>
+        <item>Связь</item>
+        <item>Развлечения</item>
+        <item>Образование</item>
+        <item>Финансы</item>
+        <item>Здоровье</item>
+        <item>Стиль жизни</item>
+        <item>Мультимедиа</item>
+        <item>Медицина</item>
+        <item>Новости</item>
+        <item>Личные</item>
+        <item>Шопинг</item>
+        <item>Соц. сети</item>
+        <item>Спорт</item>
+        <item>Инструменты</item>
+        <item>Транспорт</item>
+        <item>Путешествия</item>
+        <item>Произ-ть</item>
+    </string-array>
+    <string-array name="app_manager_uninstaller_sort_list">
+        <item>По названию по возрастанию</item>
+        <item>По названию по убыванию</item>
+        <item>По размеру по возрастанию</item>
+        <item>По размеру по убыванию</item>
+        <item>По дате по возрастанию</item>
+        <item>По дате по убыванию</item>
+    </string-array>
+    <string-array name="app_manager_task_killer_long_click_menu_list">
+        <item>Убить</item>
+        <item>Отметить/Снять</item>
+        <item>Переключить в</item>
+        <item>Остановка/Детали</item>
+    </string-array>
+    <string-array name="app_manager_uninstaller_long_click_item_list">
+        <item>Удалить</item>
+        <item>Информация</item>
+        <item>Отправить</item>
+    </string-array>
+    <string-array name="launcher_menu_items">
+        <item>Добавить</item>
+        <item>Приложения</item>
+        <item>Экраны</item>
+        <item>Обои</item>
+        <item>Установки</item>
+        <item>Настройки</item>
+        <item>Связь</item>
+        <item>Поиск</item>
+    </string-array>
+    <string-array name="appdrawer_menu_items">
+        <item>Новая папка</item>
+        <item>Скрыть прил-ния</item>
+        <item>Установки</item>
+    </string-array>
+	<string-array name="swipe_entries">
+        <item>Ничего</item>
+        <item>Показать меню</item>
+        <item>Показать статус-бар</item>
+        <item>Показать меню приложений</item>
+    </string-array>
+</resources>

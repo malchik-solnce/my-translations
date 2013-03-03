@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crash_activity_title">Сбой</string>
+    <string name="crash_activity_message">TotalRecall неожиданно остановился из за внутренней ошибки. Вы хотите отправить подробный отчет разработчикам, чтобы решить эту ошибку​​?</string>
+    <string name="crash_activity_button_send">Да</string>
+    <string name="crash_activity_button_dont_send">Нет</string>
+    <string name="crash_email">kmcrashlogs@gmail.com</string>
+    <string name="crash_subject">Отчеты по ошибкам</string>
+    <string name="crash_body">Журнал о ошибках прилагается как GZ сжатый архив</string>
+    <string name="debug_send_log">Отправить журнал приложения для отладки</string>
+    <string name="debug_title">Отладка</string>
+    <string name="debug_message">Вы выбрали опцию для отправки журнала приложения для отладки. Продолжить?</string>
+    <string name="debug_email">web.mailbg@gmail.com</string>
+    <string name="debug_subject">Журнал отладки</string>
+    <string name="debug_body">Журнал отладки прилагается как GZ сжатый архив</string>
+	<string name="esdk__evernote">Evernote</string>
+    <string name="esdk__evernote_login_failed">Не удалось войти в Evernote</string>
+    <string name="esdk__evernote_login_successful">Усешный вход Evernote</string>
+    <string name="esdk__err_protocol_version">Несовместимая версия EDAM протокола</string>
+    <string name="esdk__err_authentication">Ошибка аутентификации в Evernote</string>
+    <string name="esdk__err_api_setup">Ошибка инициализации Evernote API</string>
+    <string name="esdk__loading">Загрузка...</string>
+    <string name="help_string">"Total Recall for Android Devices v1.xx
+ Copyright 2009-2010 Killer Mobile Software LLC
+ www.killermobile.com
+
+ Support Forums: http://www.killermobile.com/en/forums.html
+
+ ---------------------------------------------
+
+ ВАЖНО: Многие устройства Android версии 2.0+ не поддерживают Запись разговоров. Пожалуйста, проверьте перед покупкой. Диктофон должен будет работать
+
+ Total Recall является передовым приложением для записи вызовов и диктофоном для Android и Nokia S60 (Symbian) устройств, а также доступен в виде 14 дневной полнофункциональной демо-версии. После 14-дневного срока вам нужно будет приобрести лицензию на www.killermobile.com в Android Market для дальнейшего использования
+
+
+ -------------------
+ Виджет TOTAL RECALL
+ -------------------
+
+ Total Recall имеет виджет для легкой ручной записи. На главном экране нажмите Опции, затем добавить - виджеты и выбирет Quick Record
+
+ -------
+ СЕРВИС
+ -------
+
+ > Выберите вызовы для записи - Выберите вызовы, которые требуется записывать. По умолчанию значение Ничего
+
+ > Подсказка о сохранении после вызова - Спрашивает, хотите ли вы сохранить записанный вызов в конце разговора. Проверьте, если вы хотите включить это
+
+ > Автозапуск - Позволяет запускать приложение автоматически, когда вы выключаете и включаете телефон. Проверьте, если вы хотите включить это
+
+ > Удаленная запись через SMS - Total Recall позволяет удаленно запускать аудиозапись (окружающий звук) через SMS специального формата. Проверьте, если вы хотите включить это, будут запрашиваться дополнительные параметры. При желании можно запрашивать пароль, который будет отправлен вместе с удаленной командой по SMS и отображения уведомлений на устройстве при текущей записи
+
+ > Скрыть уведомления - Скрыть уведомление в строке состояния, что Total Recall работает
+
+ Пример SMS-команды (при условии, что пароль 5555 и я хочу, чтобы записывалось в течение 60 секунд): TRK-5555-60
+
+ -----
+ АУДИО
+ -----
+
+ > Формат аудио - Примечание AMR является наиболее сжатым формат и рекомендуется
+
+ > Макс. продолжительность записи (необязательно) - позволяет установить максимальное время записи для приложения
+
+ > Макс. размер файла (необязательно) - Позволяет установить максимальный размер файла, запись может быть
+
+ > Каталог хранения записей - Позволяет выбрать каталог на SD-Карте отличный от корневого
+
+ -------
+ ЗАПИСИ
+ -------
+
+ Здесь вы найдете список записанных аудио файлов. Нажмите на файл для воспроизведения и дополнительных опций, в том числе Отправить файл по электронной почте и т.д."</string>
+    <string name="menu_settings">Recovery</string>
+    <string name="title_activity_main">KM Patcher (Call Recorder)</string>
+    <string name="root_check">Root Check</string>
+    <string name="deodexed">File Check</string>
+    <string name="setup_complete">Установка завершена</string>
+    <string name="progress_text">Прогресс</string>
+    <string name="installer">Обновление системы</string>
+    <string name="errorText" />
+    <string name="reboot">Перезагрузить</string>
+    <string name="must_restart">"Вы должны перезагрузить устройство, чтобы изменения вступили в силу.
+
+При перезагрузке устройства, пожалуйста, дождитесь повторной оптимизации приложений."</string>
+    <string name="cur_processing">Processing file:</string>
+    <string name="backup">"Вы должны сделать резервную копию существующего ROM, прежде чем продолжить!
+
+Если у Вас нет программы для восстановления, мы настоятельно рекомендуем:
+
+"<a href="https://play.google.com/store/apps/details?id=com.koushikdutta.rommanager">ClockworkMod Recovery</a>"
+
+Вы уверены, что хотите продолжить?
+
+"</string>
+    <string name="app_name">Total Recall S2</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Отмена</string>
+    <string name="done">Готово</string>
+    <string name="delete">Удалить</string>
+    <string name="eula">EULA</string>
+    <string name="save">Сохранить</string>
+    <string name="yes">Да</string>
+    <string name="error">Ошибка</string>
+    <string name="no">Нет</string>
+    <string name="incoming_calls">Входящие звонки</string>
+    <string name="outgoing_calls">Исходящие звонки</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="Import">Импорт</string>
+    <string name="Export">Экспорт</string>
+    <string name="loading">Загрузка</string>
+    <string name="name">Имя</string>
+    <string name="number">Номер</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="all">Все</string>
+    <string name="trial_imei_agreement">"используется IMEI устройства в качестве уникального идентификатора для наших триальных функций. При первом запуске приложения оно будет подключаться с помощью Данных по умолчанию к нашему серверу и проверять статус вашего IMEI. Если вы используете приложение в первый раз, ваш IMEI будет храниться на нашем сервере, чтобы указать, что вы использовали ранее триальную версию. Если вы купили приложение, статус вашего IMEI изменится на регистрацию. Эта информация не разглашается ни с кем вне Killer Mobile Software LLC и используется только для хранения данных, триальная версия или полная (регистрация). /n/n Выбирая Принять ниже, означает Ваше согласие с этим, выбрав Отклонить приложение закроется и ваш IMEI не будет сообщаться, однако вы не сможете запускать и использовать приложение."</string>
+    <string name="trial_accept">Принять</string>
+    <string name="trial_decline">Отклонить</string>
+    <string name="font_picker_pick">Выберите шрифт и нажмите готово:</string>
+    <string name="font_picker_even_more">Другие шрифты</string>
+    <string name="font_picker_even_more_title">Ваш шрифт</string>
+    <string name="font_picker_even_more_description">Вы можете разместить свои собственные шрифты (в OpenType формате, файлы с расширениями .otf и .ttf) в /fonts папке на вашей SD-Карте. Нажмите кнопку Далее, чтобы увидеть их список.</string>
+    <string name="menu_delete_multiple">Удаление нескольких элементов</string>
+    <string name="notification_recording_body">Total Recall записывает</string>
+    <string name="dialog_enter_current_password_title">Введите текущий пароль</string>
+    <string name="dialog_enter_current_password_message">Введите свой текущий пароль. Если вы его забыли, используйте кнопку восстановление пароля для получения на e-mail нового пароля</string>
+    <string name="dialog_enter_current_password_recover">Восстановить пароль по e-mail</string>
+    <string name="alert_new_password_title">Создание нового пароля</string>
+    <string name="alert_new_password_message">После установки пароля, чек-бокс будет требовать пароль в SMS для запуска новой записи</string>
+    <string name="alert_empty_password_title">Пароль пуст</string>
+    <string name="alert_empty_password_message_enable_protection">Текущий пароль пуст, включенная защита паролем не влияет ни на что</string>
+    <string name="alert_empty_password_message">Текущий пароль пуст</string>
+    <string name="alert_empty_password_mail_positive">Приступить к вводу пароля</string>
+    <string name="alert_empty_password_mail_negative">Просто введите e-mail</string>
+    <string name="dialog_type_new_password_title">Введите новый пароль</string>
+    <string name="dialog_type_new_password_message">Пароль будет сохранен в зашифрованном виде</string>
+    <string name="dialog_type_new_password_positive">Изменить</string>
+    <string name="dialog_type_new_password_negative">Отмена</string>
+    <string name="dialog_type_new_mail_title">Введите новый e-mail для восстановления</string>
+    <string name="dialog_type_new_mail_current">Текущий e-mail:</string>
+    <string name="dialog_enter_mail_settings_title">Введите данные Gmail</string>
+    <string name="dialog_enter_mail_settings_username">Логин:</string>
+    <string name="dialog_enter_mail_settings_password">Пароль:</string>
+    <string name="dialog_enter_mail_settings_positive">Отправить</string>
+    <string name="dialog_enter_mail_settings_negative">Отмена</string>
+    <string name="alert_recovery_mail_success_title">Успешно!</string>
+    <string name="alert_recovery_mail_success_message">E-mail успешно отправлен</string>
+    <string name="alert_recovery_mail_failure_title">Неудачно</string>
+    <string name="alert_recovery_mail_failure_body">Ошибка отправки E-mail. Пожалуйста, проверьте подкл. к сети, или неправильный логин или пароль</string>
+    <string name="alert_recovery_mail_positive">Ok</string>
+    <string name="recovery_mail_subject">Ваш новый пароль для регистрации через SMS с Total Recall</string>
+    <string name="alert_wrong_password_title">Неверный пароль</string>
+    <string name="alert_wrong_password_message">Введенные пароли не совпадают</string>
+    <string name="alert_wrong_password_positive">Ok</string>
+    <string name="choose_recording_settings">Доп. настройки</string>
+    <string name="dialog_recording_settings_title">Мастер Параметров записи</string>
+    <string name="dialog_recording_settings_message">У нас есть Мастер настроек, который может помочь вам в поиске лучших настроек записи для вашего телефона. Нажмите на кнопку ниже, если вы хотите начать различные тесты.</string>
+    <string name="dialog_recording_settings_message2">Чтобы изменить это, нажмите на кнопку внизу, или нажмите кнопку \"Audio\" на вкладке</string>
+    <string name="dialog_recording_settings_choose_settings">Приступить к Мастеру</string>
+    <string name="dialog_recording_settings_do_not_show_again">Не показывать вновь</string>
+    <string name="dialog_feedback_title">Обратная связь</string>
+    <string name="dialog_feedback_text">Если вам нравится это приложение, вы можете отправить нам обратную связь, проголосовать в Googla Play или попробуйте другие наши приложения.</string>
+    <string name="dialog_feedback_feedback">Связь</string>
+    <string name="dialog_feedback_rate">Рейтинг</string>
+    <string name="dialog_feedback_other_apps">Больше</string>
+    <string name="activity_settings_wizard_dear_user">Уважаемые пользователи Total Recall,</string>
+    <string name="activity_settings_wizard_explanation">Аудиозапись на Android зависит от устройства к устройству, а зачастую и кастомные ROMs добавляют свой вклад к этой проблеме. Ниже вы можете выбирать из различных настроек для записи, находя лучшее для вас. Если у вас есть подключение к Интернету, вы можете получить последние выбранный настройки от пользователей, имеющих ту же модель устройства, что и вы. После того как вы сделали все настройки, вы можете тоже загрузить данные, для того, чтобы другие пользователи так же как вы смогли извлечь из этого пользу.</string>
+    <string name="activity_settings_wizard_click_done">Нажмите кнопку Готово, когда вы готовы, для сохранения изменений</string>
+    <string name="activity_settings_wizard_your_model">Ваш девайс:</string>
+    <string name="activity_settings_wizard_strategy_1">Запись стратегии A</string>
+    <string name="activity_settings_wizard_strategy_2">Запись стратегии B</string>
+    <string name="activity_settings_wizard_strategy_3">Запись стратегии C</string>
+    <string name="activity_settings_wizard_wake_lock">Отключить спящий режим</string>
+    <string name="activity_settings_wizard_record_after_start">Начало записи после начала вызова (для автозапуска/остановки записи)</string>
+    <string name="activity_settings_wizard_speaker_phone">Поверните громкой связи во время записи</string>
+    <string name="activity_settings_wizard_stream_solo">Поток соло (отключает все другие потоки)</string>
+    <string name="activity_require_password">Доступ TotalRecall</string>
+    <string name="require_password_text">Введите TotalRecall пароль:</string>
+    <string name="require_password_positive">Разблок.</string>
+    <string name="require_password_negative">Выход</string>
+    <string name="wave_alert_title">Размер файла Wav</string>
+    <string name="wave_alert_message">Файлы, записанные в формате WAV довольно большие (около 5 Мб за минуту)</string>
+    <string name="dialog_evernote">Пожалуйста, введите ваш Evernote логин и пароль</string>
+    <string name="dialog_evernote_positive">Готово</string>
+    <string name="dialog_evernote_negative">Отмена</string>
+    <string name="dialog_evernote_wrong_data">Неверный или неполный логин или пароль. Пожалуйста, попробуйте еще раз.</string>
+    <string name="alert_acknowledge_not_found_records_msg">Вы собираетесь удалить ## элементов, которые не были обнаружены в библиотеке. Продолжить?</string>
+    <string name="activity_records_order_by">Сортировка:</string>
+    <string name="activity_records_order_by_name">По имени</string>
+    <string name="activity_records_order_by_duration">По продолжит.</string>
+    <string name="activity_records_order_by_creation">По времени</string>
+    <string name="activity_records_order_desc">desc</string>
+    <string name="activity_records_order_asc">asc</string>
+    <string name="progress_bar_retrieving_device_settings">Получение параметров для ## ...</string>
+    <string name="progress_bar_sending_device_settings">Передача параметров для ## ...</string>
+    <string name="progress_bar_please_wait">Пожалуйста, подождите ...</string>
+    <string name="activity_service_settings_root_oom">Предотвращение закрытий (требуется root)</string>
+    <string name="activity_service_settings_export_import">Настройки Экспорта/импорта</string>
+    <string name="activity_service_settings_export_import_description">Вы можете экспортировать текущие настройки, а затем импортировать их в приложение еще ​​раз.Данные будут сохранены в файл в корневом каталоге SD-карты. Имена пользователей/пароли не будут экспортироваться.</string>
+    <string name="activity_service_settings_import_error">Ошибка данных, файл не найден или поврежден</string>
+    <string name="activity_service_settings_numbers_based_recording">Основная запись</string>
+    <string name="activity_service_settings_record_name_options">Название файлов</string>
+    <string name="activity_service_settings_theme">Сменить тему</string>
+    <string name="dialog_service_settings_record_name_option_append_date">Указывать дату</string>
+    <string name="dialog_service_settings_record_name_option_append_time">Указывать время</string>
+    <string name="dialog_service_settings_record_name_option_append_name">"При наличии, добавлять имя контакта"</string>
+    <string name="dialog_service_settings_change_theme_title">Смена темы</string>
+    <string name="dialog_service_settings_change_theme_pick_new">Выберите новую тему:</string>
+    <string name="dialog_service_settings_change_theme_preview">Просмотр</string>
+    <string name="activity_phone_picker_record_these">Записывать выбранные номера</string>
+    <string name="activity_phone_picker_record_except_these">Запись всех, кроме выбранных номеров</string>
+    <string name="activity_phone_picker_apply_for">Применить для:</string>
+    <string name="activity_phone_picker_clear">Очистить выделенное</string>
+    <string name="activity_phone_picker_save_numbers">Сохранить номера</string>
+    <string name="activity_phone_picker_txt_numbers">Номера:</string>
+    <string name="activity_phone_picker_add_from_contacts">Добавить из контактов</string>
+    <string name="activity_phone_picker_add_manual">Ввести вручную</string>
+    <string name="activity_phone_picker_add_from_call_logs">Добавить из журнала вызовов</string>
+    <string name="activity_simple_list_dialog_title_contacts">Выберите из списка контактов</string>
+    <string name="activity_simple_list_dialog_description_contacts">Выберите один или несколько контактов и нажмите ОК</string>
+    <string name="activity_simple_list_dialog_title_logs">Выберите из журнала вызовов</string>
+    <string name="activity_simple_list_dialog_description_logs">Выберите одно или несколько событий и нажмите ОК</string>
+    <string name="splash_screen_another_app">Another Killer App By</string>
+    <string name="splash_screen_follow">Мы в Twitter</string>
+    <string name="splash_screen_stay_killer">Stay Killer!</string>
+    <string name="splash_screen_copyright">Copyright 2010 Killer Mobile Software LLC | All Rights Reserved</string>
+    <string name="feedback_subject">\## Android Feedback</string>
+    <string name="feedback_recipient">info@killermobile.com</string>
+    <string name="dialog_change_theme_title">Сменить тему</string>
+    <string name="dialog_change_theme_preview">Просмотр</string>
+    <string name="dialog_change_theme_pick_foreground">Выберите цвет перед. плана:</string>
+    <string name="dialog_change_theme_pick_background">Выберите цвет фона:</string>
+    <string name="dialog_change_theme_font">Выбор шрифта:</string>
+    <string name="dialog_change_theme_font_default">Дефолт</string>
+    <string name="dialog_change_theme_font_monospace">Monospace</string>
+    <string name="dialog_change_theme_font_serif">Serif</string>
+    <string name="dialog_change_theme_font_more">Еще шрифты...</string>
+    <string name="dialog_change_theme_feedback_vibration">Виброотзыв</string>
+    <string name="dialog_change_theme_feedback_vibration_body">Выберите длительность</string>
+    <string name="dialog_change_theme_feedback_vibration_short">Коротко</string>
+    <string name="dialog_change_theme_feedback_vibration_medium">Средне</string>
+    <string name="dialog_change_theme_feedback_vibration_long">Длинно</string>
+    <string name="activity_recording_settings_wizard">Мастер параметров записи</string>
+    <string name="activity_recording_settings_wizard_your_model">Ваш девайс:</string>
+    <string name="activity_recording_settings_wizard_cant_record">"К сожалению, устройство не может записывать звонки. Однако вы можете посетить Мастер настроек записи, или вручную настроить дополнительные параметры, чтобы подтвердить это."</string>
+    <string name="activity_recording_settings_wizard_enter_number">Введите номер чтобы проверить:</string>
+    <string name="activity_recording_settings_wizard_ask_result">Указан правильный номер?</string>
+    <string name="activity_recording_settings_wizard_result_sort_of">Вид (я не уверен)</string>
+    <string name="activity_recording_settings_wizard_try_with_speakerphone">Хотели бы вы повторить новый тестовый звонок с этими настройками, но с громкой связью на этот раз?</string>
+    <string name="activity_recording_settings_wizard_test_number">Тест ## (out of **)</string>
+    <string name="activity_recording_settings_wizard_test_start">Следующий тест (исходящие звонки)</string>
+    <string name="activity_recording_settings_wizard_previous">Переход к предыдущему</string>
+    <string name="activity_recording_settings_wizard_skip">Пропустить этот</string>
+    <string name="activity_recording_settings_wizard_reset">Сбросить тест</string>
+    <string name="activity_recording_settings_wizard_info_for_test">Вы всегда можете настроить параметры этих тестов вручную из области Дополнительные параметры установите в основные настройки приложения, или вы можете использовать наш Мастер Параметров записи, который поможет вам с различными вариантами. Обратите внимание, что даже после всех испытаний, устройство может быть просто не в состоянии записывать звонки. Нажмите кнопку Старт, чтобы продолжить испытания, после чего вам будет показаны результаты. Если запись в порядке просто закройте этот мастер (ваши настройки будут сохранены). Вы также можете проверить с входящими звонками.</string>
+    <string name="activity_recording_settings_wizard_reached_end">Вы подошли к концу тестиования</string>
+    <string name="activity_recording_settings_wizard_reached_first">Это ваш первый тест</string>
+    <string name="activity_recording_settings_wizard_found_settings">Благодаря обратной связи с пользователями, Total Recall должны быть установлены с лучшими настройками для записи звонков для ##. Введите номер для вызова и нажмите тест, чтобы попытаться связаться с ним. Если запись в порядке, просто закрыть этот мастер (ваши настройки будут сохранены)</string>
+    <string name="activity_recording_settings_wizard_result_yes">Вы можете закрыть мастер и продолжать использовать эти настройки, или вы можете перейти к следующим тестам (если таковые имеются)</string>
+    <string name="activity_recording_settings_wizard_result_no">Пожалуйста, продолжайте со следующего теста (если имеется)</string>
+    <string name="activity_recording_settings_wizard_incoming_only">Этот тест нуждается входящего вызова</string>
+    <string name="activity_recording_settings_wizard_results">"Вы дали положительные отзывы на следующие тесты:
+##
+И, возможно, для следующего испытания:
+**
+Вы можете попробовать снова любой из этих тестов, и выбрать тот, который лучше всего подходит для вас. Наслаждайтесь TotalRecall."</string>
+    <string name="activity_recording_settings_wizard_results_title">Результаты теста</string>
+    <string name="activity_recording_settings_wizard_hint">Введите номер для вызова (тест)</string>
+    <string name="phone_type_home">home</string>
+    <string name="phone_type_mobile">mobile</string>
+    <string name="phone_type_custom">custom</string>
+    <string name="phone_type_fax_home">fax (home)</string>
+    <string name="phone_type_fax_work">fax (work)</string>
+    <string name="phone_type_other">other</string>
+    <string name="phone_type_pager">pager</string>
+    <string name="phone_type_work">work</string>
+    <string name="contract_phone_type_assistant">assistant</string>
+    <string name="contract_phone_type_callback">callback</string>
+    <string name="contract_phone_type_car">car</string>
+    <string name="contract_phone_type_company_main">company main</string>
+    <string name="contract_phone_type_fax_home">fax (home)</string>
+    <string name="contract_phone_type_fax_work">fax (work)</string>
+    <string name="contract_phone_type_home">home</string>
+    <string name="contract_phone_type_isdn">ISDN</string>
+    <string name="contract_phone_type_main">main</string>
+    <string name="contract_phone_type_mms">MMS</string>
+    <string name="contract_phone_type_mobile">mobile</string>
+    <string name="contract_phone_type_other">other</string>
+    <string name="contract_phone_type_other_fax">other (fax)</string>
+    <string name="contract_phone_type_pager">pager</string>
+    <string name="contract_phone_type_radio">radio</string>
+    <string name="contract_phone_type_telex">Telex</string>
+    <string name="contract_phone_type_tty_ttd">TTY_TTD</string>
+    <string name="contract_phone_type_work">work</string>
+    <string name="contract_phone_type_work_mobile">work (mobile)</string>
+    <string name="contract_phone_type_work_pager">work (pager)</string>
+    <string name="call_logs_type_incoming">Входящие</string>
+    <string name="call_logs_type_outgoing">Исходящие</string>
+    <string name="call_logs_type_missed">Пропущенные</string>
+    <string name="theme_default">Дефолт</string>
+    <string name="theme_gray">Gray</string>
+    <string name="theme_black_white">Black on White</string>
+    <string name="theme_white_black">White on Black</string>
+    <string name="theme_black_black">Black on Black</string>
+    <string name="theme_white_white">White on White</string>
+    <string name="theme_black_gray_solid">solid Black on Gray</string>
+    <string name="theme_white_gray_solid">solid White on Gray</string>
+    <string name="theme_black_gray">Black on Gray</string>
+    <string name="theme_white_gray">White on Gray</string>
+    <string name="theme_blue_white_solid">solid Blue on White</string>
+    <string name="theme_blue_black_solid">solid Blue on Black</string>
+    <string name="theme_blue_gray_solid">solid Blue on Gray</string>
+    <string name="theme_blue_white">Blue on White</string>
+    <string name="theme_blue_black">Blue on Black</string>
+    <string name="theme_blue_gray">Blue on Gray</string>
+    <string name="theme_green_white_solid">solid Green on White</string>
+    <string name="theme_green_black_solid">solid Green on Black</string>
+    <string name="theme_green_white">Green on White</string>
+    <string name="theme_green_black">Green on Black</string>
+    <string name="theme_red_white_solid">solid Red on White</string>
+    <string name="theme_red_black_solid">solid Red on Black</string>
+    <string name="theme_red_gray_solid">solid Red on Gray</string>
+    <string name="theme_red_white">Red on White</string>
+    <string name="theme_red_black">Red on Black</string>
+    <string name="theme_red_gray">Red on Gray</string>
+    <string name="color_black">Black</string>
+    <string name="color_white">White</string>
+    <string name="color_gray">Gray</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_green">Green</string>
+    <string name="color_red">Red</string>
+    <string name="color_solid">solid</string>
+    <string name="color_on">on</string>
+    <string name="notify_updates_ticker">Обновление Total Recall</string>
+    <string name="notify_updates_title">Обновление</string>
+    <string name="notify_updates_message">Доступна новая версия Total Recall</string>
+</resources>

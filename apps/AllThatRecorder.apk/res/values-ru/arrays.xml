@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recording_timer_options">
+        <item>Таймер ВЫКЛ</item>
+        <item>Авто стоп</item>
+        <item>Авто сахранение</item>
+    </string-array>
+    <string-array name="pref_callaction_options">
+        <item>N/A</item>
+        <item>Пауза</item>
+        <item>Стоп</item>
+    </string-array>
+    <string-array name="pref_audiosource_options">
+        <item>По умолчанию</item>
+        <item>Микрофон</item>
+        <item>Голосовое общение</item>
+        <item>Распознавание голоса</item>
+    </string-array>
+	<string-array name="pref_callrecord_audiosource_options">
+        <item>По умолчанию</item>
+        <item>Микрофон</item>
+        <item>Voice Uplink</item>
+        <item>Voice Downlink</item>
+        <item>Голосовой вызов</item>
+        <item>Распознавание голоса</item>
+        <item>Голосовое общение</item>
+    </string-array>
+    <string-array name="filelist_options">
+        <item>Воспроизвести</item>
+        <item>Переименовать</item>
+        <item>Переместить</item>
+        <item>Удалить</item>
+        <item>Отправить</item>
+        <item>Конвертировать</item>
+    </string-array>
+    <string-array name="foldlist_options">
+        <item>Открыть</item>
+        <item>Переименовать</item>
+        <item>Переместить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="sort_options">
+        <item>По имени</item>
+        <item>По расширению</item>
+        <item>По Дате</item>
+        <item>По размеру</item>
+        <item>По времени воспр.</item>
+    </string-array>
+    <string-array name="pref_filter_options">
+        <item>Фильтр низких частот</item>
+        <item>Фильтр высоких частот</item>
+    </string-array>
+    <string-array name="fileter_preset">
+        <item>Без фильтра</item>
+        <item>Пользоват.</item>
+        <item>Бас акцент</item>
+        <item>ВЧ акцент</item>
+    </string-array>
+    <string-array name="agc_preset">
+        <item>AGC ВЫКЛ</item>
+        <item>Пользовательская</item>
+        <item>Динамическая AGC</item>
+        <item>Базовая AGC</item>
+    </string-array>
+    <string-array name="pref_hml_options">
+        <item>Высокая</item>
+        <item>Средняя</item>
+        <item>Низкая</item>
+    </string-array>
+    <string-array name="pref_agc_speed_options">
+        <item>Очень быстро</item>
+        <item>Быстро</item>
+        <item>Обычно</item>
+        <item>Медленно</item>
+    </string-array>
+    <string-array name="pref_background_options">
+        <item>Черный</item>
+        <item>Темно-серый</item>
+        <item>Бежевый</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Светло-серый</item>
+        <item>Белый</item>
+    </string-array>
+    <string-array name="pref_orientation_options">
+        <item>Автоматическая</item>
+        <item>Портретная</item>
+        <item>Ландшафтная</item>
+    </string-array>
+    <string-array name="pref_move_speed1_options">
+        <item>1 сек</item>
+        <item>2 сек</item>
+        <item>5 сек</item>
+        <item>10 сек</item>
+        <item>20 сек</item>
+        <item>30 сек</item>
+        <item>1 мин</item>
+    </string-array>
+    <string-array name="pref_move_speed2_options">
+        <item>10 сек</item>
+        <item>20 сек</item>
+        <item>30 сек</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+    </string-array>
+    <string-array name="pref_widget_shape_options">
+        <item>Только кнопка</item>
+        <item>Кнопка/имя</item>
+        <item>Кнопка/прозрач. имя</item>
+        <item>Кнопка/имя/рамка</item>
+    </string-array>
+    <string-array name="pref_update_interval_options">
+        <item>1 сек</item>
+        <item>1 мин</item>
+    </string-array>
+</resources>

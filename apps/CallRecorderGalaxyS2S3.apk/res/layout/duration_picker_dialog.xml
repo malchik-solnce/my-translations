@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/duration_picker_root" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0px" android:layout_marginRight="8.0px">
+        <TableRow>
+            <org.appforce.ui.VibratingButton android:id="@id/hour_plus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" />
+            <org.appforce.ui.VibratingButton android:id="@id/minute_plus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" />
+            <org.appforce.ui.VibratingButton android:id="@id/second_plus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" />
+        </TableRow>
+        <TableRow android:layout_marginTop="-8.0px" android:layout_marginBottom="-8.0px">
+            <EditText android:gravity="center" android:id="@id/hour" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0px" android:layout_marginRight="4.0px" android:ems="2" android:inputType="number" />
+            <EditText android:gravity="center" android:id="@id/minute" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0px" android:layout_marginRight="4.0px" android:ems="2" android:inputType="number" />
+            <EditText android:gravity="center" android:id="@id/second" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0px" android:layout_marginRight="4.0px" android:ems="2" android:inputType="number" />
+        </TableRow>
+        <TableRow>
+            <org.appforce.ui.VibratingButton android:id="@id/hour_minus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" />
+            <org.appforce.ui.VibratingButton android:id="@id/minute_minus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" />
+            <org.appforce.ui.VibratingButton android:id="@id/second_minus" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" />
+        </TableRow>
+    </TableLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0px" android:layout_marginRight="8.0px">
+        <org.appforce.ui.VibratingButton android:id="@id/duration_picker_ok" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@*android:string/ok" android:layout_weight="1.0" />
+        <org.appforce.ui.VibratingButton android:id="@id/duration_picker_cancel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@*android:string/cancel" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

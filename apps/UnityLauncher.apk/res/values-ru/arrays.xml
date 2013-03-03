@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="launcher_gravity_values">
+        <item>Вверху слева</item>
+        <item>Вверху справа</item>
+        <item>В центре слева</item>
+        <item>В центре справа</item>
+        <item>Внизу слева</item>
+        <item>Внизу справа</item>
+    </string-array>
+    <string-array name="swipe_edge_height">
+        <item>Полный экран</item>
+        <item>Половину экрана</item>
+        <item>Четверть экрана</item>
+    </string-array>
+</resources>

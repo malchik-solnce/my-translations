@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crash_notif_ticker_text">3D SwitchWidget непредвиденная ошибка, отправьте отчет об ошибке…</string>
+    <string name="crash_notif_title">Непредвиденная ошибка 3D SwitchWidget…</string>
+    <string name="crash_notif_text">Пожалуйста, выберите это, чтобы помочь нам решить эту проблему</string>
+    <string name="crash_dialog_title">3D SwitchWidget отчет об ошибке</string>
+    <string name="crash_dialog_text">Произошла непредвиденная ошибка, вызванная программу остановиться. Нам нужен ваш отзыв, чтобы помочь решить эту проблему. Вы можете быть уверены, что мы собираем только информацию об ошибке, а не Вашу личную.</string>
+    <string name="crash_yes">Отправить</string>
+    <string name="crash_no">Отмена</string>
+    <string name="crash_subject">Ошибка</string>
+    <string name="widget_title">Переключатели</string>
+    <string name="widget_icon">ic_launcher</string>
+    <string name="default_theme">Стандартная</string>
+    <string name="app_name">Next Switch Widget</string>
+    <string name="theme_info">"Courtyard/Wall/Vine
+
+Версия:V1.0 
+
+Разработчик:
+GO Launcher Dev Team 
+
+Обратная связь:
+golauncher@gmail.com 
+
+Блог:
+golauncher.goforandroid.com"</string>
+    <string name="dialogtitle">GO Launcher EX</string>
+    <string name="dialogcontent">GO Launcher EX не установлен, нажмите OK, чтобы скачать</string>
+    <string name="dialogok">OK</string>
+    <string name="permlab_read_settings">read switcher widget settings</string>
+    <string name="permdesc_read_settings">Allows an application to read the switcher widget settings</string>
+    <string name="permlab_write_settings">write switcher widget settings</string>
+    <string name="permdesc_write_settings">Allows an application to change the switcher widget settings</string>
+    <string name="style_large_title">Переключатели (4x1)</string>
+    <string name="style_1_1_title">Переключатель (1x1)</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="gps">GPS</string>
+    <string name="gprs">Данные</string>
+    <string name="sync">Синхронизация</string>
+    <string name="blue_tooth">Bluetooth</string>
+    <string name="ringer">Звонок</string>
+    <string name="brightness">Яркость</string>
+    <string name="air_plane">Полет</string>
+    <string name="rotate">Поворот</string>
+    <string name="vibrator">Вибрация</string>
+    <string name="lock_screen">Блокир. экрана</string>
+    <string name="timeout">Подсветка</string>
+    <string name="voice">Громкость</string>
+    <string name="sdMass">Подкл. SD</string>
+    <string name="sdVolume">Откл. SD</string>
+    <string name="battery">Батарея</string>
+    <string name="wifiAP">Wi-Fi модем</string>
+    <string name="reboot">Перезагрузка</string>
+    <string name="hapticfeedback">Виброотклик</string>
+    <string name="flashlight">Вспышка</string>
+    <string name="net_4g">4G</string>
+    <string name="instead_of">Использовать громкость звонка как громкость на уведомления</string>
+    <string name="drag_hint">Удерживайте кнопку, чтобы переместить</string>
+    <string name="warm">Иконки выше будет показан в рабочем столе</string>
+    <string name="warminit">Нижний слайд покажет переключатель столов</string>
+    <string name="warm2">нажмите и переключите значок, чтобы изменить положение</string>
+    <string name="finish">OK</string>
+    <string name="edit">Изменить</string>
+    <string name="main_screen_full">Виджет не может показать более 8 переключателей</string>
+    <string name="main_screen_empty">Виджет не может показать меньше 1 переключателя</string>
+    <string name="dlgtitle">Выйти</string>
+    <string name="rebootdlatitle">Перезарузка</string>
+    <string name="rebootsure">Вы уверены, что хотите перезагрузить?</string>
+    <string name="dlgask">Сохранить Ваши изменения?</string>
+    <string name="sure">Сохранить</string>
+    <string name="cancle">Отмена</string>
+    <string name="update_theme">Пожалуйста, обновите прозрачную тему GO Widget до версии 2.4 или выше</string>
+    <string name="wifi_internal_error">Внутренняя ошибка. Пожалуйста, отключите Wi-Fi в настройках системы.</string>
+    <string name="bluetooth_internal_error">Внутренняя ошибка. Пожалуйста, отключите Bluetooth в настройках системы.</string>
+    <string name="lock_internal_error">Внутренняя ошибка. Пожалуйста, попробуйте заблокировать экран еще раз.</string>
+    <string name="lock_internal_error_new_screen">Внутренняя ошибка. Пожалуйста, отключите переключатель GO Widget в настройках системы.</string>
+    <string name="lock_internal_error_remove_componentname">Внутренняя ошибка. Блокировка экрана не удалась. Проблема может исчезнуть после перезагрузки телефона или после отключения и включения экрана блокировки еще раз.</string>
+    <string name="bluetooth_no_adapter">Система не может найти Bluetooth адаптер. Bluetooth не может работать.</string>
+    <string name="open_edit_failed">Не удается открыть экран редактирования</string>
+    <string name="ringer_silent">Без звука</string>
+    <string name="lock_screen_func_tips">Блокировка экрана поддерживается только на Android 2.2 и выше</string>
+    <string name="wifi_ap_func_tips">Wi-Fi модем поддерживается только на Android 2.2 и выше</string>
+    <string name="no_wifi_ap_func_tips">Ваш телефон не имеет Wi-Fi модем или ошибка управления</string>
+    <string name="sdk_volume_func_tips">Отключение SD-карты поддерживается только на Android 2.2 и выше</string>
+    <string name="sdk_mass_func_tips">SD-карта поддерживается только на Android 2.2 и выше</string>
+    <string name="sdk_sd_in_mass">Вы не можете отключить SD-карту, когда она используется</string>
+    <string name="reboot_tips">Перезагрузка требует root прав</string>
+    <string name="gprs_func_tips">сначала включите мобильный интернет</string>
+    <string name="gprs_func_sdk_tips">Мобильная сеть поддерживается только на Android 2.2 и выше</string>
+    <string name="bluetooth_airplane_on_tips">Телефон находится в режиме самолета, вы не можете управлять Bluetooth</string>
+    <string name="sd_mass_tips">Сначала подключите SD-карту</string>
+    <string name="gps_func_tips">Не удается включить/отключить GPS с помощью GO SwitchWidget</string>
+    <string name="bettery_circs_not_found">Нет разрешения. Информация о батарее не может быть показана.</string>
+    <string name="lock_screen_tips">право автоматической блокировки для Go SwitchWidget, чтобы активировать функцию блокировки экрана. Чтобы удалить виджет, пожалуйста, сначала отключите блокировку экрана в Настройки -> Местоположение и безопасность -> Администраторы устройства -> Отключить GO SwitchWidget</string>
+    <string name="default_theme_title">Стандартная</string>
+    <string name="not_connect_not_support">USB не подключен или функция массивного хранения не поддерживается</string>
+    <string name="choose_switch">Выберите переключатель:</string>
+    <string name="ok_btn">OK</string>
+    <string name="setting">Настройка</string>
+    <string name="update_waiting">Обновление, пожалуйста, подождите..</string>
+    <string name="download_tips1">Чтобы использовать GO Switch Widget</string>
+    <string name="download_tips2">Сначала установите GOLauncher EX</string>
+    <string name="download_tips3">GO Launcher EX - популярный лончер для Андроид</string>
+    <string name="download_button">Скачать</string>
+    <string name="copyright">"Авторские права © 2004-2012 All Все права защищены. 
+3G.cn"</string>
+    <string name="prompt_return">Вернуться назад</string>
+    <string name="button_open_white">Экранный</string>
+    <string name="prompt_open_camera_failed">Не удается включить вспышку</string>
+    <string name="sdcard_not_connect_or_not_support_mass">USB отключен или хранилище не поддерживается</string>
+    <string name="mount_sdcard_first">Пожалуйста, сначала подключите SD-карту</string>
+    <string name="sdcard_change_mass_mode_fail">Не удалось переключиться на SD-карту</string>
+    <string name="sdcard_using_mass_mode">Пожалуйста, прекратите пользование перед отключением SD-карты</string>
+    <string name="sdcard_change_volumn_mode_fail">Не удалось подключить SD-карту</string>
+    <string name="next_name">Next Launcher,</string>
+    <string name="best_app"> next will be better !</string>
+    <string name="need_nextlauncher">Next Launcher является необходимым условием для Next Switch Widget</string>
+    <string name="down_load_nextlauncher">Скачать</string>
+    <string name="install_google_play_first">Пожалуйста, сначала установите Google Play</string>
+</resources>

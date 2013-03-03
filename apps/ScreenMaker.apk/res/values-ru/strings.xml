@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen maker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_main">Screen maker</string>
+    <string name="selectDevice">Устройство:</string>
+    <string name="selectOrientation">Выберите ориентацию</string>
+    <string name="orientationV">вертикальная</string>
+    <string name="orientationH">горизонтальная</string>
+    <string name="wrongRes">"Поддерживаются следующие экраны:
+240x320 | 320x480 | 480x800 | 480x854 | 540x960 | 600x1024 | 720x1280 | 768x1280 | 800x1280 | 1080x1920 | 1600x2560.
+Напишите мне, если здесь нет вашего разрешения."</string>
+    <string name="step_1">Шаг 1.</string>
+    <string name="step_2">Шаг 2.</string>
+    <string name="step_3">Шаг 3.</string>
+    <string name="infoRes">Разрешение изображения:</string>
+    <string name="infoDevice">Устройство:</string>
+    <string name="infoOrien">Ориентация:</string>
+    <string name="infoGenerate">"Обработка изображения.
+Пожалуйста, подождите..."</string>
+    <string name="imageInfoOK">Изображение создано и сохранено</string>
+    <string name="imagePath">по пути:</string>
+    <string name="imageName">Имя файла:</string>
+    <string name="shadowImage">Тень</string>
+    <string name="reflectionImage">Отражение</string>
+    <string name="reflectionScreen">Отражение экрана</string>
+    <string name="angleImage">Поворот</string>
+    <string name="skewImage">Наклон</string>
+    <string name="angle">Угол</string>
+    <string name="selectFile">Выбрать файл</string>
+    <string name="back">назад</string>
+    <string name="generateImage">Создать</string>
+    <string name="share">Поделиться</string>
+    <string name="show">Показать</string>
+    <string name="selectDeviceSpinner">Выберите устройство</string>
+    <string name="colorDevice">Цвет</string>
+    <string name="screenReflection">Отражение экрана</string>
+    <string name="scaleImage">Размер</string>
+    <string name="resizeNoChange">без изменений</string>
+    <string name="resizeLower">уменьшение на</string>
+    <string name="width">ширина:</string>
+    <string name="height">высота: авто</string>
+    <string name="more">еще</string>
+    <string name="popupText">"Приложение поддерживает 11 видов разрешений.
+Каждое устройство имеет указанное разрешение:"</string>
+    <string name="popupDevices">"240x320: Samsung Y
+
+320x480: Samsung Ace, HTC Dream, HTC Eris, Xperia Tipo
+
+480x800: SGS, SGS2, HD2, Nexus One, Nexus S, HTC Desire HD, HTC One V, HTC Incredible S, HTC Desire X
+
+480x854: Xperia Arc S, Xperia X10
+
+540x960: Motorola Razr, Xperia P, HTC Evo 3D, HTC Sensation, Motorola Photon 4G, HTC One S
+
+600x1024: Galaxy Tab 2 7.0
+
+720x1280: Galaxy Nexus, SGS3, Xperia S, HTC One X, HTC One X+, Samsung Note 2, HTC Evo 4G LTE
+
+768x1280: Nexus 4
+
+800x1280: Samsung Note, Nexus 7, Asus Transformer, Galaxy Tab 10.1
+
+1080x1920: HTC DNA, Sony Xperia Z
+
+1600x2560: Nexus 10"</string>
+    <string name="entrySortDevices">Сортировка устройств</string>
+    <string name="error1">* выберите изображение</string>
+    <string name="error2">* выберите устройство</string>
+    <string name="prefTitle">Настройки по умолчанию</string>
+    <string name="prefSummary">Установить по умолчанию</string>
+    <string name="prefInfo">"Если вы установили новые настройки:
+требуется перезапустить приложение, чтобы изменения вступили в силу"</string>
+    <string name="noConnection">Ошибка сети. Попробуйте еще раз.</string>
+    <string name="download404">Скачать не удалось. Попробуйте еще раз.</string>
+    <string name="reDownload">Скачать необходимые данные, если Вы хотите использовать это устройство</string>
+    <string name="downloadInfo">Загрузка, пожалуйста, подождите</string>
+    <string name="downloadError">Не удалось загрузить. Проверьте подключение к интернету и SD-карту.</string>
+    <string name="downloadSdCard">"SD-карта недоступна.
+Пожалуйста, установите ее перед загрузкой."</string>
+    <string name="download">скачать</string>
+</resources>

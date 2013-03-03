@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/recording_fix_fix" android:title="Исправить запись звонков" />
+    <item android:id="@id/recording_fix_restore" android:title="Восстановить библиотеки" />
+    <item android:id="@id/menu_trial" android:title="Зарегист. полной версии" />
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_language">
+        <item>Русский</item>
+        <item>Indonesia</item>
+        <item>ประเทศไทย</item>
+        <item>한국의</item>
+    </string-array>
+    <string-array name="entrys_value_language">
+        <item>ru</item>
+        <item>in</item>
+        <item>th</item>
+        <item>ko</item>
+    </string-array>
+    <string-array name="next_page_desc">
+        <item>下頁</item>
+        <item>下一頁</item>
+        <item>[下頁]</item>
+        <item>[下一頁]</item>
+        <item>【下頁】</item>
+        <item>【下一頁】</item>
+        <item>下章</item>
+        <item>下一章</item>
+        <item>下圖</item>
+        <item>下一圖</item>
+        <item>[下一章]</item>
+        <item>Далее</item>
+        <item>След. страница</item>
+        <item>Пред. страница</item>
+        <item>Пред. глова</item>
+        <item>След. глава</item>
+        <item>Больше>>></item>
+    </string-array>
+    <array name="user_name_key_words" />
+    <array name="submit_key_words" />
+    <array name="password_key_words" />
+    <string-array name="bookmark_popup">
+        <item>Откр.  вновом</item>
+        <item>Добавить ярлык</item>
+        <item>Изменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="entries_save_password">
+        <item>Запрос на сохранение</item>
+        <item>Не сохранять</item>
+    </string-array>
+</resources>

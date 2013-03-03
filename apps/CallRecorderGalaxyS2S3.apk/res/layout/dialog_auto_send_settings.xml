@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="260.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_auto_send_settings_enabled_mail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Отправлять каждую сохраненную запись через Gmail" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Вы должны ввести почту получателя, а также логин и пароль отправителя" />
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_auto_send_settings_enabled_evernote" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Добавлять каждую сохраненную запись в Evernote" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Вы должны ввести имя пользователя и пароль для Evernote" />
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_auto_send_settings_delete_after_gmail_evernote_upload" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Удалять локальный файл после каждой автозагрузки в Gmail/Evernote" />
+</LinearLayout>

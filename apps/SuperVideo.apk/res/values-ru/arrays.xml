@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detail_name">
+        <item>Дата</item>
+        <item>Размер</item>
+        <item>Просмотрено</item>
+        <item>Продолжительность</item>
+        <item>Формат</item>
+        <item>Разрешение</item>
+    </string-array>
+    <string-array name="youtube_api_name">
+        <item>Старый трюк (может не работать)</item>
+        <item>Официальный API (низкое качество)</item>
+        <item>Открыть браузер</item>
+    </string-array>
+	<string-array name="youtube_api_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="force_type">
+        <item>.mp4</item>
+        <item>.avi</item>
+        <item>.mpeg</item>
+        <item>.g3p</item>
+        <item>.mov</item>
+        <item>.3gp</item>
+        <item>.rmvb</item>
+        <item>.rm</item>
+        <item>.flv</item>
+        <item>.wmv</item>
+    </string-array>
+    <string-array name="sdcard_name">
+        <item>SD Card</item>
+        <item>LG SD Card</item>
+        <item>LG SD Card</item>
+        <item>Samsung SD Card</item>
+        <item>Moto SD Card</item>
+        <item>Samsung Tab Card</item>
+        <item>EMMC</item>
+        <item>Removable MicroSD</item>
+        <item>MicroSD</item>
+        <item>External1</item>
+        <item>DISK</item>
+        <item>SD Card2</item>
+        <item>ExtSD</item>
+        <item>Samsung S3 SD Card</item>
+    </string-array>
+    <string-array name="scan_dir_maxdeep">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="action_list">
+        <item>Сведения</item>
+        <item>Удалить файл</item>
+        <item>Очистить из воспроизводимых</item>
+        <item>Воспроизвести с HW Decoder</item>
+        <item>Воспроизвести с SW Decoder</item>
+    </string-array>
+	<string-array name="skip_interval_value">
+        <item>10000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>180000</item>
+        <item>240000</item>
+        <item>300000</item>
+        <item>600000</item>
+    </string-array>
+    <string-array name="skip_interval_display">
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>3 минуты</item>
+        <item>4 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+    </string-array>
+	<string-array name="decode_method_str_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="decode_method_str_name">
+        <item>Сначала HW Decode</item>
+        <item>Только  HW Decode</item>
+        <item>Только SW Decode</item>
+    </string-array>
+	<string-array name="color_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="color_mode">
+        <item>По умолчанию</item>
+        <item>Режим кино</item>
+        <item>Ночной режим</item>
+    </string-array>
+	<string-array name="youtube_q_value">
+        <item>0</item>
+        <item>13</item>
+        <item>17</item>
+        <item>18</item>
+        <item>22</item>
+        <item>37</item>
+    </string-array>
+    <string-array name="youtube_q_name">
+        <item>Автоопределение</item>
+        <item>MPEG-4 низкое качество</item>
+        <item>MPEG-4 среднее качество</item>
+        <item>H.264 нормальное качество</item>
+        <item>H.264 высокое качество</item>
+        <item>H.264 лучшее качество</item>
+    </string-array>
+    <string-array name="multi_window">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+	<string-array name="toolbar_timeout">
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+    </string-array>
+    <string-array name="toolbar_timeout_display">
+        <item>3сек.</item>
+        <item>5сек.</item>
+        <item>10сек.</item>
+        <item>30сек.</item>
+        <item>60сек.</item>
+        <item>120сек.</item>
+    </string-array>
+	<string-array name="orientation_list">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation_list_display">
+        <item>Автоповорот</item>
+        <item>Ландшафт</item>
+        <item>Портрет</item>
+        <item>На переднем плане</item>
+    </string-array>
+	<string-array name="offset_list">
+        <item>-16000</item>
+        <item>-8000</item>
+        <item>-6000</item>
+        <item>-4000</item>
+        <item>-2000</item>
+        <item>-1500</item>
+        <item>-1000</item>
+        <item>-500</item>
+        <item>0</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>4000</item>
+        <item>6000</item>
+        <item>8000</item>
+        <item>16000</item>
+    </string-array>
+    <string-array name="offset_list_display">
+        <item>16000 ms</item>
+        <item>-8000 ms</item>
+        <item>-6000 ms</item>
+        <item>-4000 ms</item>
+        <item>-2000 ms</item>
+        <item>-1500 ms</item>
+        <item>-1000 ms</item>
+        <item>-500 ms</item>
+        <item>No Offset</item>
+        <item>500 ms</item>
+        <item>1000 ms</item>
+        <item>1500 ms</item>
+        <item>2000 ms</item>
+        <item>4000 ms</item>
+        <item>6000 ms</item>
+        <item>8000 ms</item>
+        <item>16000 ms</item>
+    </string-array>
+    <string-array name="encoding_list_display">
+        <item>Автоопределение</item>
+        <item>Юникод</item>
+        <item>UTF-8</item>
+        <item>BIG5</item>
+        <item>GB2312</item>
+        <item>GBK</item>
+        <item>Shift-JIS</item>
+        <item>EUC-KR</item>
+        <item>ISO-8859-11</item>
+    </string-array>
+	<string-array name="encoding_list">
+        <item>AUTO</item>
+        <item>Unicode</item>
+        <item>UTF-8</item>
+        <item>BIG5</item>
+        <item>GB2312</item>
+        <item>GBK</item>
+        <item>Shift-JIS</item>
+        <item>EUC-KR</item>
+        <item>ISO-8859-11</item>
+    </string-array>
+	<string-array name="txtsize_list">
+        <item>0</item>
+        <item>14</item>
+        <item>20</item>
+        <item>26</item>
+        <item>32</item>
+        <item>38</item>
+        <item>44</item>
+        <item>50</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="txtsize_list_display">
+        <item>Auto</item>
+        <item>14</item>
+        <item>20</item>
+        <item>26</item>
+        <item>32</item>
+        <item>38</item>
+        <item>44</item>
+        <item>50</item>
+        <item>64</item>
+    </string-array>
+    <string-array name="popup_video_screen_size">
+        <item>320x240 (4:3)</item>
+        <item>480x320 (4:3)</item>
+        <item>640x480 (4:3)</item>
+        <item>640x360 (16:9)</item>
+        <item>720x480 (3:2)</item>
+        <item>800x600 (4:3)</item>
+        <item>854x480 (16:9)</item>
+        <item>1024x768 (4:3)</item>
+        <item>1067x600 (16:9)</item>
+        <item>1280x720 (16:9)</item>
+        <item>1440x1080 (4:3)</item>
+    </string-array>
+    <string-array name="sort_method_list">
+        <item>По имени A~Z</item>
+        <item>Пр имени Z~A</item>
+        <item>По времени ASC</item>
+        <item>По времени DESC</item>
+        <item>По продолжит. ASC</item>
+        <item>По продолжит. DESC</item>
+        <item>Сначала HD видео</item>
+    </string-array>
+</resources>

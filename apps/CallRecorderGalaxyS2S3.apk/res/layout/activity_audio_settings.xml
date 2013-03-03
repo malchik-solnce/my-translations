@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Выходной формат звука:" />
+        <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1">
+            <TableRow>
+                <org.appforce.ui.VibratingRadioButton android:id="@id/audio_type_3gpp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="3GPP" />
+                <org.appforce.ui.VibratingRadioButton android:id="@id/audio_type_mpeg4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="MPEG4" />
+            </TableRow>
+            <TableRow>
+                <org.appforce.ui.VibratingRadioButton android:id="@id/audio_type_amr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="AMR" />
+                <org.appforce.ui.VibratingRadioButton android:id="@id/audio_type_wav" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="WAV" />
+            </TableRow>
+            <TableRow>
+                <org.appforce.ui.VibratingCheckBox android:id="@id/max_duration" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Макс. прод. записи:" />
+                <org.appforce.ui.VibratingButton android:id="@id/max_duration_value" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </TableRow>
+            <TableRow>
+                <org.appforce.ui.VibratingCheckBox android:id="@id/min_duration" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Мин. прод. записи:" />
+                <org.appforce.ui.VibratingButton android:id="@id/min_duration_value" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </TableRow>
+            <TableRow>
+                <org.appforce.ui.VibratingCheckBox android:id="@id/max_size" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Макс. размер файла:" />
+                <org.appforce.ui.VibratingButton android:id="@id/max_size_value" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </TableRow>
+        </TableLayout>
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Папка с записями:" />
+        <EditText android:id="@id/destination" android:layout_width="fill_parent" android:layout_height="wrap_content" android:editable="false" />
+        <TextView android:textStyle="italic" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Нажмите, чтобы выбрать папку" />
+        <org.appforce.ui.VibratingButton android:id="@id/recording_strategy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/choose_recording_settings" />
+        <org.appforce.ui.VibratingButton android:id="@id/fix_call_recording" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Исправить запись звонков" />
+    </LinearLayout>
+</ScrollView>

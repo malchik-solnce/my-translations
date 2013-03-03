@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/activity_settings_wizard_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="3.0dip">
+        <TextView android:textStyle="bold" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_dear_user" />
+        <View android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="3.0dip" android:layout_marginBottom="3.0dip" />
+        <TextView android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_explanation" />
+        <TextView android:gravity="center_horizontal" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_click_done" />
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="1.0dip">
+                <TextView android:textStyle="italic" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_your_model" android:layout_weight="1.0" />
+                <TextView android:textStyle="bold" android:gravity="center_horizontal" android:id="@id/activity_settings_wizard_your_model" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+        <RadioGroup android:id="@id/activity_settings_wizard_radio_group" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingRadioButton android:id="@id/activity_settings_wizard_strategy_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_strategy_1" />
+            <org.appforce.ui.VibratingRadioButton android:id="@id/activity_settings_wizard_strategy_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_strategy_2" />
+            <org.appforce.ui.VibratingRadioButton android:id="@id/activity_settings_wizard_strategy_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_strategy_3" />
+        </RadioGroup>
+        <org.appforce.ui.VibratingCheckBox android:id="@id/activity_settings_wizard_wake_lock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_wake_lock" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/activity_settings_wizard_record_after_start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_record_after_start" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/activity_settings_wizard_speaker_phone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_speaker_phone" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/activity_settings_wizard_stream_solo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_settings_wizard_stream_solo" />
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingButton android:textStyle="bold" android:id="@id/activity_settings_wizard_done" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/done" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

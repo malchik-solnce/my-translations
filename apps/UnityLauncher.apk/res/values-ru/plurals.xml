@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_added">
+        <item quantity="other">Добавлено %1$d приложений. Удерживайте долго, чтобы изменить порядок.</item>
+        <item quantity="one">Приложение %1$d добавлено. Удерживайте долго, чтобы изменить порядок.</item>
+    </plurals>
+</resources>

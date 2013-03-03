@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:id="@id/sequence_strategy_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="6.0dip" android:text="Чтобы улучшить качество записи, нужно записать короткий, пробный  звонок. Пожалуйста, наберите выбранный номер и повесьте трубку после нескольких секунд. Не обязательно, чтобы Вам ответили или Вы слышали гудки. \n\nСовет: удерживайте поле ввода телефонного номера для выбора контакта" android:layout_centerHorizontal="true" />
+    <EditText android:id="@id/sequence_strategy_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="18.0dip" android:layout_marginRight="12.0dip" android:hint="Номер" android:layout_below="@id/sequence_strategy_info" android:layout_centerHorizontal="true" android:inputType="phone" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="16.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="-16.0dip" android:layout_below="@id/sequence_strategy_number" android:layout_centerHorizontal="true">
+        <Button android:id="@id/sequence_strategy_dial" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Вызвать" android:layout_weight="1.0" />
+        <Button android:id="@id/sequence_strategy_cancel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Отмена" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

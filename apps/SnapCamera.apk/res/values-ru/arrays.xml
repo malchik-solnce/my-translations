@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_about_entries">
+        <item>"
+Программирование
+ \u0009\u0009Martin Johnson
+ Графика
+ \u0009\u0009Zac Johnson
+ Менеджмент
+ \u0009\u0009Ginnie Denny
+ Поддержка
+ \u0009\u0009Max Johnson
+ Видео
+ \u0009\u0009Fran Coulibaly
+ 
+ Нажмите здесь, чтобы перейти в
+  Google Play и оценить это приложение
+ 
+ ©2013 Marginz Software
+ \u0009\u0009www.marginz.co.nz
+"</item>
+    </string-array>
+</resources>

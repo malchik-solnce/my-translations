@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/destination_picker_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/file_picker_buttons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <org.appforce.ui.VibratingButton android:id="@id/file_picker_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="OK" android:layout_weight="0.55" />
+        <org.appforce.ui.VibratingButton android:id="@id/file_picker_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Отмена" android:layout_weight="0.45" />
+    </LinearLayout>
+    <HorizontalScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/file_picker_buttons">
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:id="@id/holder" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </ScrollView>
+    </HorizontalScrollView>
+</RelativeLayout>

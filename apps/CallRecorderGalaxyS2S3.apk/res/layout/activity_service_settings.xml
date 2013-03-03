@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/activity_service_settings_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Выберите вызовы для записи:" />
+        <RadioGroup android:orientation="horizontal" android:id="@id/calls_type" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingRadioButton android:id="@id/calls_type_none" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="Выкл" />
+            <org.appforce.ui.VibratingRadioButton android:id="@id/calls_type_in" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="Вх" />
+            <org.appforce.ui.VibratingRadioButton android:id="@id/calls_type_out" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="Ис" />
+            <org.appforce.ui.VibratingRadioButton android:id="@id/calls_type_both" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="6.0px" android:text="Все" />
+        </RadioGroup>
+        <org.appforce.ui.VibratingCheckBox android:id="@id/manual_call_recording" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Ручная запись разговоров (запускается из уведомлений)" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/prompt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Уведоление о сохранении после вызова" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/auto_start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Автозагрузка" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/record_via_sms" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Разрешить запускать удаленную запись через SMS" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/hide_notification" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Скрыть уведомления" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/show_recording_toast" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Показывать тосты запуска/остановки записи" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/dont_record_with_bt_headset" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Не записывать автоматически, если подключена BT гарнитура" />
+        <org.appforce.ui.VibratingCheckBox android:id="@id/auto_reset_service" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="Автосброс сервиса" />
+        <org.appforce.ui.VibratingButton android:id="@id/activity_service_settings_root_oom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_service_settings_root_oom" android:layout_weight="1.0" />
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingButton android:id="@id/auto_upload_settings" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Настройки Gmail/Evernote" android:layout_weight="1.0" />
+            <org.appforce.ui.VibratingButton android:id="@id/settings_export_import" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_service_settings_export_import" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingButton android:id="@id/numbers_based_recording" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_service_settings_numbers_based_recording" android:layout_weight="1.0" />
+            <org.appforce.ui.VibratingButton android:id="@id/record_name_options" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_service_settings_record_name_options" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingButton android:id="@id/change_theme" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activity_service_settings_theme" android:layout_weight="1.0" />
+            <org.appforce.ui.VibratingButton android:id="@id/change_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Изменить пароль" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingButton android:layout_gravity="center_horizontal" android:id="@id/record_via_sms_settings" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Настройки записи через SMS" android:minLines="2" android:layout_weight="1.0" />
+            <org.appforce.ui.VibratingButton android:layout_gravity="center_horizontal" android:id="@id/dict_settings" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Настройки записи диктофоном" android:minLines="2" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <org.appforce.ui.VibratingButton android:id="@id/help" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Помощь" android:layout_weight="1.0" />
+            <org.appforce.ui.VibratingButton android:id="@id/feedback" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dialog_feedback_feedback" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

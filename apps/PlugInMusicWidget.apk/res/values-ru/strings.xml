@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit">Нажмите еще раз, чтобы выйти</string>
+    <string name="bg_change_title">Установить фон виджета</string>
+    <string name="app_name">Plug In Music Widget</string>
+    <string name="timer_setting_title">Настройки таймера</string>
+    <string name="timer_type_title">Тип таймера</string>
+    <string name="timer_type_summary">Выберите тип таймера музыки</string>
+    <string name="plug_in_settings_title">Основные настройки</string>
+    <string name="notification_title">Предотвращение закрытия</string>
+    <string name="notification_summary">Предотвращение закрытия программы во время воспроизведения музыки. Иконка приложения будет всегда отображаться в области уведомлений.</string>
+    <string name="plug_in_volume_title">Громкость в наушниках</string>
+    <string name="plug_in_volume_summary">Установите громкость для наушников</string>
+    <string name="track_change_using_volume_title">Переопределить КРГ (Beta)</string>
+    <string name="track_change_using_volume_summary">"Включает смену трека с помощью клавиши регулировки громкости (Двойной щелчок: Назад/Вперед 
+Третий клик (в 0.25сек): Отмена)"</string>
+    <string name="plug_out_fuction_title">Удаление наушников</string>
+    <string name="plug_out_fuction_summary" />
+    <string name="plug_out_volume_title">Громкость динамика</string>
+    <string name="plug_out_volume_summary">Установите громкость динамика</string>
+    <string name="auto_start_music_player_title">Автозапуск муз. плера</string>
+    <string name="auto_start_music_player_summary">Автоматический запуск музыкального проигрывателя, когда наушники подключены</string>
+    <string name="timer_value_title">Установка таймера</string>
+    <string name="timer_value_msg">Введите значение таймера (мин или номер песни)</string>
+    <string name="timer_value_summary">Введите значение таймера (мин/песни)</string>
+    <string name="keep_screen_off_title">Экран отключен (Beta)</string>
+    <string name="keep_screen_off_summary">Держать экран выкл., при нажатии клавиши громкости (нужен админ. устройства)</string>
+    <string name="player_select_title">Выберите музыкальный плеер</string>
+    <string name="player_select_summary">"(Чтобы исполь. Winamp, нужно включить 'Управление гарнитурой' в настройках Winamp)"</string>
+    <string name="earphone_volume">Громкость наушников</string>
+    <string name="speaker_volume">Громкость динамика</string>
+    <string name="timer_type_string">Тип таймера :</string>
+    <string name="timer_remaining">Осталось</string>
+    <string name="timer_type_time">Время</string>
+    <string name="timer_type_music">Песни</string>
+    <string name="timer_type_explain">"Тип таймера: Музыка
+
+Оставшиеся песни :"</string>
+    <string name="timer_value_warning">Неверное значение</string>
+    <string name="media_volume">Громкость медиа :</string>
+    <string name="ringer_volume">Громкость звонка :</string>
+    <string name="voice_volume">Громкость разговора :</string>
+    <string name="ringer_volume_explain">"(Введите '0' : для виброрежима)"</string>
+    <string name="click_timing_title">Задержка двойного нажатия</string>
+    <string name="plug_in_settings_earphone_title">Настройки функций наушников</string>
+    <string name="plug_in_settings_info_title">Информация</string>
+    <string name="email_title">Отправить отзыв</string>
+    <string name="email_error">Не удается отправить e-mail</string>
+    <string name="star_title">Посмотреть в Google Play</string>
+    <string name="update_title">Обновление</string>
+    <string name="update_msg">"Доступна новая версия! 
+
+"</string>
+    <string name="setting_timer_value">Нажмите, чтобы установить значение таймера</string>
+    <string name="powerkey_summary">"Смена трека с помощью клавиши питания, когда экран выключен (щелкните дважды
+**Поддержка только серий GALAXY**)"</string>
+    <string name="powerkey_title">Переопределение КП (Beta)</string>
+    <string name="select_player_first">Выберите музыкальный плеер</string>
+    <string name="auto_volume_summary">Автоматическая настройка громкости звука, когда наушники подключены/отключены</string>
+    <string name="auto_volume_title">Автоуправление громкостью</string>
+    <string name="command_title">Изменить метод управления</string>
+    <string name="command_summary">Если виджет не может контролировать стоковый муз. плеер, включите эту опцию</string>
+    <string name="plug_in_settings_category_text">Настройки текста</string>
+    <string name="plug_in_settings_text_title">Название</string>
+    <string name="plug_in_settings_text_album">Альбом</string>
+    <string name="plug_in_settings_text_artist">Исполнитель</string>
+    <string name="plug_in_help">"Использование панели
+1. Нажмите в любом месте в нижней части экрана
+2. Проведите пальцем в центр экрана 
+3. Затем приложение переключит трек
+4. При двойном щелчке на площадку, запуск плеера или т.п."</string>
+    <string name="squre_function_summary">Выберите функцию квадратной кнопки (в размере виджета 2x1 и 4x1)</string>
+    <string name="squre_function_title">Квадратная кнопка</string>
+    <string name="control_type_summary">Выберите тип управления для виджетов (если виджет не может контролировать стоковый муз. плеер, выберите команды или команды (FIXED))</string>
+    <string name="control_type_title">Тип управления</string>
+    <string name="basic_player">Android music player (FIXED)</string>
+    <string name="plug_in_settings_category_pad">Настройки панели</string>
+    <string name="plug_in_settings_category_controller">Настройки управления</string>
+    <string name="pad_enable_summary">Включает пад панель, которая появляется на экране. Проведите по ней для воспроизведения следующего/предыдущего трека.</string>
+    <string name="pad_enable_title">Вкл. доп. панель</string>
+    <string name="pad_width_summary">Установите ширину панели</string>
+    <string name="pad_width_title">Ширина панели</string>
+    <string name="pad_location_summary">Выберите положение панели</string>
+    <string name="pad_location_title">Расположение панели</string>
+    <string name="left_double_tab_summary" />
+    <string name="left_double_tab_title">Двойной тап (слева)</string>
+    <string name="right_double_tab_summary" />
+    <string name="right_double_tab_title">Двойной тап (справа)</string>
+    <string name="pad_visibility_summary" />
+    <string name="pad_visibility_title">Показывать панель</string>
+    <string name="music_toast_title">Тосты</string>
+    <string name="music_toast_summary">Показывать информационные тосты при переключении песен</string>
+    <string name="force_start_title">Принуд. запуск плеера</string>
+    <string name="force_start_summary">Если при нажатии любой из кнопок виджета, плеер не работает, он будет запущен принудительно</string>
+    <string name="star_summary">Разработчик живет на звездах. Пожалуйста, дайте мне пять звезд!</string>
+    <string name="email_summary">Если у вас возникли проблемы или есть идея для приложения, пожалуйста, напишите мне</string>
+    <string name="timer_title_value">Значение</string>
+    <string name="timer_title_type">Тип</string>
+    <string name="msg_notification">Служба виджета работает..</string>
+    <string name="plug_in_settings_modify_theme_title">Настройка пользов. темы</string>
+    <string name="plug_in_settings_modify_theme_summary">Изменить тему виджета приложения</string>
+    <string name="plug_in_settings_theme_title">Вкл. свою тему</string>
+    <string name="plug_in_settings_theme_summary" />
+    <string name="preview_4x1">Предпросмотр виджета 4x1</string>
+    <string name="preview_4x2">Предпросмотр виджета 4x2</string>
+    <string name="warning_image_size">Размер изображения (ширина х высота) должны быть меньше, чем 90000</string>
+    <string name="plug_in_settings_category_theme">Настройки темы</string>
+    <string name="color_setting_title">Цвет фона</string>
+    <string name="color_setting_summary">Установить цвет фона виджета</string>
+    <string name="warning_color">Неизвестный цвет</string>
+</resources>

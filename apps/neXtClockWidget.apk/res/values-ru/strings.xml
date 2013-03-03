@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_title">Часы</string>
+    <string name="alarm_not_found">Системный будильник не найден</string>
+    <string name="down_load_nextlauncher">Скачать</string>
+    <string name="need_nextlauncher">Next Launcher обязателен для Next виджетов</string>
+    <string name="best_app">будет лучшим!</string>
+    <string name="next_name">Next Launcher,</string>
+    <string name="install_google_play">Пожалуйста, сначала установите Google Play</string>
+</resources>

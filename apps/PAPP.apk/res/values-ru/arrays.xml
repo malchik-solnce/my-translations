@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strarrMainList">
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Избранное</item>
+    </string-array>
+    <string-array name="strarrSubList">
+        <item>Все песни</item>
+        <item>По исполнителям</item>
+        <item>По альбому</item>
+        <item>По жанру</item>
+    </string-array>
+    <string-array name="strarrFavList">
+        <item>Избранные 1</item>
+        <item>Избранные 2</item>
+        <item>Избранные 3</item>
+    </string-array>
+    <string-array name="sapOrientation">
+        <item>Авто</item>
+        <item>Ландшафт</item>
+        <item>Портрет</item>
+    </string-array>
+    <string-array name="sapTheme">
+        <item>Black Pearl</item>
+        <item>Deep Blue</item>
+    </string-array>
+    <string-array name="sapCrossfadingDuration">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="menuSortOptions">
+        <item>Возрастающи</item>
+        <item>Убывание</item>
+    </string-array>
+    <string-array name="strarrRescanOptions">
+        <item>Пересканировать SD карту только для изменений(рекомендуется)</item>
+        <item>Пересканировать SD карту как Новую (медленно)</item>
+    </string-array>
+    <string-array name="strarrEffects">
+        <item>Эквалайзер выкл</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Classical</item>
+        <item>Rock</item>
+    </string-array>
+    <string-array name="strarrReverbEnvironments">
+        <item>Реверберация Выкл</item>
+        <item>Аудитория</item>
+        <item>Лекционный зал</item>
+        <item>Концертный зал</item>
+        <item>Танцпол</item>
+        <item>Class Room</item>
+    </string-array>
+</resources>

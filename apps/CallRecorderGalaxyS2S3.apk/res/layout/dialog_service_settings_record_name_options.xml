@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_service_settings_record_name_options_append_date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dialog_service_settings_record_name_option_append_date" />
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_service_settings_record_name_options_append_time" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dialog_service_settings_record_name_option_append_time" />
+    <org.appforce.ui.VibratingCheckBox android:id="@id/dialog_service_settings_record_name_options_append_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dialog_service_settings_record_name_option_append_name" />
+</LinearLayout>

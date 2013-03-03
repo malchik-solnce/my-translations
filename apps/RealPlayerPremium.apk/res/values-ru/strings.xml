@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_value_pref_gallery_sort">descending</string>
+    <string name="app_name">RealPlayer</string>
+    <string name="widget_name_small">RealPlayer</string>
+    <string name="widget_name_large">RealPlayer (Large)</string>
+    <string name="appDescriptions">RealNetworks multimedia player</string>
+    <string name="music">Музыка</string>
+    <string name="music_title">МУЗЫКА</string>
+    <string name="video">Видео</string>
+    <string name="video_title">Видео клипы</string>
+    <string name="photos">Фотографии</string>
+    <string name="videos">Видео</string>
+    <string name="ok">OK</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="done">Готово</string>
+    <string name="confirm">OK</string>
+    <string name="retry">Повторить</string>
+    <string name="next">Далее</string>
+    <string name="user">ПОЛЬЗОВАТЕЛЬ</string>
+    <string name="videos_by_folder">Выбрать папку</string>
+    <string name="my_videos">Мое видео</string>
+    <string name="share">Отправить</string>
+    <string name="search_similar">Поиск</string>
+    <string name="general_settings">Основные настройки</string>
+    <string name="close">Закрыть</string>
+    <string name="cannot_connect_to_server">Не удается подключиться к серверу</string>
+    <string name="unable_to_play_content">Невозможно воспроизвести содержимое</string>
+    <string name="media_file_type_not_supported">Тип медиа-файла не поддерживается</string>
+    <string name="error_due_to_cancelation">Ошибка из-за отмены</string>
+    <string name="media_file_corrupted">Медиа-файл поврежден</string>
+    <string name="shortcuts">Ярлыки</string>
+    <string name="generating_thumbnails">Создание миниатюр видео, пожалуйста, подождите…</string>
+    <string name="generating_photo_thumbnails">Создание миниатюр фото, пожалуйста, подождите…</string>
+    <string name="music_audiobook">Аудиокниги</string>
+    <string name="music_all_songs">Песни</string>
+    <string name="allSongs">Все песни</string>
+    <string name="music_album">Альбомы</string>
+    <string name="music_all_albums">Все альбомы</string>
+    <string name="play">Воспроизвести</string>
+    <string name="play_all">Воспроизвести все</string>
+    <string name="add_songs">Добавить песни</string>
+    <string name="add0">Добавить (0)</string>
+    <string name="reorder">Изменить порядок</string>
+    <string name="add_a_playlist">Добавить плейлист</string>
+    <string name="playlist_setting">Настройки плейлиста</string>
+    <string name="track_selection_title">Выбрать песни</string>
+    <string name="rename">Переименовать</string>
+    <string name="playlist_renamed_message">Успешно переименован</string>
+    <string name="delete_playlist">Удалить плейлист</string>
+    <string name="delete_playlists">Удалить плейлисты</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="unselect_all">Отменить все</string>
+    <string name="now_playing">Проигрывается</string>
+    <string name="streaming">Потоковое аудио</string>
+    <string name="local_file">Local Audio</string>
+    <string name="drm_file">DRM protected file</string>
+    <string name="email_attachment">Email attachment</string>
+    <string name="mms_attachment">MMS attachment</string>
+    <string name="create_new_playlist">Создать новый плейлист</string>
+    <string name="playlist_already_exists">Плейлист уже существует</string>
+    <string name="playlist_name_hint">Имя списка</string>
+    <string name="select_music_track">Выберите музыкальную дорожку</string>
+    <string name="unable_to_open_audio">Не удалось открыть аудио</string>
+    <string name="add_as_ringtone">На рингтон</string>
+    <string name="cannot_set_song_as_ringtone">Невозможно установить текущую песню в качестве мелодии звонка</string>
+    <string name="set_current_song_as_ringtone">%1$s установлено в качестве рингтона</string>
+    <string name="youtube">YouTube</string>
+    <string name="blockbuster">Blockbuster</string>
+    <string name="blockbuster_by_title">Titles</string>
+    <string name="blockbuster_by_actor">Actors</string>
+    <string name="mobitv">T-Mobile TV</string>
+    <string name="mobitv_image_size">96x96</string>
+    <string name="allvideos">Все видео</string>
+    <string name="camcorder">Camcorder Video</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="native_mode">Native</string>
+    <string name="back">Назад</string>
+    <string name="full">Полный экран</string>
+    <string name="best">Наилучшее</string>
+    <string name="video_playback_error">Ошибка воспроизведения видео</string>
+    <string name="this_video_cannot_be_played">Это видео не воспроизводится</string>
+    <string name="live">Live</string>
+    <string name="loading_video">Загрузка…</string>
+    <string name="media_scanning">Android сканирует вашу SD-карту, пожалуйста, подождите…</string>
+    <string name="video_delete_alert">Вы действительно хотите удалить это видео?</string>
+    <string name="video_delete_toast">%1$s успешно удалено</string>
+    <string name="playback_failed">К сожалению, плеер не поддерживает этот аудио файл</string>
+    <string name="unknown_album_name">Неизвестно</string>
+    <string name="unknown_artist_name">Неизвестно</string>
+    <string name="unknown_genre_name">Неизвестно</string>
+    <string name="noTracks">Нет треков для воспроизведения</string>
+    <string name="onesong">1 песня</string>
+    <string name="Nsongs">песен</string>
+    <string name="song">песня</string>
+    <string name="Nalbums">альбомов</string>
+    <string name="album">альбом</string>
+    <string name="albumsongseparator">,</string>
+    <string name="queue">Текущий плейлист</string>
+    <string name="new_playlist">Новый плейлист</string>
+    <string name="NNNtracksdeleted">песен удалено</string>
+    <string name="NNNtrackstoplaylist">песен добавлено в плейлист</string>
+    <string name="sdcard_missing_title">Нет SD-карты</string>
+    <string name="sdcard_missing_message">Нет SD-карты</string>
+    <string name="sdcard_busy_title">SD-карта занята</string>
+    <string name="sdcard_busy_message">К сожалению, ваша SD-карта занята</string>
+    <string name="sdcard_error_title">Ошибка SD-карты</string>
+    <string name="sdcard_error_message">Ошибка SD-Карты</string>
+    <string name="emptyplaylist">Выбранный плейлист пуст</string>
+    <string name="playlist_empty">Плейлист пуст</string>
+    <string name="durationformat">%2$d:%5$02d</string>
+    <string name="alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="artists">Артисты</string>
+    <string name="playlists">Плейлисты</string>
+    <string name="unknownPlaylist">Неизвестный плейлист</string>
+    <string name="playlists_shortcut">Плейлисты</string>
+    <string name="albums">Альбомы</string>
+    <string name="songs">Песни</string>
+    <string name="genres">Жанры</string>
+    <string name="rated_songs">Любимые</string>
+    <string name="fm_transmit">FM-передатчик</string>
+    <string name="add_to_playlist">Добавить в плейлист</string>
+    <string name="remove_from_playlist">Удалить из плейлиста</string>
+    <string name="media_share">Обмен медиа</string>
+    <string name="playlist">Плейлист</string>
+    <string name="most_played">Самые популярные</string>
+    <string name="recently_added">Недавно добавленные</string>
+    <string name="favorites">Любимые</string>
+    <string name="five_stars">5 звезд</string>
+    <string name="four_stars">4 звезды</string>
+    <string name="three_stars">3 звезды</string>
+    <string name="two_stars">2 звезды</string>
+    <string name="one_star">1 звезда</string>
+    <string name="unrated">Без оценки</string>
+    <string name="delete">Удалить</string>
+    <string name="song_delete_confirmation">Вы уверены, что хотите удалить эту песню?</string>
+    <string name="album_delete_confirmation">Вы уверены, что хотите удалить все песни из этого альбома?</string>
+    <string name="artist_delete_confirmation">Вы уверены, что хотите удалить все песни этого исполнителя?</string>
+    <string name="genre_delete_confirmation">Вы уверены, что хотите удалить все песни этого жанра?</string>
+    <string name="rating_delete_confirmation">Вы уверены, что хотите удалить все песни из этого рейтинга?</string>
+    <string name="song_deleted">" было удалено"</string>
+    <string name="delete_nowplaying_not_allowed">Чтобы удалить эту песню, сначала остановите воспроизведение</string>
+    <string name="cant_add_song_to_playlist">Не удается добавить эту песню в плейлист</string>
+    <string name="lost_network_connection">Потеряно подключение к сети</string>
+    <string name="lost_network_connection_confirmation">Потеряно подключение к Интернету, пожалуйста, нажмите кнопку ОК, чтобы выйти из плеера.</string>
+    <string name="sd_unmounted_confirmation">Потерян доступ к SD-карте, пожалуйста, нажмите кнопку ОК, чтобы выйти из плеера</string>
+    <string name="loading_audio">Загрузка…</string>
+    <string name="settings">Параметры</string>
+    <string name="ir_must_signin_rate">"Для того, чтобы оценить песни вы должны войти.
+
+Вход или создания учетной записи приведет вас к главному экрану."</string>
+    <string name="ir_must_signin_ban">"Для того, чтобы запретить песни вы должны войти.
+
+Вход или создания учетной записи приведет вас к главному экрану."</string>
+    <string name="ir_skips_title">Skips Remaining:</string>
+    <string name="ir_skips_pre">Предупреждение. Ваша триальная версия закончится:</string>
+    <string name="ir_skips_post">"
+
+Пожалуйста, войдите или создайте новую учетную запись."</string>
+    <string name="ir_skips_loggedin_pre">Warning, skips left before your account is locked and you have to login with a captcha on slacker.com:</string>
+    <string name="ir_skips_loggedin_post">"
+
+Upgrade to get unlimited skips."</string>
+    <string name="ir_trial_ended">Ваша триальная версия закончилась, пожалуйста, войдите в систему или создайте новую учетную запись</string>
+    <string name="mall_not_found_title">Приложение не найдено</string>
+    <string name="mall_not_found_message">There was an error launching the Amazon MP3 marketplace app.</string>
+    <string name="open_url">Открыть ссылку</string>
+    <string name="open_url_prompt">Введите ссылку или выберите последний клип:</string>
+    <string name="recent_prompt">Последние:</string>
+    <string name="pref_gallery_category">Основные настройки</string>
+    <string name="pref_gallery_resume_music_title">Возобновление музыки</string>
+    <string name="pref_gallery_resume_music_summary">Возобновление воспроизведения после каждого вызова</string>
+    <string name="pref_customer_improvement_mode_title">Режим улучшения качества</string>
+    <string name="pref_enable_scroblling_title">Включить скробблинг</string>
+    <string name="pref_enable_scroblling_summary">Поддерживаетя скробблинг из Last FM</string>
+    <string name="scrobbling_login_title">Войти</string>
+    <string name="login">Войти</string>
+    <string name="join">Join</string>
+    <string name="username">Имя пользователя:</string>
+    <string name="password">Пароль :</string>
+    <string name="join_scrobbling">http://www.last.fm/join</string>
+    <string name="pref_crossfading_title">Плавный переход</string>
+    <string name="pref_enable_crossfading_title">Включить плавный переход</string>
+    <string name="pref_enable_crossfading_summary">Поддерживать плавное воспроизведение</string>
+    <string name="template_user_agent" />
+    <string name="search_internet_radio">Интернет радио</string>
+    <string name="youtube_channels">Каналы YouTube</string>
+    <string name="youtube_recent_videos">Видео YouTube</string>
+    <string name="youtube_video_play_preffix">http://www.youtube.com/watch?v=</string>
+    <string name="MobiTV_channels">T-Mobile TV</string>
+    <string name="amazon">Amazon MP3 Store</string>
+    <string name="search_loading">Зарузка…</string>
+    <string name="search_no_network">Нет сети</string>
+    <string name="search_no_result">Нет рузультата</string>
+    <string name="search_mobitv_alert_dialog">MobiTV application cannot be found in system. Please install it and run application correctly</string>
+    <string name="search_youtube_alert_dialog">YouTube application cannot be found in system. Please install it and run application correctly</string>
+    <string name="search_character_limit">.~!@#&amp;&lt;></string>
+    <string name="search_alert_title">Внимание</string>
+    <string name="search_alert_message">Not allow to enter symbol</string>
+    <string name="search_more">Еще…</string>
+    <string name="search_mobitv_on_demand">On Demand</string>
+    <string name="search_mobitv_live">Live</string>
+	<string name="search_web_title">Web Video</string>
+    <string name="search_web_item_text">С Web Video поиска</string>
+    <string name="search_retrieving_youtube_content">Получение видео…</string>
+    <string name="search_cannot_get_video_content">Sorry. Cannot get video content!</string>
+    <string name="no_sdcard_title">НЕТ SD-КАРТЫ</string>
+    <string name="no_sdcard_music">Нет SD-карты</string>
+    <string name="no_sdcard_video">Нет SD-карты</string>
+    <string name="no_music">На SD-карте нет музыки</string>
+    <string name="no_video">На SD-карте нет видео</string>
+    <string name="playback">Воспроизвести</string>
+    <string name="download">Скачать</string>
+    <string name="buffered">"Буферизация : "</string>
+    <string name="playbackDownload">Воспроиз. и скачать</string>
+    <string name="use_by_default">Использовать по умолчанию для этого действия</string>
+    <string name="info_reset_streaming">Вы можете сбросить эту опцию из меню Настройки - Менеджер загрузок</string>
+    <string name="about">О программе</string>
+    <string name="reportingText">Участвовать в партнерской программе</string>
+    <string name="reportingInfoText">Мы всегда ищем улучшения для RealPlayer и можем использовать вашу помощь. Присоединившись к программе улучшения качества, вы позволите нам собрать информацию о том, как вы взаимодействуете с RealPlayer. Вся информация является анонимной.</string>
+    <string name="customerSupportText">" '
+"<a href="http://real.custhelp.com/app/answers/list/p/3/c/2299/catname/Mobile+Application">CustomerSupport</a>" '
+"</string>
+    <string name="copyright2010">Copyright (©) 1995(–)2011></string>
+    <string name="copyrightText">(©) 2012 RealNetworks, Inc. All Rights Reserved.</string>
+    <string name="patentDetails">Protected by U.S. Patents 5,734,961;5,793,980;5,917,835;6,151,634;6,314,466;6,487,663;6,597,961;6,633,918;6,671,807;6,724,433;6,731,600;6,731,818;6,735,338;6,753,865;6,760,378;6,760,721;6,765,964;6,934,837;6,937,814;6,968,387;6,985,932;6,996,627;7,000,119;7,020,637;7,050,988;7,054,500;7,062,765;7,099,387;7,099,848;7,123,656;7,154,555;7,185,195;7,284,065;7,349,976;7,369,179;7,461,055;7,464,175;7,500,011;Other patents pending.</string>
+    <string name="aboutRealPlayer">О RealPlayer</string>
+    <string name="realPlayerEulaLicense">RealPlayer End User License Agreement</string>
+    <string name="realPlayerForAndroid">RealPlayer для Android</string>
+    <string name="help">&lt;a href=https://real.custhelp.com/app/answers/list/p/9/c/255>Помощь&lt;/a></string>
+	<string name="feedback">&lt;a href=http://real.qualtrics.com/SE/?SID=SV_1HWk3q4r6MpUl3D>Обратная связь&lt;/a></string>
+    <string name="welcomeToRealPlayer">Добро пожаловать в RealPlayer</string>
+    <string name="firstScanMessage">RealPlayer будет искать музыку, видео и фотографии в Вашей медиа-библиотеке. При первом запуске приложения можно заметить, что RealPlayer работает медленно, это связано с созданием библиотеки, на основе Ваших файлов.</string>
+    <string name="realPlayerForAndroidBeta">RealPlayer для Android, Beta v3</string>
+    <string name="realWebsite">Real.com/RealPlayer/Android</string>
+    <string name="twitterText">Twitter @</string>
+    <string name="facebookText">Facebook @</string>
+    <string name="twitterWebsite">Twitter.com/Realplayer</string>
+    <string name="facebookWebsite">facebook.com/RealPlayer</string>
+    <string name="credits">Создатели</string>
+    <string name="folder">Папка</string>
+    <string name="set_folder_pending">Нет каталога</string>
+    <string name="folderBrowserTitle">Выберите папку для воспроизведения или удерживайте, чтобы открыть каталог</string>
+    <string name="storageAndFolders">Хранилище и папки</string>
+    <string name="playbackByFolder">Воспроизведение по папкам</string>
+    <string name="playbackFolderSummary">Выберите папку для воспроизведения</string>
+    <string name="playbackFolderNeverSet">"Вы не выбрали папку для воспроизведения. Вы будете направлены в настройки 'Воспроизведение по папкам'."</string>
+    <string name="photoImportTitle">Папки с картинками</string>
+    <string name="photoImportSummary">Выберите папки, содержащие фотографии</string>
+    <string name="noPhotosAvailable">Нет никаких фотографий, чтобы запустить слайд-шоу</string>
+    <string name="videoImportTitle">Папки с видео</string>
+    <string name="videoImportSummary">Выберите папки, содержащие видео</string>
+    <string name="deleteSongPrompt">" будут удалены"</string>
+    <string name="default_value_pref_dmgr_activeDownloads">1</string>
+    <string name="pref_dmgr_clearCompleted_title">Очистка завершенных</string>
+    <string name="pref_dmgr_clearCompleted_summary">Автоочистка завершенных загрузок</string>
+    <string name="pref_dmgr_notify_title">Уведомление</string>
+    <string name="pref_dmgr_notify_summary">Уведомлять при завершенных загрузках</string>
+    <string name="recently_ad_settings">Настройки недавно добавленных</string>
+    <string name="pref_recently_ad_title">Недавно добавленные</string>
+    <string name="pref_recently_ad_summary">Выберите время сеанса</string>
+    <string name="pref_recently_ad_dialogtitle">Недавно добавленные за</string>
+    <string name="default_value_recently_ad">0</string>
+    <string name="pref_general_settings">Основные настройки</string>
+    <string name="pref_slideshow_category">Слайд-шоу</string>
+    <string name="pref_gallery_sort_title">Сортировка картинок</string>
+    <string name="pref_gallery_sort_summary">Выберите порядок сортировки картинок</string>
+    <string name="pref_gallery_sort_dialogtitle">Сортировка</string>
+    <string name="pref_gallery_slideshow_interval_title">Интервал слайд-шоу</string>
+    <string name="pref_gallery_slideshow_interval_summary">Установите интревал перехода слайдов</string>
+    <string name="pref_gallery_slideshow_interval_dialogtitle">Интервал</string>
+    <string name="default_value_pref_gallery_slideshow_interval">5</string>
+    <string name="pref_gallery_slideshow_transition_title">Эффекты слайд-шоу</string>
+    <string name="pref_gallery_slideshow_transition_summary">Выберите эффект перехода между слайдами</string>
+    <string name="pref_gallery_slideshow_transition_dialogtitle">Эффекты</string>
+    <string name="default_value_pref_gallery_slideshow_transition">4</string>
+    <string name="pref_gallery_slideshow_repeat_title">Повтор слайд-шоу</string>
+    <string name="pref_gallery_slideshow_repeat_summary">Повторять после завершения</string>
+    <string name="pref_gallery_slideshow_repeat_dialogtitle">Включить повтор слайд-шоу?</string>
+    <string name="pref_gallery_slideshow_shuffle_title">Перемешивание слайдов</string>
+    <string name="pref_gallery_slideshow_shuffle_summary">Слайд-шоу в случайном порядке</string>
+    <string name="pref_gallery_slideshow_shuffle_dialogtitle">Включить перемешивание слайдов?</string>
+    <string name="wall_wait">Установка обоев, пожалуйста, подождите</string>
+    <string name="sort">Сортировка</string>
+    <string name="pref_confirm_delete_summary">Показывать Подтверждение перед удалением картинки</string>
+    <string name="pref_gallery_confirm_delete">Подтвержение удаления</string>
+    <string name="delete_prompt_msg">Изображение будет удалено</string>
+    <string name="edit_image">Редактировать</string>
+    <string name="crop_save_text">Сохранить</string>
+    <string name="crop_discard_text">Отменить</string>
+    <string name="preparing_sd">Подготовка SD-Карты…</string>
+    <string name="no_storage">Пожалуйста, вставьте SD-карту перед использованием камеры</string>
+    <string name="not_enough_space">Ваша SD-карта заполнена</string>
+    <string name="runningFaceDetection">Пожалуйста, подождите…</string>
+    <string name="savingImage">Сохранение изображения…</string>
+    <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
+    <string name="imageChangeInformation">Мотните влево или вправо для прокрутки фотографий</string>
+    <string name="loading_pictures">Загрузка изображений пожалуйста, подождите…</string>
+    <string name="corruptImage">Пожалуйста, удалите коррумпированные изображения и запустите слайд-шоу снова</string>
+    <string name="sldShow">Слайд-шоу</string>
+    <string name="strtMusic">Start Music</string>
+    <string name="rotate">Повернуть</string>
+    <string name="rtLft">Влево</string>
+    <string name="rtRgh">Вправо</string>
+    <string name="setAs">Установить как</string>
+    <string name="setin">Настройки</string>
+    <string name="spinner_recent_prompt">Введите URL:</string>
+    <string name="checkAll">Отметить все</string>
+    <string name="uncheckAll">Снять все</string>
+    <string name="folderHasNoNestedMedia">"The selected folder doesn't contain any nested media sub-folders."</string>
+    <string name="dmgr">Менеджер загрузок</string>
+    <string name="stream">Потоковое Аудио/Видео</string>
+    <string name="downloadPriority">Приоритет загрузки</string>
+    <string name="savedLocation">Путь сохранения</string>
+    <string name="remove_download">Удалить загрузку</string>
+    <string name="startDownload">Начать</string>
+    <string name="pauseDownload">Пауза</string>
+    <string name="resumeDownload">Возобновить</string>
+    <string name="removeDownload">Удалить</string>
+    <string name="cancelDownload">Отменить</string>
+    <string name="resetDownload">Перекачать</string>
+    <string name="details">Свойства</string>
+    <string name="autoDownload">Автоматическая загрузка</string>
+    <string name="manualDownload">Ручная загрузка</string>
+    <string name="clear_downloads">Очистить загрузки</string>
+    <string name="reset_cancFailed">Сбросить отмененные/ошибочные</string>
+    <string name="clear_completed">Очистить завершенные</string>
+    <string name="clear_cancelled">Очистить отмененные</string>
+    <string name="clear_failed">Очистить неудавшиеся</string>
+    <string name="reset_streamingOption">Сбросить потоковые настройки</string>
+    <string name="selectDelete">Выберите, для удаления из списка</string>
+    <string name="pref_dmgr">Параметры загрузок</string>
+    <string name="pref_dmgr_autoDownload_title">Автоматическая загрузка (Wi-Fi)</string>
+    <string name="pref_dmgr_autoDownload_summary">Автоматически начинать загрузки, когда сеть подключена</string>
+    <string name="pref_dmgr_activeDownloads_title">Активные загрузки</string>
+    <string name="pref_dmgr_activeDownloads_summary">Выберите количество активных одновременных загрузок</string>
+    <string name="pref_dmgr_activeDownloads_dialogtitle">Активные загрузки</string>
+    <string name="drm_protected_content">Нет возможности отправить DRM-защищенный контент</string>
+    <string name="touch_to_unlock">Разблокировать</string>
+    <string name="disk_io_toast">SD-карта полная или только для чтения</string>
+    <string name="equalizer_on">Вкл</string>
+    <string name="equalizer_off">Выкл</string>
+    <string name="equalizer_save_as">Сохранить как</string>
+    <string name="equalizer_done">Готово</string>
+    <string name="equalizer_preset">Пресет</string>
+    <string name="equalizer_preamp">Предусилитель</string>
+    <string name="equalizer_balance">Баланс</string>
+    <string name="equalizer_save_textview">Изменить имя предустановки:</string>
+    <string name="meta_artist_name">Исполнитель</string>
+    <string name="meta_get_info">Информация</string>
+    <string name="meta_song_title">Название</string>
+    <string name="meta_album_title">Альбом</string>
+    <string name="meta_genre">Жанр</string>
+    <string name="meta_edit_artwork">Изменить обложку</string>
+    <string name="meta_save">Сохранить</string>
+    <string name="edit_metadata">Изменить метаданные</string>
+    <string name="meta_year">Год</string>
+    <string name="meta_track_number">Номер трека</string>
+    <string name="meta_track_number_of">из</string>
+    <string name="meta_artwork">Обложка</string>
+    <string name="metadata_info">Информация</string>
+    <string name="meta_artwork_dialog_title">Ошибка</string>
+    <string name="meta_artwork_dialog_message">Извините! У Вас нет просмотрщика изображений!</string>
+    <string name="meta_artwork_dialog_button">OK</string>
+    <string name="meta_get_info_dialog_title">Получение данных с GraceNote</string>
+    <string name="meta_get_info_dialog_message">Пожалуйста, подождите!</string>
+    <string name="meta_get_info_no_match">К сожалению, не совпадают!</string>
+    <string name="file_save_at">Файл успешно сохранен в</string>
+    <string name="sdcard_full_flag">SDCard full flag is set, please delete some files or resume download manually</string>
+    <string name="sdcard_not_mounted">SD-карта не установлена</string>
+    <string name="sdcard_full">SD-карта заполнена, удалите некоторые файлы</string>
+    <string name="download_completed">Загрузка завершена</string>
+    <string name="downloading">Загрузка</string>
+    <string name="files">файл (ов)</string>
+    <string name="add_to">"Добавлено в "</string>
+    <string name="add">Добавить</string>
+    <string name="download_options">Параметры загрузки</string>
+    <string name="dm_only">"Только "</string>
+    <string name="dm_allowed">" Active Downloads allowed"</string>
+    <string name="accept">Принять</string>
+    <string name="reject">Отклонить</string>
+    <string name="select_title">Пожалуйста, выберите один результат!</string>
+    <string name="select">Select</string>
+    <string name="waiting">подождите</string>
+    <string name="title">Заголовок</string>
+    <string name="summary">Сводка</string>
+    <string name="count">count</string>
+    <string name="top_title">TopTitle</string>
+    <string name="artist_album">ArtistAlbum</string>
+    <string name="default_album">Альбом</string>
+    <string name="default_artist">Исполнитель</string>
+    <string name="meta_get_info_dialog_album_art">Получение обложки альбома из GraceNote</string>
+    <string name="album_art_edit">Изменить обложку альбома</string>
+    <string name="album_art_update">Обновить обложку альбома</string>
+    <string name="select_one_result">Пожалуйста, выберите один результат!</string>
+    <string name="complete_action_using">Полное действие с помощью</string>
+    <string name="alert">Внимание</string>
+    <string name="scrobbling_alert_content">имя пользователя или пароль не верны, пожалуйста, проверьте еще раз</string>
+    <string name="scrobbling_loading">Login Scrobbling...</string>
+    <string name="photo_loading">Загрузка...</string>
+    <string name="photo_crop">Обрезать</string>
+    <string name="download_error_queue">Error queueing download</string>
+    <string name="download_error_already_exists">Ошибка! Файл уже существует.</string>
+    <string name="download_error_already_queued">Ошибка! Загрузка уже в очереди.</string>
+    <string name="download_error_mounted_or_full">Error queueing download, check if SDCard is mounted or not full</string>
+    <string name="billing_not_supported_title">Не удается совершить покупку</string>
+    <string name="billing_not_supported_message">"The Market billing service is not available at this time. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="cannot_connect_title">"Can't connect to Market"</string>
+    <string name="cannot_connect_message">"This app cannot connect to Google Play.Your version of Google Play may be out of date.You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="billing_alert_title">Market Billing</string>
+    <string name="billing_have_purchased_title">Уже приобретено</string>
+    <string name="billing_have_purchased_message">Спасибо за покупку и наслаждайтесь…</string>
+    <string name="billing_purchased_success_title">Поздравляем</string>
+    <string name="billing_purchased_success_message">Успешно приобретено</string>
+    <string name="billing_purchased_canceled_message">User canceled purchase.</string>
+    <string name="billing_purchased_failed_message">Purchase failed.</string>
+    <string name="billing_purchasing_message">Purchasing</string>
+    <string name="billing_upgrade">Обновление</string>
+    <string name="billing_should_upgrade_toast">Please purchase the upgrade for RealPlayer Premium to continue to use the RealAudio and RealVideo format support!</string>
+    <string name="licensing_app_illegal_title">Внимание</string>
+    <string name="licensing_app_illegal_message">Пожалуйста, установите подлинную копию с Google Play</string>
+    <string name="learn_more">Узнать больше</string>
+    <string name="scanning_title">Обновить</string>
+    <string name="scanning_first_time_message">Сканирование медиа, подождите…</string>
+    <string name="scanning_refresh_message">Обновление библиотеки, подождите…</string>
+    <string name="empty_url">URL пуст!</string>
+    <string name="error_url">Ошибка. Пожалуйста, введите правильный адрес!</string>
+    <string name="need_network">Data connection required.</string>
+    <string name="empty_preset">Предустановленное имя пустое!</string>
+    <string name="equalizer_format_not_support">Эквалайзер не поддерживает этот тип аудио.</string>
+    <string name="thank_you">Спасибо</string>
+    <string name="upgrade_premium_title">Premium Feature Package</string>
+    <string name="upgrade_premium_title_tip">A better way to enjoy your music and media</string>
+    <string name="upgrade_premium_equalizer_title">Graphic equalizer</string>
+    <string name="upgrade_premium_crossfading_title">Music crossfading</string>
+    <string name="upgrade_premium_metadata_title">Music detection and metadata editing using Gracenote™</string>
+    <string name="upgrade_premium_format_title">RealAudio and RealVideo format support</string>
+    <string name="upgrade_premium_no_advertising_title">No advertising</string>
+    <string name="upgrade_premium_purchased_upgrade">Purchase Upgrade</string>
+    <string name="upgrade_premium_alert_first_content">Please purchase the upgrade for RealPlayer Premium to continue to use the graphic equalizer, music crossfading, music detection and metadata editing using the Gracenote database and RealAudio and RealVideo format support.</string>
+    <string name="upgrade_premium_alert_second_content">You may press cancel to continue using RealPlayer Basic with minimal advertising.</string>
+    <string name="home_eula">"REALNETWORKS, INC. 
+
+END USER LICENSE AGREEMENT FOR REALPLAYER FOR ANDROID 
+
+REDISTRIBUTION NOT PERMITTED 
+
+IMPORTANT -- READ CAREFULLY BEFORE USING THIS SOFTWARE: This License Agreement (License Agreement or Agreement) is a legal agreement between you (either an individual or an entity) and RealNetworks, Inc. and its suppliers and licensors (collectively RN or RealNetworks) governing your use of RealNetworks RealPlayer for Android software (and any successor and replacement products thereto) which may include components provided by suppliers and licensors to RN (together defined herein as “Software”).  The Software may include any Beta, pre-release, free, pay and premium versions of the Software. 
+
+By clicking on the Accept button, installing, copying or otherwise using the Software, you agree to be bound by the terms of this License Agreement.  IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE AGREEMENT, CLICK ON THE REJECT BUTTON AND/OR DO NOT INSTALL THE SOFTWARE. 
+
+FOR YOUR USE OF THE FUNCTIONALITY WHICH ENABLES MUSIC TRACK / CD IDENTIFICATION AND OBTAINS MUSIC RELATED INFORMATION, YOU AGREE TO BE BOUND BY THE GRACENOTE LICENSE FOUND AT THE END OF THIS AGREEMENT. 
+
+RN USE OF PERSONAL INFORMATION YOU PROVIDE TO REALNETWORKS AND USAGE DATA IS GOVERNED BY THE REALNETWORKS PRIVACY POLICY AT http://www.realnetworks.com/company/privacy/index.html 
+
+YOU AGREE THAT BY USING THE SOFTWARE YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. 
+
+1.  GRANT OF LICENSE.  RN hereby grants to you a non-exclusive license to download and use the Software and any related documentation (Documentation) subject to the terms and conditions of this Agreement, including but not limited to the following terms: 
+
+a) You may not: 
+
+(i) permit other individuals to use the Software except under the terms listed above; 
+
+(ii) modify, translate, reverse engineer, decompile, disassemble (except to the extent that this restriction is expressly prohibited by law) or create derivative works based upon the Software or Documentation; 
+
+(iii) copy the Software or Documentation (except for back-up or archival purposes); 
+
+(iv) rent, lease, transfer, or otherwise transfer rights to the Software or Documentation; or 
+
+(v) remove any proprietary notices or labels on the Software or Documentation.  Any such forbidden use shall immediately terminate your license to the Software. 
+
+b) You may only use the Software and Documentation in a manner that complies with all applicable laws in the jurisdictions in which you use the Software and Documentation, including, but not limited to, applicable restrictions concerning copyright and other intellectual property rights.  
+
+c) You may only use the Software for your private, non-commercial use. 
+
+2.  AUTOMATIC FEATURES. The Software consists of interactive Internet applications that perform a variety of communications over the Internet as part of their normal operation.  A number of communications features are automatic and are enabled by default. By installing and/or using the Software, you consent to the Software's communications features.  You are responsible for any telecommunications or other connectivity charges incurred through use of the Software. 
+
+3.  TITLE. Title, ownership, rights, and intellectual property rights in and to the Software and Documentation shall remain in RN and/or its suppliers.  The Software is protected by the copyright laws of the United States and international copyright treaties. 
+
+4.  WARRANTIES AND LIABILITIES. PURCHASES FOR PREMIUM VERSIONS OF REALPLAYER FOR ANDROID ARE GOVERNED BY THE ANDROID MARKET TERMS OF SERVICE AND BUSINESS AND PROGRAM POLICIES. , WHICH ARE INCORPORATED BY THIS REFERENCE. REALNETWORKS WILL NOT BE LIABLE FOR ANY MATTER OR DISPUTE RELATED TO ANDROID MARKET. 
+
+DISCLAIMER OF WARRANTY &amp; LIMIT OF LIABILITY.  THE SOFTWARE AND DOCUMENTATION, ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RN FURTHER DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.  THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE AND DOCUMENTATION REMAINS WITH YOU.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL RN BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE SOFTWARE EVEN IF RN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. RN's TOTAL LIABLITY FOR ANY DIRECT DAMAGES SHALL NOT EXCEED FORTY DOLLARS ($40.00).  BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.  RN DOES NOT ENDORSE, WARRANT OR GUARANTEE ANY CONTENT PROVIDED BY OR THROUGH THE SOFTWARE. 
+
+5.  INDEMNIFICATION.  This Software is intended for use only with properly licensed media, content, and content creation tools.  It is your responsibility to ascertain whether any copyright, patent or other licenses are necessary and to obtain any such licenses to serve and/or create, compress, convert, or download such media and content.  You agree to hold harmless, indemnify and defend RN, its officers, directors and employees, from and against any losses, damages, fines and expenses (including attorneys' fees and costs) arising out of or relating to any claims that you have (i) viewed, downloaded, encoded, converted, compressed, copied or transmitted any materials (other than materials provided by RN) in connection with the Software in violation of another party's rights or in violation of any law, or (ii) violated any terms of this License Agreement.  If you are importing the Software from the United States, you shall indemnify and hold RN harmless from and against any import and export duties or other claims arising from such importation. 
+
+6.  TERMINATION.  This License Agreement will automatically terminate if you fail to comply with any term hereof.  No notice shall be required from RN to effect such termination. 
+
+7.  NO ASSIGNMENT.  This Agreement is personal to you, and may not be assigned without RN's express written consent. 
+
+8.  TECHNICAL SUPPORT.  Technical support for the Software, as made available by RN, is described at RN's technical support website:  http://service.real.com/realplayer. 
+
+9.  DISPUTE RESOLUTION – BINDING ARBITRATION. You and RN agree that the exclusive remedy for all disputes and claims relating in any way to, or arising out of, this Agreement, the Software, or your use of the Software shall be final and binding arbitration.  The arbitration shall be conducted under the Commercial Arbitration Rules of the American Arbitration Association (AAA) and AAA's Supplementary Procedures for Consumer Related Disputes (AAA Consumer Rules). The arbitration shall take place in the State of Washington. To the fullest extent permitted by law:  no arbitration under this License Agreement shall be joined to any other arbitration, including any arbitration involving any other current or former licensee of RN; no class arbitration proceedings shall be permitted; no finding or stipulation of fact in any other arbitration, judicial or similar proceeding may be given preclusive or collateral estoppel effect in any arbitration hereunder (unless determined in another proceeding between you and RN); and no conclusion of law in any other arbitration may be given any weight in any arbitration hereunder (unless determined in another proceeding between you and RN).  You and RN must commence an arbitration by filing a demand for arbitration with the AAA within ONE (1) YEAR after the date the party asserting the claim first knows or reasonably should know of the act, omission or default giving rise to the claim; and there shall be no right to any remedy for any claim not asserted within that time period (If applicable law prohibits a one-year limitations period for asserting claims, the claim must be asserted within the shortest time period in excess of one year that is permitted by applicable law.). Your arbitration fees and your share of arbitrator compensation will be limited to those set forth in the AAA's Consumer Rules with the remainder paid by RN.  If such costs are determined to be excessive, RN will pay all arbitration fees and arbitrator compensation.  You and RN may litigate in court only to compel arbitration under this Agreement, stay proceedings pending arbitration, or to confirm, modify, vacate or enter judgment on the award rendered by the arbitrator(s).  You and RN hereby consent to the exclusive jurisdiction of the state and federal courts sitting in the State of Washington to enforce the provisions of this Section 16 and to resolve any disputes and claims cognizable in court relating in any way, or arising out of, this Agreement, or the Software.  The court, not the arbitrator, shall determine the enforceability of the arbitration agreements contained herein, including the prohibition on consolidated arbitrations and class arbitration.  This Agreement and all disputes and claims relating in any way to, or arising out of, this Agreement or the Software shall be governed by the laws of the State of Washington and the Federal Arbitration Act. 
+
+10.  Complete Agreement.  This Agreement shall constitute the complete and exclusive agreement between us, notwithstanding any variance with any purchase order or other written instrument submitted by you, whether formally rejected by RN or not.  The acceptance of any purchase order you place is expressly made conditional on your consent to the terms set forth herein.  The terms and conditions contained in this Agreement may not be modified by you except in a writing duly signed by you and an authorized representative of RN.  If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable, and such decision shall not affect the enforceability of such provision under other circumstances, or of the remaining provisions hereof under all circumstances.  This Agreement will not be governed by the United Nations Convention of Contracts for the International Sale of Goods, the application of which is hereby expressly excluded. 
+
+Copyright (c) 1995-2011 RealNetworks, Inc. and/or its suppliers and licensors.  2601 Elliott Ave., Suite 1000, Seattle, Washington 98121 U.S.A.  All rights reserved.  RealPlayer, RealNetworks, RealPlayer Plus, are registered trademarks or trademarks of RealNetworks, Inc. 
+
+Last modified: January 1, 2012 
+
+GRACENOTE LICENSE 
+
+This application or device contains software from Gracenote, Inc. of Emeryville, California (Gracenote).  The software from Gracenote (the Gracenote Software) enables this application to perform disc and/or file identification and obtain music-related information, including name, artist, track, and title information (Gracenote Data) from online servers or embedded databases (collectively, Gracenote Servers) and to perform other functions.  You may use Gracenote Data only by means of the intended End-User functions of this application or device. 
+
+You agree that you will use Gracenote Data, the Gracenote Software, and Gracenote Servers for your own personal non-commercial use only.  You agree not to assign, copy, transfer or transmit the Gracenote Software or any Gracenote Data to any third party.  YOU AGREE NOT TO USE OR EXPLOIT GRACENOTE DATA, THE GRACENOTE SOFTWARE, OR GRACENOTE SERVERS, EXCEPT AS EXPRESSLY PERMITTED HEREIN. 
+
+You agree that your non-exclusive license to use the Gracenote Data, the Gracenote Software, and Gracenote Servers will terminate if you violate these restrictions.  If your license terminates, you agree to cease any and all use of the Gracenote Data, the Gracenote Software, and Gracenote Servers.  Gracenote reserves all rights in Gracenote Data, the Gracenote Software, and the Gracenote Servers, including all ownership rights.  Under no circumstances will Gracenote become liable for any payment to you for any information that you provide.  You agree that Gracenote, Inc. may enforce its rights under this Agreement against you directly in its own name. 
+
+The Gracenote service uses a unique identifier to track queries for statistical purposes.  The purpose of a randomly assigned numeric identifier is to allow the Gracenote service to count queries without knowing anything about who you are.  For more information, see the web page for the Gracenote Privacy Policy for the Gracenote service. 
+
+The Gracenote Software and each item of Gracenote Data are licensed to you AS IS.  Gracenote makes no representations or warranties, express or implied, regarding the accuracy of any Gracenote Data from in the Gracenote Servers.  Gracenote reserves the right to delete data from the Gracenote Servers or to change data categories for any cause that Gracenote deems sufficient.  No warranty is made that the Gracenote Software or Gracenote Servers are error-free or that functioning of Gracenote Software or Gracenote Servers will be uninterrupted. Gracenote is not obligated to provide you with new enhanced or additional data types or categories that Gracenote may provide in the future and is free to discontinue its services at any time. 
+
+GRACENOTE DISCLAIMS ALL WARRANTIES EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.  GRACENOTE DOES NOT WARRANT THE RESULTS THAT WILL BE OBTAINED BY YOUR USE OF THE GRACENOTE SOFTWARE OR ANY GRACENOTE SERVER.  IN NO CASE WILL GRACENOTE BE LIABLE FOR ANY CONSEQUENTIAL OR INCIDENTAL DAMAGES OR FOR ANY LOST PROFITS OR LOST REVENUES. 
+
+(R)Gracenote, Inc. 2009 
+
+Last modified: July 17, 2010"</string>
+</resources>

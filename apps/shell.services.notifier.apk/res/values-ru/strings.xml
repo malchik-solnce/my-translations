@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TSF уведомления</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_main">УВЕДОМЛЕНИЯ</string>
+    <string name="activity_setting_all">Вкл. уведомления</string>
+    <string name="activity_setting_all_description">Включить все уведомления</string>
+    <string name="activity_setting_misscall">Пропущенные вызовы</string>
+    <string name="activity_setting_misscall_description">Отображение количества пропущенных звонков на иконке Телефон</string>
+    <string name="activity_setting_unreadsms">Непрочитанные сообщения</string>
+    <string name="activity_setting_unreadsms_description">Отображение количества непрочитанных сообщений на иконке Сообщения</string>
+    <string name="activity_setting_undoevent">Расписания/Мероприятия</string>
+    <string name="activity_setting_undoevent_description">Отображение количества оставшихся мероприятий на иконке Календарь</string>
+    <string name="activity_setting_unreadgmail">Непрочитанные сообщения  Gmail</string>
+    <string name="activity_setting_unreadgmail_description">Отображение количества непрочитанных писем на иконке Gmail (требуется Gmail версии 4.0.5 или выше)</string>
+</resources>

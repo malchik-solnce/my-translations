@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:pjw="http://schemas.android.com/apk/com.pjw.atr">
+    <PreferenceScreen android:title="@string/pref_system">
+        <EditTextPreference android:title="@string/pref_working_path_title" android:key="PREF_WORKING_PATH" android:defaultValue="" />
+        <CheckBoxPreference android:title="@string/pref_keep_screen_title" android:key="PREF_KEEP_SCREEN" android:summary="@string/pref_keep_screen_summary" android:defaultValue="true" />
+        <ListPreference android:entries="@array/pref_orientation_options" android:title="@string/pref_orientation_title" android:key="PREF_SCREEN_ORIENTATION" android:defaultValue="@string/pref_0" android:entryValues="@array/pref_orientation_values" />
+        <ListPreference android:entries="@array/pref_background_options" android:title="@string/pref_background_title" android:key="PREF_BACKGROUND_IMG" android:defaultValue="@string/pref_5" android:entryValues="@array/pref_background_values" />
+        <Preference android:title="@string/pref_restore_file_title" android:key="PREF_FILE_RESTORE" android:summary="@string/pref_restore_file_summary" />
+        <PreferenceCategory android:title="@string/pref_language">
+            <CheckBoxPreference android:title="@string/pref_language_title" android:key="PREF_LANGUAGE" android:summary="@string/pref_language_summary" android:defaultValue="false" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/pref_recording">
+        <CheckBoxPreference android:title="@string/pref_use_vibration_title" android:key="PREF_USE_VIBRATION" android:summary="@string/pref_use_vibration_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/pref_use_statusbaricon_title" android:key="PREF_USE_STATUSBARICON" android:summary="@string/pref_use_statusbaricon_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/pref_use_toast_title" android:key="PREF_USE_TOAST" android:summary="@string/pref_use_toast_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/pref_use_decibel_title" android:key="PREF_USE_DECIBEL" android:summary="@string/pref_use_decibel_summary" android:defaultValue="true" />
+        <ListPreference android:entries="@array/pref_callaction_options" android:title="@string/pref_callaction_title" android:key="PREF_CALL_ACTION" android:defaultValue="@string/pref_1" android:entryValues="@array/pref_callaction_values" />
+        <PreferenceCategory android:title="@string/pref_shake">
+            <CheckBoxPreference android:title="@string/pref_use_shake_title" android:key="PREF_USE_SHAKE" android:summary="@string/pref_use_shake_summary" android:defaultValue="false" />
+            <com.pjw.atr.SeekBarPreference android:max="10" android:text="" android:title="@string/pref_shake_sensitivity" android:key="PREF_SHAKE_SENSITIVITY" android:dependency="PREF_USE_SHAKE" android:defaultValue="5" android:dialogMessage="@string/pref_shake_sensitivity_msg" pjw:min="1" pjw:step="1" />
+            <CheckBoxPreference android:title="@string/pref_use_vibration_title" android:key="PREF_SHAKE_VIBRATION" android:summary="@string/pref_shake_vibration_summary" android:dependency="PREF_USE_SHAKE" android:defaultValue="true" />
+            <CheckBoxPreference android:title="@string/pref_shake_stop_title" android:key="PREF_SHAKE_STOP" android:summary="@string/pref_shake_stop_summary" android:dependency="PREF_USE_SHAKE" android:defaultValue="false" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/pref_system">
+            <ListPreference android:entries="@array/pref_audiosource_options" android:title="@string/pref_audiosource_title" android:key="PREF_AUDIO_SOURCE" android:defaultValue="@string/pref_0" android:entryValues="@array/pref_audiosource_values" />
+            <CheckBoxPreference android:title="@string/pref_extended_buff_title" android:key="PREF_EXTENDED_BUFF" android:summary="@string/pref_extended_buff_summary" android:defaultValue="true" />
+            <CheckBoxPreference android:title="@string/pref_buffer_overflow_title" android:key="PREF_BUFFER_OVERFLOW" android:summary="@string/pref_buffer_overflow_summary" android:defaultValue="true" />
+            <CheckBoxPreference android:title="@string/pref_thread_priority_title" android:key="PREF_THREAD_PRIORITY" android:summary="@string/pref_thread_priority_summary" android:defaultValue="true" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/pref_lpw">
+        <PreferenceCategory android:title="@string/list">
+            <CheckBoxPreference android:title="@string/pref_long_click_title" android:key="PREF_LONG_CLICK" android:summary="@string/pref_long_click_summary" android:defaultValue="true" />
+            <CheckBoxPreference android:title="@string/pref_external_player_title" android:key="PREF_EXTERNAL_PLAYER" android:summary="@string/pref_external_player_summary" android:defaultValue="false" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/playing">
+            <ListPreference android:entries="@array/pref_callaction_options" android:title="@string/pref_callaction_title" android:key="PREF_CALL_ACTION_P" android:defaultValue="@string/pref_1" android:entryValues="@array/pref_callaction_values" />
+            <ListPreference android:entries="@array/pref_move_speed1_options" android:title="@string/pref_move_speed1_title" android:key="PREF_MOVE_SPEED1" android:defaultValue="@string/pref_10" android:entryValues="@array/pref_move_speed1_values" />
+            <ListPreference android:entries="@array/pref_move_speed2_options" android:title="@string/pref_move_speed2_title" android:key="PREF_MOVE_SPEED2" android:defaultValue="@string/pref_60" android:entryValues="@array/pref_move_speed2_values" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/widget">
+            <ListPreference android:entries="@array/pref_widget_shape_options" android:title="@string/pref_widget_shape_title" android:key="PREF_WIDGET_SHAPE" android:defaultValue="@string/pref_1" android:entryValues="@array/pref_widget_shape_values" />
+            <ListPreference android:entries="@array/pref_update_interval_options" android:title="@string/pref_update_interval_title" android:key="PREF_UPDATE_INTERVAL" android:defaultValue="@string/pref_1" android:entryValues="@array/pref_update_interval_values" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/pref_userdefine">
+        <PreferenceCategory android:title="@string/pref_filter">
+            <ListPreference android:entries="@array/pref_filter_options" android:title="@string/pref_filter_title" android:key="PREF_FILTER_TYPE" android:defaultValue="@string/pref_0" android:entryValues="@array/pref_filter_values" />
+            <com.pjw.atr.SeekBarPreference android:max="10000" android:text="Hz" android:title="@string/pref_filterw_title" android:key="I_PREF_FILTER_W" android:defaultValue="4000" android:dialogMessage=" " pjw:min="200" pjw:step="200" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/pref_agc">
+            <ListPreference android:entries="@array/pref_hml_options" android:title="@string/pref_agc_volume_title" android:key="PREF_AGC_VOLUME" android:defaultValue="@string/pref_0" android:entryValues="@array/pref_hml_values" />
+            <ListPreference android:entries="@array/pref_hml_options" android:title="@string/pref_agc_amp_title" android:key="PREF_AGC_AMP" android:defaultValue="@string/pref_0" android:entryValues="@array/pref_hml_values" />
+            <ListPreference android:entries="@array/pref_agc_speed_options" android:title="@string/pref_agc_speed_title" android:key="PREF_AGC_SPEED" android:defaultValue="@string/pref_0" android:entryValues="@array/pref_agc_speed_values" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/pref_labs">
+        <Preference android:summary="@string/pref_labs_info" />
+        <PreferenceCategory android:title="@string/pref_recording">
+            <CheckBoxPreference android:title="@string/pref_fast_monitoring_title" android:key="PREF_FAST_MONITORING" android:summary="@string/pref_fast_monitoring_summary" android:defaultValue="false" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/pref_callrecord">
+            <CheckBoxPreference android:title="@string/pref_use_callrecord_title" android:key="PREF_USE_CALLRECORD" android:summary="@string/pref_use_callrecord_summary" android:defaultValue="false" />
+            <ListPreference android:entries="@array/pref_callrecord_audiosource_options" android:title="@string/pref_audiosource_title" android:key="PREF_CR_AUDIO_SOURCE" android:dependency="PREF_USE_CALLRECORD" android:defaultValue="@string/pref_0" android:entryValues="@array/pref_callrecord_audiosource_values" />
+            <CheckBoxPreference android:title="@string/pref_use_vibration_title" android:key="PREF_CR_SHAKE_VIBRATION" android:summary="@string/pref_shake_vibration_summary" android:dependency="PREF_USE_CALLRECORD" android:defaultValue="true" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceCategory android:title="@string/pref_ad1">
+        <Preference android:title="@string/pref_ad2" android:key="PREF_AD" android:summary="@string/pref_ad3" />
+    </PreferenceCategory>
+	<PreferenceCategory android:title="Перевод">
+        <PreferenceScreen android:title="Русский язык от Сережки)) " android:summary="Для DimonVideo.Ru">
+            <intent android:action="android.intent.action.VIEW" android:data="http://dimonvideo.ru/0/name/malchik-solnce" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

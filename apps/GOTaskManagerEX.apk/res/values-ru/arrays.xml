@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_interal_items">
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>4 часа</item>
+        <item>8 часов</item>
+        <item>12 часов</item>
+        <item>Вручную</item>
+    </string-array>
+	<string-array name="selected_apk_array">
+        <item>Установ.</item>
+        <item>Не установ.</item>
+    </string-array>
+</resources>

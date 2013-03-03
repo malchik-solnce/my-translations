@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="longclick_dialog_items">
+        <item>Переименовать</item>
+        <item>Переместить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="sort_pattern">
+        <item>По имени (вверх)</item>
+        <item>По имени (вниз)</item>
+        <item>По размеру (вверх)</item>
+        <item>По размеру (вниз)</item>
+        <item>По посл. изменению (вверх)</item>
+        <item>По посл. изменению (вниз)</item>
+        <item>По типу (вверх)</item>
+        <item>По типу (вниз)</item>
+    </string-array>
+    <string-array name="preference_filt_strategy">
+        <item>Только медиафайлы</item>
+        <item>И скрытые папки</item>
+        <item>Все файлы</item>
+    </string-array>
+    <string-array name="show_audio_strategy_keys">
+        <item>Показать всю музыку</item>
+        <item>Показать только flac</item>
+        <item>Не показывать музыку</item>
+    </string-array>
+</resources>
