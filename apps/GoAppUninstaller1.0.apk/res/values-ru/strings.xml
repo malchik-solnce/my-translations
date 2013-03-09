@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crash_notif_ticker_text">App Uninstaller непредвиденная ошибка, отправьте отчет…</string>
+    <string name="crash_notif_title">App Uninstaller Unexpected error…</string>
+    <string name="crash_notif_text">Please select this to help us fix the problem</string>
+    <string name="crash_dialog_title">App Uninstaller error report</string>
+    <string name="crash_dialog_text">An unexpected error caused the program to stop .We need your feedback to help us fix the problem. Please be assured that we only collect error information ,not personal information .</string>
+    <string name="crash_yes">Отправить</string>
+    <string name="crash_no">Отмена</string>
+    <string name="crash_subject">Ошибка</string>
+    <string name="curVersion">2.0</string>
+    <string name="download_tips1">Для пользования этим приложением, Вы должны установить GO TaskManager EX</string>
+    <string name="download_tips2">GO TaskManager EX</string>
+    <string name="download_tips3">Поможет Вам убивать задачи, освобождать память, экономить заряд и ускорить работу телефона</string>
+    <string name="download_tips4">Use Phone Manager to check your phone status like cache, boot apps</string>
+    <string name="download_tips5">Может выступать в качестве межсетевого экрана с поддержкой мониторинга сетевого трафика в режиме реального времени</string>
+    <string name="download_button">Скачать</string>
+    <string name="app_name">App Uninstaller</string>
+    <string name="no_select">Нет выбранных элементов</string>
+    <string name="cancel">Отмена</string>
+    <string name="app2sd_processing">Удаление</string>
+    <string name="app2sd_moving">Удаление</string>
+    <string name="app_selected_num">Выбрано: %1$s, заним. %2$s</string>
+    <string name="system_app">Систем.</string>
+    <string name="user_app">Пользов.</string>
+    <string name="app_uninstall">App Uninstaller</string>
+    <string name="no_app">нет приложений</string>
+    <string name="button_uninstall">Удалить</string>
+    <string name="recyle_bin">Корзина</string>
+    <string name="sysapp_reverting">Восстановление</string>
+    <string name="sysapp_deleting">Удаление</string>
+    <string name="wait_for_check_update">Пожалуйста, подождите…</string>
+    <string name="check_fail">Не удалось проверить обновление</string>
+    <string name="check_update">Проверить обновление</string>
+    <string name="update_now">Обновить</string>
+    <string name="is_newest_version">У Вас последняя версия</string>
+    <string name="start_download">Начало загрузки…</string>
+    <string name="downloading">Загрузка</string>
+    <string name="download_touch_stop">Touch to stop</string>
+    <string name="download_stop">Остановлено</string>
+    <string name="download_touch_restart">Touch to continue</string>
+    <string name="download_fail">Download failed</string>
+    <string name="download_touch_retry">Touch to retry</string>
+    <string name="download_connecting">Подключение</string>
+    <string name="begin_download">Begin to download</string>
+    <string name="download_finish">Download complete. Click here to install.</string>
+    <string name="download_add_to_download_queue">It has already been added to the downloading queue.</string>
+    <string name="download_waiting">Ожидание загрузки</string>
+    <string name="sysapp_title_text_noroot">Для удаления системых приложений необходимы ROOT права</string>
+    <string name="sysapp_title_text_root">Удаление системных приложений может привести к сбою системы, будьте осторожны</string>
+    <string name="tip_title">Внимание</string>
+    <string name="app2sd_notice_show">Удаление системных приложений может привести к нестабильности системы, пожалуйста, будьте осторожны!</string>
+    <string name="app2sd_notice_notshow">Вы можете восстановить удаленные приложения из корзины</string>
+    <string name="continue_uninstall">Удалить</string>
+    <string name="recyle_title_text">Приложение в корзины остановлено и не может быть использовано</string>
+    <string name="recyle_title_text2">Не удается восстановить удаленное приложение</string>
+    <string name="recycle_revert">Восстановить</string>
+    <string name="recycle_delete">Permanent Delete</string>
+    <string name="update_gotaskmanagerex">App Uninstaller совместим только с GO TaskManager EX v2.7 и выше. Пожалуйста, обновите прямо сейчас!</string>
+    <string name="danger_notice_show">Произошла непредвиденная ошибка? Перейдите в корзину, чтобы восстановить.</string>
+    <string name="dont_show_again">Больше не показывать</string>
+    <string name="i_know">ОК</string>
+    <string name="secondconfirm_delete">Выбранные приложения не смогут быть восстановлены после полного удаления. Продолжить удаление?</string>
+    <string name="sure_yes">Да</string>
+    <string name="success_how_toast_delete">%1$s системных приложений успешно удалено</string>
+    <string name="success_how_toast_restore">%1$s системных приложений успешно восстановлено</string>
+    <string name="theme_title">Template</string>
+    <string name="theme_info">"Template/Fashion/Modern/Pop
+
+Версия:V1.1 
+
+Разработчик:
+GO LauncherEx Dev Team 
+
+Обратная связь:
+golauncher@gmail.com 
+
+Блог:
+golauncher.goforandroid.com"</string>
+    <string name="app_channel">200</string>
+</resources>
