@@ -3,7 +3,7 @@
     <string-array name="screen_orientation_entry">
         <item>Вертикальная</item>
         <item>Горизонтальная</item>
-		<item>Автоматическая</item>
+        <item>Автоматическая</item>
     </string-array>
     <string-array name="wallpaper_mode_entries">
         <item>С прокруткой</item>
@@ -11,41 +11,17 @@
     </string-array>
     <string-array name="fun_bg_type_entris">
         <item>Прозрачный</item>
+        <item>Обои Next</item>
         <item>Пользовательский</item>
-    </string-array>
-    <string-array name="font_size_entries">
-        <item>Размер по умолчанию</item>
-        <item>Пользов. размер</item>
     </string-array>
     <string-array name="screen_indicator_entry">
         <item>Показывать</item>
         <item>Скрывать</item>
         <item>Скрывать автоматически</item>
     </string-array>
-    <string-array name="app_style_entry">
-        <item>Next Launcher</item>
-        <item>Стандартный</item>
-    </string-array>
     <string-array name="scroll_list_title">
         <item>Вертикальная</item>
         <item>Горизонтальная</item>
-    </string-array>
-    <string-array name="inout_list_title">
-        <item>По умолчанию</item>
-        <item>Без эффекта</item>
-        <item>Случайный</item>
-        <item>Случайный (свой)</item>
-        <item>Мельница</item>
-        <item>Масштаб</item>
-        <item>Переворот</item>
-        <item>Телевизор</item>
-    </string-array>
-    <string-array name="screen_rows_cols_title">
-        <item>Автоматический</item>
-        <item>Стандартный (4×4)</item>
-        <item>Плотный (5×4)</item>
-        <item>Сжатый (5×5)</item>
-        <item>Пользовательский</item>
     </string-array>
     <string-array name="appname_setting_entries">
         <item>Показывать</item>
@@ -56,12 +32,6 @@
         <item>Быстрая (скорость: 75)</item>
         <item>Плавная (скорость: 25)</item>
         <item>Своя</item>
-    </string-array>
-    <string-array name="apps_sort_dialog_style">
-        <item>По месту установки</item>
-        <item>По дате установки</item>
-        <item>По названию</item>
-        <item>По размеру</item>
     </string-array>
     <string-array name="grid_list_title">
         <item>Автоматический</item>
@@ -82,26 +52,35 @@
         <item>Ярлык</item>
     </string-array>
     <string-array name="select_desktop_transition">
-        <item>По умолчанию</item>
-        <item>Случайный</item>
-        <item>Случайный (свой)</item>
-        <item>Переворот (простой)</item>
+        <item>По умол.</item>
+        <item>Переворот (3D)</item>
+        <item>Переворот</item>
         <item>Мельница</item>
         <item>Полет</item>
-		<item>Отскок</item>
+        <item>Отскок</item>
         <item>Бульдозер</item>
         <item>Куб (внутри)</item>
         <item>Куб (снаружи)</item>
         <item>Волна</item>
-        <item>Стек</item>
+        <item>Каскад</item>
     </string-array>
     <string-array name="icon_menu_effect_type">
         <item>По умолчанию</item>
-        <item>Случайный</item>
         <item>Прыжок</item>
         <item>Пульсация</item>
         <item>Пузырь</item>
         <item>Дорожка</item>
+    </string-array>
+    <string-array name="icon_effect_type">
+        <item>По умолчанию</item>
+        <item>Увеличение</item>
+        <item>Сияние</item>
+        <item>Упругость</item>
+        <item>Без эффекта</item>
+    </string-array>
+    <string-array name="folder_effect_type">
+        <item>По умолчанию</item>
+        <item>Ряд за рядом</item>
     </string-array>
     <string-array name="desktop_preview_transition">
         <item>Цилиндр</item>
@@ -109,12 +88,11 @@
         <item>Угол</item>
     </string-array>
     <string-array name="func_app_icon_effect_entris">
-        <item>По умолчанию</item>
-        <item>Случайный</item>
-        <item>Случайный (свой)</item>
+        <item>По умол.</item>
         <item>Колесница</item>
         <item>Цилиндр</item>
-        <item>Переворот (простой)</item>
+        <item>Сфера</item>
+        <item>Переворот</item>
         <item>Мельница</item>
         <item>Полет</item>
         <item>Куб</item>
@@ -124,13 +102,13 @@
         <item>Свой фон</item>
     </string-array>
     <string-array name="communication_arry">
-	    <item>Пропущенные вызовы</item>
+        <item>Пропущенные вызовы</item>
         <item>Непрочитанные сообщения</item>
         <item>Непрочитанные Gmail</item>
     </string-array>
     <string-array name="screen_indicator_showmode_array">
-        <item>Обычный стиль</item>
-        <item>Числовой стиль</item>
+        <item>Обычный</item>
+        <item>Числовой</item>
     </string-array>
     <string-array name="screen_indicator_position_array">
         <item>Вверху</item>
@@ -145,31 +123,20 @@
         <item>По умолчанию</item>
         <item>Водопад</item>
     </string-array>
-    <string-array name="orientation_entries">
-        <item>Автоматическая</item>
-        <item>Вертикальная</item>
-        <item>Вертикальная (откл. клавиатуру)</item>
-        <item>Горизонтальная</item>
-    </string-array>
-    <string-array name="icon_size_setting_entries">
-        <item>Рекомендов. размер(большой)</item>
-        <item>Стандартный размер(маленький)</item>
-        <item>Пользовательский</item>
-    </string-array>
-    <string-array name="qatutorial_list_items">
-        <item>1.Редактирование столов</item>
-        <item>2.Жесты док-панели</item>
-        <item>3.Добавить приложения на раб. стол</item>
-        <item>4.Папка на экране</item>
-        <item>5.Открыть меню жестом</item>
-    </string-array>
     <string-array name="gesture_goshortcut">
         <item>Просмотр столов</item>
         <item>Меню приложений</item>
         <item>Панель уведомлений</item>
         <item>Показ./скр. статус-бар</item>
+        <item>Показ./скр. док-панель</item>
+        <item>Вкл./выкл. Next кнопку</item>
         <item>Установки</item>
         <item>Меню</item>
+    </string-array>
+    <string-array name="folder_sort_value">
+        <item>По алфавиту</item>
+        <item>По времени (+)</item>
+        <item>По времени (-)</item>
     </string-array>
     <string-array name="dock_line_entries">
         <item>Одна</item>

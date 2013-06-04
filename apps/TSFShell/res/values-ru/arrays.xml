@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pick_select_dialog_items">
+        <item>По умолчанию</item>
+        <item>Галерея</item>
+        <item>Файлы</item>
+        <item>Пак иконок</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+</resources>

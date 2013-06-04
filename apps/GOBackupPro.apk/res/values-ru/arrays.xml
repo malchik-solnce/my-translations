@@ -47,13 +47,13 @@
         <item>По статусу установки</item>
     </string-array>
     <string-array name="schduled_backup_content_paid">
-        <item>Бэкап ваших данных</item>
-        <item>Бэкап ваших приложений</item>
+        <item>Бэкап поль. данных</item>
+        <item>Бэкап поль. приложений</item>
         <item>Бэкап системных данных</item>
     </string-array>
     <string-array name="schduled_backup_content_free">
-        <item>Бэкап ваших данных</item>
-        <item>Бэкап ваших приложений</item>
+        <item>Бэкап поль. данных</item>
+        <item>Бэкап поль. приложений</item>
     </string-array>
     <string-array name="repeat_modes">
         <item>Один раз</item>
@@ -90,9 +90,9 @@
         <item>Этот график установлен на %1$s, %2$s и %3$s</item>
     </string-array>
     <string-array name="backupable_app_state">
-        <item>Не поддерживаемые резервные копии</item>
-        <item>Обновляемые резервные копии</item>
-        <item>Поддерживаемые резервные копии</item>
+        <item>Не поддерживаемые приложения</item>
+        <item>Обновляемые приложения</item>
+        <item>Поддерживаемые приложения</item>
     </string-array>
     <string-array name="app_install_state">
         <item>Удаленные</item>
