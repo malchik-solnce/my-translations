@@ -421,11 +421,11 @@
     <string name="capital_on">ВК</string>
     <string name="capital_off">ВЫК</string>
     <string name="pref_video_time_lapse_frame_interval_off">Выкл.</string>
-    <string name="pref_video_time_lapse_frame_interval_500">0,5 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_500">0.5 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_1000">1 сек.</string>
-    <string name="pref_video_time_lapse_frame_interval_1500">1,5 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_1500">1.5 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_2000">2 сек.</string>
-    <string name="pref_video_time_lapse_frame_interval_2500">2,5 сек.</string>
+    <string name="pref_video_time_lapse_frame_interval_2500">2.5 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_3000">3 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_4000">4 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_5000">5 сек.</string>
@@ -434,11 +434,11 @@
     <string name="pref_video_time_lapse_frame_interval_12000">12 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_15000">15 сек.</string>
     <string name="pref_video_time_lapse_frame_interval_24000">24 сек.</string>
-    <string name="pref_video_time_lapse_frame_interval_30000">0,5 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_30000">0.5 мин.</string>
     <string name="pref_video_time_lapse_frame_interval_60000">1 мин.</string>
-    <string name="pref_video_time_lapse_frame_interval_90000">1,5 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_90000">1.5 мин.</string>
     <string name="pref_video_time_lapse_frame_interval_120000">2 мин.</string>
-    <string name="pref_video_time_lapse_frame_interval_150000">2,5 мин.</string>
+    <string name="pref_video_time_lapse_frame_interval_150000">2.5 мин.</string>
     <string name="pref_video_time_lapse_frame_interval_180000">3 мин.</string>
     <string name="pref_video_time_lapse_frame_interval_240000">4 мин.</string>
     <string name="pref_video_time_lapse_frame_interval_300000">5 мин.</string>
@@ -447,11 +447,11 @@
     <string name="pref_video_time_lapse_frame_interval_720000">12 мин.</string>
     <string name="pref_video_time_lapse_frame_interval_900000">15 мин.</string>
     <string name="pref_video_time_lapse_frame_interval_1440000">24 мин.</string>
-    <string name="pref_video_time_lapse_frame_interval_1800000">0,5 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_1800000">0.5 час.</string>
     <string name="pref_video_time_lapse_frame_interval_3600000">1 час</string>
-    <string name="pref_video_time_lapse_frame_interval_5400000">1,5 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_5400000">1.5 час.</string>
     <string name="pref_video_time_lapse_frame_interval_7200000">2 час.</string>
-    <string name="pref_video_time_lapse_frame_interval_9000000">2,5 час.</string>
+    <string name="pref_video_time_lapse_frame_interval_9000000">2.5 час.</string>
     <string name="pref_video_time_lapse_frame_interval_10800000">3 час.</string>
     <string name="pref_video_time_lapse_frame_interval_14400000">4 час.</string>
     <string name="pref_video_time_lapse_frame_interval_18000000">5 час.</string>
@@ -467,7 +467,7 @@
     <string name="set_time_interval">Задайте интервал</string>
     <string name="set_time_interval_help">Сначала включите режим замедленной съемки</string>
     <string name="remember_location_title">Сохранять места съемок?</string>
-    <string name="remember_location_prompt">"Укажите, где было сделано фото или видеозапись
+    <string name="remember_location_prompt">"Укажите, где было сделано фото или видеозапись.
 
 Эта информация, а также сохраненные изображения будут доступны другим приложениям."</string>
     <string name="remember_location_no">Нет</string>
@@ -482,7 +482,7 @@
     <string name="pref_camera_video_preview_size_title">Просмотр видео</string>
     <string name="pref_camera_silent_title">Откл. звук затвора</string>
     <string name="pref_camera_volbtns_title">Клав. громкости</string>
-    <string name="pref_default">"По умолчанию "</string>
+    <string name="pref_default">По умолчанию</string>
     <string name="pref_camera_video_preview_size_default">Видео</string>
     <string name="image_resized">Изображение уменьшено на</string>
     <string name="pref_camera_storage_title">Место хранения</string>
@@ -520,13 +520,20 @@
 	<string name="pref_camera_hdr_globalcontrast_title">Общий контраст HDR</string>
     <string name="pref_camera_hdr_exposure_title">Экспозиция HDR</string>
 	<string name="pref_camera_hdr_saturation_title">Насыщенность HDR</string>
-    <string name="pref_append_dcim_title">Вкл. каталог DCIM/Camera</string>
+    <string name="pref_append_dcim_title">Доб. папку DCIM/Camera</string>
     <string name="HDR_out_of_memory">"Не хватает памяти для HDR.
 Попробуйте меньший размер картинки."</string>
     <string name="pref_camera_zoom">Зум</string>
-    <string name="pref_camera_autoexposure_title">Измерение</string>
+    <string name="pref_camera_autoexposure_title">Экспозамер</string>
     <string name="pref_camera_disable_long_press_title">Откл. нажатия</string>
-    <string name="pref_camera_stable_sensitivity_title">Чувст. стабилизатора</string>
+    <string name="pref_camera_stable_sensitivity_title">Чувст. стабилизации</string>
 	<string name="pref_video_stabilization_title">Стабилизация</string>
 	<string name="pref_camera_focustime_title">Время фокусировки</string>
+	<string name="pref_camera_clamp_title">Скрыть рамку</string>
+	<string name="pref_camera_grid_title">Сетка</string>
+    <string name="pref_camera_newui_title">Новый интерфейс</string>
+    <string name="pref_sharpness_title">Четкость</string>
+    <string name="pref_contrast_title">Контраст</string>
+    <string name="pref_saturation_title">Насыщенность</string>
+    <string name="pref_luma_title">Яркость</string>
 </resources>
