@@ -22,7 +22,7 @@
     <string name="backup_successful">Бэкап успешно создан</string>
     <string name="backup_failure">Ошибка резервного копирования</string>
     <string name="try_again">Повторить</string>
-    <string name="retry_tips">Совет: support to select the failed task to redo</string>
+    <string name="retry_tips">Совет: можно выбрать неудавшиеся задачи для повтора</string>
 	<string name="cloudback_single_folder_btn">Выбор и бэкап</string>
     <string name="cloudback_single_noselect_tip">Ничего не выбрано</string>
 	<string name="cloudback_summary_localimage">Локальные альбомы</string>
@@ -365,7 +365,7 @@
     <string name="tip_failed_to_get_cloud_backup_info">Не удалось получить информацию облачного бэкапа, повторите попытку позже</string>
     <string name="tip_loging_in">Авторизация, пожалуйста, подождите...</string>
     <string name="tip_fetching_cloud_backup_info">Получение информации облочного резервного копирования...</string>
-	<string name="tip_authorized_out_of_date">Ваша авторизация истекла, пожалуйста, выйдите и войдите снова</string>
+	<string name="tip_authorized_out_of_date">Ваша авторизация истекла. Пожалуйста, выйдите и войдите снова.</string>
     <string name="btn_start_upload">Начать загрузку</string>
     <string name="msg_uploading_backup">Загрузка %1$s%2$s……</string>
     <string name="msg_downloading">Загрузка %1$s%2$s</string>
@@ -447,7 +447,7 @@
     <string name="root_state_rooted">Устройсво с ROOT</string>
     <string name="root_state_unrooted">Без ROOT</string>
     <string name="title_update">Обновление</string>
-    <string name="title_update_info">Инфо обновления</string>
+    <string name="title_update_info">Информация</string>
     <string name="msg_checking_update">Проверка обновлений...</string>
     <string name="msg_update_latest_version">У вас последняя версия</string>
     <string name="msg_update_net_error">Ошибка сети</string>
@@ -539,9 +539,9 @@
     <string name="pay_validate">проверка вашего платежного статуса</string>
     <string name="purchase_success_title">Успешная покупка</string>
     <string name="purchase_success_message">"Вы имеете следюющие функции:
- 
  ● облачное резервное копирование
  ● неограниченное резервное копирование 
+ ● бэкап системный приложений
  ● резервное копирование большего контента: обои, звонки, встроенный лончер, точки доступа Wi-Fi"</string>
     <string name="refunded_success_title">Успешный возврат</string>
     <string name="refunded_success_message">"Функции ниже, были отменены:

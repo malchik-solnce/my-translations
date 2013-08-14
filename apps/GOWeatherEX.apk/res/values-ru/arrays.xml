@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="continent">
-        <item>Африка</item>
-        <item>Азия</item>
-        <item>Австралия</item>
-        <item>Европа</item>
-        <item>Северная америка</item>
-        <item>Oceania</item>
-        <item>Южная америка</item>
-        <item>Великобритания</item>
-    </string-array>
 	<string-array name="pref_timer_save_titles">
         <item>Вручную</item>
         <item>1 секунда</item>
@@ -32,7 +22,7 @@
 	<string-array name="focusmode_title">
         <item>Автофокус</item>
         <item>Макро</item>
-        <item>Бесконечное расстояние</item>
+        <item>Бесконечность</item>
         <item>General Distance</item>
     </string-array>
 	<string-array name="meter_title">

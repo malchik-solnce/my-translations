@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Всегда вкл.</item>
+        <item>По требованию</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Мелко</item>
+        <item>Нормально</item>
+        <item>Крупно</item>
+    </string-array>
+    <string-array name="pref_view_mode_choice">
+        <item>Мобильный</item>
+        <item>Настольный ПК</item>
+        <item>iPhone</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Маленький</item>
+        <item>Нормальный</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="pref_show_pics_choices">
+        <item>Всегда Вкл.</item>
+        <item>Всегда Выкл.</item>
+        <item>Только по WIFI</item>
+    </string-array>
+    <string-array name="date_alias">
+        <item>Tomorrow</item>
+        <item>Today</item>
+        <item>Yesterday</item>
+    </string-array>
+    <string-array name="pref_content_engine_choices">
+        <item>Google</item>
+        <item>Baidu</item>
+        <item>Yahoo!</item>
+        <item>Bing</item>
+    </string-array>
+</resources>

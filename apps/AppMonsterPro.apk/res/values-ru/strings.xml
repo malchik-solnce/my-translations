@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="rate_title">Если вам нравится это приложения, пожалуйста, найдите время, чтобы оценить его. Спасибо за вашу поддержку!</string>
+    <string name="rate_title">Если Вам нравится это приложение, пожалуйста оцените его. Спасибо за вашу поддержку!</string>
     <string name="rate_now">Сейчас</string>
     <string name="rate_remind">Позже</string>
     <string name="rate_never">Не хочу</string>
     <string name="copyright_row1">"© 2009–2012 Think–Android
 All rights reserved
 Правка перевода: malchik-solnce
-Чаво и Поддержка:"</string>
+Чаво и поддержка:"</string>
     <string name="homepage_link">http://think-android.com</string>
     <string name="unknown_appname">Неизвестно</string>
     <string name="menu_backup_all">Бэкап</string>
@@ -18,21 +18,24 @@ All rights reserved
     <string name="menu_export">Экспорт</string>
     <string name="menu_scansd">Поиск на карте</string>
 	<string name="menu_more_apps">Другие приложения</string>
+	<string name="menu_clear_cache">Очистить кэш</string>
     <string name="inst_menu_back_to_main">Программы</string>
-    <string name="inst_menu_mark">Выбрать</string>
-    <string name="inst_menu_install">Установить</string>
+    <string name="inst_menu_mark">Выбрать …</string>
+    <string name="inst_menu_install">Установить …</string>
+	<string name="inst_menu_scan_all">Сканировать все</string>
+    <string name="inst_menu_scan_only">Сканировать только р.к.</string>
     <string name="versions_menu_back">Назад</string>
-    <string name="context_menu_launch">Запустить</string>
+    <string name="context_menu_launch">Открыть</string>
     <string name="context_menu_uninstall">Удалить</string>
     <string name="context_menu_save">Сохранить</string>
     <string name="context_menu_market">Открыть Google Play</string>
-    <string name="context_menu_advanced">App2SD, Cache..</string>
-    <string name="context_menu_share">Экспорт ссылки</string>
+    <string name="context_menu_advanced">App2SD, Cache …</string>
+    <string name="context_menu_share">Экспорт ссылки …</string>
     <string name="context_menu_backups">Резервные копии</string>
     <string name="context_menu_cancel">Отменить</string>
     <string name="installer_context_menu_install">Установить</string>
     <string name="installer_context_menu_remove">Удалить</string>
-    <string name="installer_context_menu_send">Отправить по</string>
+    <string name="installer_context_menu_send">Отправить по …</string>
     <string name="file_exists">"Файл уже существует.
 Переписать
 "</string>
@@ -46,7 +49,8 @@ All rights reserved
     <string name="overwrite">Переписать</string>
     <string name="rename">Переименовать</string>
     <string name="memory_phone">Телефон</string>
-    <string name="memory_sd">SD-Карта</string>
+    <string name="memory_sd">SD-карта</string>
+	<string name="memory_extsd">Съемная SD</string>
     <string name="installed_apps">Установленные программы</string>
     <string name="app_count">Всего:</string>
     <string name="app_count_on_sd">на SD:</string>
@@ -59,13 +63,13 @@ All rights reserved
     <string name="count_max_apks">3555557875</string>
     <string name="apk_count">Файлов:</string>
     <string name="apk_path">Путь:</string>
-    <string name="load_apps">Загрузка программ..</string>
-    <string name="load_archives">Загрузка архива..</string>
-    <string name="backup_process">Сохранение..</string>
-    <string name="load_apks">Поиск установочных файлов..</string>
+    <string name="load_apps">Загрузка приложений …</string>
+    <string name="load_archives">Загрузка архива …</string>
+    <string name="backup_process">Сохранение …</string>
+    <string name="load_apks">Поиск установочных файлов …</string>
     <string name="backup_folder_create_fails">Бэкап невозможен</string>
-    <string name="save_file_success">Успешно сохранено на SD-Карту</string>
-    <string name="save_file_failed">Ошибка при сохранении</string>
+    <string name="save_file_success">сохранено на SD-карту</string>
+    <string name="save_file_failed">ошибка при сохранении</string>
     <string name="backup_done">Сохранено:</string>
     <string name="backup_done2">из</string>
     <string name="backup_title">"Бэкап всех приложений,
@@ -78,7 +82,7 @@ All rights reserved
     <string name="install_from">Установка / импорт:</string>
     <string name="install_files">установить файлы</string>
     <string name="install_links">импорт Маркет ссылок</string>
-    <string name="protected_app">Защита</string>
+    <string name="protected_app">Защищенное</string>
     <string name="installed_app">Установлено</string>
     <string name="archive_date">Сохранено:</string>
 	<string name="version_count">Версии:</string>
@@ -87,28 +91,31 @@ All rights reserved
     <string name="installer_bt_empty">Приложений для установки нет</string>
     <string name="not_autoback_ticker">AppMonster</string>
     <string name="not_autoback_title">AppMonster:</string>
-    <string name="not_autoback_text_posi">Сохранение было успешным</string>
-    <string name="not_autoback_text_nega">Ошибка при сохранении</string>
+    <string name="not_autoback_text_posi">успешно сохранено</string>
+    <string name="not_autoback_text_nega">ошибка при сохранении</string>
     <string name="unlicensed_dialog_title">Нет лицензии</string>
     <string name="unlicensed_dialog_body">У вас нет действующей лицензии на AppMonster Pro</string>
     <string name="buy_button">Купить</string>
     <string name="support_button">Поддержка</string>
     <string name="quit_button">Закрыть</string>
-    <string name="checking_license">Проверка лицензии ...</string>
+    <string name="checking_license">Проверка лицензии …</string>
     <string name="application_error_dialog_title">Ошибка проверки лицензии</string>
-    <string name="application_error_dialog_body">Без паники! Убедитесь, что у вас есть подключение к Интернету. Это может быть временная проблема.</string>
+    <string name="application_error_dialog_body">Без паники! Убедитесь, что у Вас есть подключение к интернету. Это может быть временная проблема.</string>
     <string name="unlicensed_email_addr">support@think-android.com</string>
     <string name="unlicensed_email_subj">Лицензия AppMonster Pro</string>
     <string name="unlicensed_email_title">Выбор приложение для email</string>
     <string name="save_file_already">бэкап уже существует</string>
-    <string name="not_autoback_text_can2sd">эту прогу можно переместить на SD карту</string>
+    <string name="not_autoback_text_can2sd">эту прогу можно переместить на SD-карту</string>
     <string name="sort_title">Сортировка:</string>
     <string name="sort_by_size">По размеру</string>
     <string name="sort_by_name">По имени</string>
-    <string name="sort_by_date">По дате</string>
+    <string name="sort_by_date">По дате установки</string>
+	<string name="sort_by_backupdate">По дате р.к.</string>
     <string name="sort_by_app2sd">По App2SD</string>
     <string name="sort_by_state">По статусу</string>
-    <string name="menu_sort">Сортировка</string>
+	<string name="sort_by_protected">По защите</string>
+    <string name="sort_by_background">По фоновым</string>
+    <string name="menu_sort">Сортировка …</string>
     <string name="backup_mark_exists">уже сохранено</string>
     <string name="archive_context_menu_install_from_m">Установить из Google Play</string>
     <string name="archive_context_menu_install_last_from_sd">Установить с карты</string>
@@ -127,7 +134,7 @@ All rights reserved
     <string name="q_remove_archive">Удалить все сохраненные версии?</string>
     <string name="q_remove_archive_also">Также удалить все копии этого приложения?</string>
     <string name="q_remove_selected_backups">Вы действительно уверены, что хотите навсегда удалить все выбранные сохранения?</string>
-    <string name="sd_not_mounted">SD-Карта недоступна, некоторые функции не будут работать</string>
+    <string name="sd_not_mounted">SD-карта недоступна, некоторые функции не будут работать</string>
     <string name="sd_mounted_readonly">Запись на SD-Карту невозможна, некоторые функции не будут работать</string>
     <string name="no_backups">Резервные копии не найдены</string>
     <string name="old_version_found_title">Обнаружена старая версия AppMonster</string>
@@ -139,15 +146,10 @@ All rights reserved
     <string name="s_context_protect">Freeze</string>
     <string name="version_keepmark">Freeze</string>
     <string name="cleanup_att_title">Будьте внимательны</string>
-    <string name="cleanup_att_message">Более старые версии сейчас будут удалены. Если вы хотите сначала заморозить версии - отмените эту процедуру</string>
-    <string name="cleanup_progress">Очистка..</string>
+    <string name="cleanup_att_message">Более старые версии сейчас будут удалены. Если Вы хотите сначала заморозить версии - отмените эту процедуру.</string>
+    <string name="cleanup_progress">Очистка …</string>
     <string name="cleanup_rdy_title">Очистка</string>
-    <string name="cleanup_rdy_message">Старая версия будет сейчас удалена</string>
-    <string name="changelog_title">Изменения</string>
-    <string name="changelog_message">"2.6.1
-* Исправлено неправильное сообщение о автоматическом бэкапе защищенных приложений
-
-* Обновлен русский перевод"</string>
+    <string name="cleanup_rdy_message">Старая версия будет удалена</string>
     <string name="dir_select_title">Выберите папку для Р.К.</string>
     <string name="dir_select_folder">"Папка:
 "</string>
@@ -155,26 +157,30 @@ All rights reserved
     <string name="dir_select_set">Сохранить</string>
     <string name="dir_select_search">Поиск</string>
     <string name="dir_select_cancel">Отмена</string>
+	<string name="dir_select_mkdir">Новая папка</string>
     <string name="dir_select_message">"Эта папка сохранена как папка для Р.К:
 "</string>
     <string name="dir_select_message_os">"Сохранить эту папку как обычный стиль резервного копирования папки:
 "</string>
-    <string name="search">Поиск</string>
+    <string name="search">поиск</string>
     <string name="install_only_from_market">Только с Google Play</string>
     <string name="batch_install_title">Выбранно:</string>
-    <string name="archive_batch_install">Установить выбранные</string>
-    <string name="archive_batch_delete">Удалить выбранные</string>
+    <string name="archive_batch_delete">Удалить выбранное</string>
+    <string name="archive_batch_clear_selection">Удалить выбранное</string>
     <string name="nulltext" />
     <string name="pref_title">Параметры</string>
     <string name="pref_notifies_title">Уведомления</string>
-    <string name="pref_notify_app2sd_title">Сообщать о App2SD</string>
-    <string name="pref_notify_app2sd_summary">Сообщать если прогу можно переместить на SD-Карту</string>
-    <string name="pref_notify_backup_succes_title">Сообщать о успешном Бэкапе</string>
+    <string name="pref_notify_app2sd_title">App2SD</string>
+    <string name="pref_notify_app2sd_summary">Сообщать, если прогу можно переместить на SD-карту</string>
+    <string name="pref_notify_backup_succes_title">Бэкап</string>
     <string name="pref_notify_backup_succes_summary">Сообщать об успешном автоматическом бэкапе</string>
     <string name="pref_backup_title">Бэкап</string>
-    <string name="pref_auto_backup_title">Автоматический Бэкап</string>
+    <string name="pref_auto_backup_title">Автоматический бэкап</string>
     <string name="pref_auto_backup_summary">при установке</string>
-    <string name="pref_backup_folder_title">Папка Бэкапа</string>
+	<string name="pref_common_backup_title">Общий бэкап</string>
+    <string name="pref_backup_folder_title">Папка бэкапа</string>
+	<string name="pref_links_only_title">Только ссылки</string>
+    <string name="pref_links_only_summary">Сохранять только ссылки на приложения в маркете</string>
     <string name="pref_cleanup_versions_title">Количество версий</string>
     <string name="pref_cleanup_versions_summary">Число версий приложений для бэкапа</string>
     <string name="pref_max_versions_title">Макс. версий</string>
@@ -184,10 +190,8 @@ All rights reserved
     <string name="pref_os_backup_summary">.АПК-файлы будут храниться в дополнительной папке с обычными именами</string>
     <string name="pref_os_backup_folder_title">Папка для обычного бэкапа</string>
     <string name="pref_main_title">Интерфейс</string>
-    <string name="pref_save_sortorder_title">Запомнить сортировку</string>
-    <string name="pref_save_sortorder_summary">Запоминать порядок сортировки приложений</string>
     <string name="pref_hideicons_archive_title">Скрыть иконки приложений</string>
-    <string name="pref_hideicons_archive_summary">Иконки прил-ний в бэкапе не будут показаны. Может быть полезным на старых устройствах с небольшой памятью</string>
+    <string name="pref_hideicons_archive_summary">Иконки прил-ний в бэкапе не будут показаны. Может быть полезным на старых устройствах с небольшой памятью.</string>
     <string name="pref_ask_on_uninstall_title">Удаление резервных копий</string>
     <string name="pref_ask_on_uninstall_summary">Спрашивать, удалять ли архив при удалении проги</string>
 	<string name="pref_onuninstall_title">При удалении приложения</string>
@@ -196,14 +200,14 @@ All rights reserved
     <string name="pref_onuninstall_delete_files">Удаление резервных копий, но сохранять ссылки</string>
     <string name="pref_onuninstall_delete_all">Удаление всего</string>
     <string name="backupfolder_searching">Поиск папки с Р.К..</string>
-    <string name="backupfolder">Папка Бэкапа</string>
+    <string name="backupfolder">Папка бэкапа</string>
     <string name="backupfolder_not_found">"Папка с Р.К. не найдена.
 Убедитесь, что:
 - SD-карта доступна
 - Резервное копирование на SD-карте
 - По умолчанию папка (appmonster2/backup) не изменялась"</string>
-    <string name="backupfolder_found">Папка Бэкапа найдена. Сохранить, если это в правильной папке</string>
-    <string name="backupfolder_found_try_to_load">Папка Бэкапа найдена, она будет сохранена папкой по умолчанию. Теперь, попытайтесь загрузить бэкап</string>
+    <string name="backupfolder_found">Папка Бэкапа найдена. Сохранить, если это в правильной папке.</string>
+    <string name="backupfolder_found_try_to_load">Папка бэкапа найдена, она будет сохранена папкой по умолчанию. Теперь, попытайтесь загрузить бэкап.</string>
     <string name="search_for_backupfolder">Поиск резервных копий</string>
     <string name="dialog_app_has_no_backups">Эта прога не имеет резервных копий</string>
 	<string name="app_flag_service">Фоновый режим</string>
@@ -213,8 +217,11 @@ All rights reserved
     <string name="dialog_free_cut_message">Эта функция доступна только в ПОЛНОЙ версии</string>
     <string name="dialog_free_cut_buy_message">AppMonster PRO имеет все функции без ограничений и не содержит никакой рекламы</string>
     <string name="dialog_free_cut_buy">Pro версия</string>
-    <string name="un_text">У вас нет действующей лицензии</string>
-    <string name="un_text2">Убедитесь, что у вас есть подключение к Интернету, если вы хотите иметь лицензию</string>
-    <string name="btn_un_play">Google Play</string>
-    <string name="btn_un_cls">Закрыть</string>
+	<string name="dialog_mkdir_failed">Не удалось создать папку</string>
+	<string name="dialog_backup_is_off">Общий бэкап отключен. Управляйте в настройках.</string>
+	<string name="toast_no_store_client">Клиент приложения не найден. Убедитесь что он установлен.</string>
+	<string name="licence_check">Проверка лицензии... Если это не удается, Вы можете восстановить свои резервные копии.</string>
+	<string name="silent_installing_title">Установка …</string>
+    <string name="clear_cache_summary">Требуется перезагрузка приложения</string>
+	<string name="dialog_unstall_first">Для установки обновления необходимо переустановить AppMonster</string>
 </resources>

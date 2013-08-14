@@ -1,14 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="agreement_title">Лицензионное соглашение</string>
+    <string name="agreement_summary_1">    Это соглашение является юридическим соглашением между Вами (далее Вы или Ваш) и Jiubang Digital Technology Co., Ltd, Guangzhou (далее как “Jiubang Digital”) в отношении загрузки, установки и использования Jiubang Digital’s ПО - Next Launcher 3D (“ПО”) и связанных с ним услуг</string>
+    <string name="agreement_summary_2">    ВАША ЗАГРУЗКА, УСТАНОВКА, ИСПОЛЬЗОВАНИЕ И ДРУГОЙ ДОСТУП К ПО ОБУСЛОВЛЕНО ПРИНЯТИЕМ И СОБЛЮДЕНИЕМ УСЛОВИЙ ДАННОГО СОГЛАШЕНИЯ. Jiubang Digital вправе изменять условия этого Соглашения при необходимости обновления программного обеспечения. Вы можете проверить измененную версию этого Соглашения из приложения или на официальном сайте. Вы осознаете и соглашаетесь, что при продолжительном использовании программного обеспечения со дня изменения этих условий, Jiubang Digital будет расценивать Ваше использование как принятие и соглашение с обновленными условиями.</string>
+    <string name="agreement_1">1 Интеллектуальная собственность</string>
+    <string name="agreement_1_1">1.1 Программное обеспечение разработано Jiubang Digital самостоятельно. Вы подтверждаете и соглашаетесь, что Jiubang Digital сохраняет за собой все авторские права, торговые марки, патенты, коммерческие тайны, в том числе все права интеллектуальной собственности и другие смежные права, названия, и интересы. Программное обеспечение и соответствующая информация,в том числе, но не ограничиваясь письменным выражением и комбинациями, иконками, декоративными рисунками, таблицами, цветами, пользовательским интерфейсом, системой, связанными данными, печатными материалами или электронными документами, защищены авторским правом. Товарными знаками, патентами, Анти-недобросовестной конкуренции Народной Китайской Республики (далее именуемые "КНР") и соответствующими международными соглашениями и другими законами об интеллектуальной собственности и правил.</string>
+    <string name="agreement_1_2">1.2 Вам не разрешается (и не можете разрешать кому-либо) совершать действия, прямо или косвенно, нарушающие права или которые могут привести к нарушению прав интеллектуальной собственности и связанных с ними интересов Jiubang Digital (включая, но не ограничиваясь эксплуатацией, присвоения указанных прав на интеллектуальную собственность или разрешении выше любого еще, чтобы сделать это). Jiubang Digital оставляет за собой право взимать гражданские правонарушения и обязательства.</string>
+    <string name="agreement_1_3">1.3 Вам не разрешается (или поручить третьему лицу), будь то на коммерческие цели или нет, реконструировать, декомпилировать или пытаться получить исходный код ПО или создавать производные продукты, услуги, плагины, расширения и т.д. Jiubang Digital оставляет за собой право взимать обязательства гражданских правонарушений, если Вы не обращались к Jiubang Digital в письменной форме.</string>
+    <string name="agreement_2">2 Сфера лицензии</string>
+    <string name="agreement_2_1">2.1 Jiubang Digital дает Вам неисключительную, без права выдачи лицензию для загрузки, установки и использования программного обеспечения. Никак нельзя пользователям использовать его для коммерческого использования.</string>
+    <string name="agreement_2_2">2.2 Вы не можете использовать программное обеспечение таким образом, что может привести к повреждению, зависанию, перегрузки или снижения качества приложения (или сервера и интернет связя с программным обеспечением). Или в том, как может повлиять на продукт и услуги, предоставляемые любыми другими пользователями.</string>
+    <string name="agreement_2_3">2.3 Вы внимательно прочитали и согласились с договором и заявлениями опубликоваными Jiubang Digital. Вы обещаете не копировать, предоставлять лицензии, передавать или продавать программное обеспечение или связанные с ними услуги. Вы несете полную ответственность за любые платежи, которые создаются или выставляются с собственных факторов. Jiubang Digital не несет никакой ответственности.</string>
+    <string name="agreement_2_4">2.4 Права защищены. Jiubang Digital оставляет за собой все права, не предоставленные Вам. Вы должны получить дополнительное согласие пользователя другого программного обеспечения принадлежащего Jiubang Digital.</string>
+    <string name="agreement_3">3 Примечания для пользователей</string>
+    <string name="agreement_3_1">3.1 Вы соглашаетесь на использование программного обеспечения таким образом, разрешенных данным Соглашением, и несете полную ответственность за любое нарушение ваших обязательств, в соответствии с национальными законами и правилами, связанных с политикой, или это соглашение и за последствия (в том числе потерянных и повреждения программного обеспечения и третьих сторон), вызванные этими нарушениями. Вы не имеете права проводить следующие варианты поведения (включая, но не ограничиваясь):</string>
+    <string name="agreement_3_1_1">3.1.1 Удалять информацию об авторских правах, содержимое программного обеспечения или другие копии</string>
+    <string name="agreement_3_1_2">3.1.2 Вскрывать технологию, декомпилировать или извлекать исходный код программного обеспечения</string>
+    <string name="agreement_3_1_3">3.1.3 Conduct any behaviors that jeopardize computer network security, including but not limited to: use unauthorized data or unauthorized access to server/account；enter public computer network or other’s computer system to delete, modify, add stored information without permission; attempt to search, scan, test the Software system, Internet leak, or other behaviors breaking internet security; attempt to interfere, damage the Software system or website normal running, deliver the malwares or virus intentionally to damage normal internet information service; forge (part of) names of TCP/IP package</string>
+    <string name="agreement_3_1_4">3.1.4 Sell, rent, loan, deliver, transfer or sub-license the Software and services, or related links, or benefit from using the Software and the services, or barely benefit from the agreements, regardless of whether the use above brings direct economic gain or pecuniary gain</string>
+    <string name="agreement_3_1_5">3.1.5 Use the Software and other services provided by Jiubang Digital in any illegal ways, for any illegal purposes, or in any other ways conflicting with this Agreement</string>
+    <string name="agreement_3_1_6">3.1.6 Jiubang Digital reserves the right to terminate, fully or partially suspend, limit functional features of user’s account, without prior notice, if the user has breached under the terms of this Agreement.</string>
+    <string name="agreement_3_2">3.2 Jiubang Digital does not assume any liability for any loss of profits or loss of data arising from the special, malicious, indirect or similar damages (but not limited to damages) due to your use of the Software.</string>
+    <string name="agreement_3_3">3.3 Your first successful payment of the Software unlocks the already released features of the version you purchased and continuing released features within one year. You shall pay additional fee(Ninety-nine cents USD per year) to acquire new premium features released after one year from your first successful payment. You choice to purchase new premium features or not won’t affect your usage of the features you already acquired and the improving and upgrading service provided by Jiubang Digital regarding to them.</string>
+    <string name="agreement_4">4 Политика конфиденциальности</string>
+    <string name="agreement_4_1">4.1 Личная информация</string>
+    <string name="agreement_4_1_1">4.1.1 Personal information is data that can be used to uniquely identify or contact a single person.</string>
+    <string name="agreement_4_1_2">4.1.2 We DO NOT collect, store or use any personal information while you visit, download or upgrade our website or our products, excepting the personal information that you submit to us when you create a user account, send an error report or participate in online surveys and other activities.</string>
+    <string name="agreement_4_1_3">4.1.3 Only for the following purposes that we may use personal information submitted by you: help us develop, deliver, and improve our products and services and supply higher quality service; manage online surveys and other activities you’ve participated in.</string>
+    <string name="agreement_4_1_4">4.1.4 В следующих обстоятельствах мы можем раскрыть Вашу личную информацию в соответствии с Вашим желанием или законом:</string>
+    <string name="agreement_4_1_4_1">4.1.4.1 Your prior permission;</string>
+    <string name="agreement_4_1_4_2">4.1.4.2 By the applicable law within or outside your country of residence, legal process, litigation requests;</string>
+    <string name="agreement_4_1_4_3">4.1.4.3 By requests from public and governmental authorities;</string>
+    <string name="agreement_4_1_4_4">4.1.4.4 To protect our legal rights and interests.</string>
+    <string name="agreement_4_2">4.2 Non-Personal Information</string>
+    <string name="agreement_4_2_1">4.2.1 Non-personal information is data in a form that does not permit direct association with any specific individual, such as your CPN model, memory size, your phone IMEI number, phone model, install, uninstall, frequency of use, etc.</string>
+    <string name="agreement_4_2_2">4.2.2 We may collect and use non-personal information in the following circumstances. To have a better understanding in user’s behavior, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as the data of install, frequency of use, country, equipment and channel.</string>
+    <string name="agreement_4_2_3">4.2.3 If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.</string>
+    <string name="agreement_4_3">4.3 Protection of Personal Information</string>
+    <string name="agreement_4_3_1">4.3.1 We take precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.</string>
+    <string name="agreement_4_3_2">4.3.2 When you use some products, services, or post your comments, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features.</string>
+    <string name="agreement_4_4">4.4 Our Companywide Commitment to Your Privacy</string>
+    <string name="agreement_4_4_1">4.4.1 To make sure your personal information is secure; we communicate our privacy and security guidelines to all employees and strictly enforce privacy safeguards within the company.</string>
+    <string name="agreement_4_5">4.5 Privacy Questions</string>
+    <string name="agreement_4_summary_1">    If you have any questions or concerns about our Privacy Policy or data processing, please contact us &lt;golauncher@goforandroid.com>.We may update Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.</string>
+    <string name="agreement_5">5 Ограничения обязательств и отказ от ответственности</string>
+    <string name="agreement_5_1">5.1 You acknowledge and agree that the Software and related services may have potential risks like service interruption, failure to respond to users’ requests, due to force majeure, mobile communication terminal virus or hacker attack, system instability, user physical location, phone power off, and other reasons concerning technology, telecommunication lines. In no event shall Jiubang Digital be liable for any risks stated above.</string>
+    <string name="agreement_5_2">5.2 Jiubang Digital is not liable for any losses to users arising out of telecommunication line breakdown, technical problems, internet, mobile communication terminal failures, system instability and any other force majeure.</string>
+    <string name="agreement_5_3">5.3 In view of business development and adjustment, Jiubang Digital reserves the right to amend or terminate services without prior notice to users at any time, and Jiubang Digital is not liable for users and any other third-parties when executing this right.</string>
+    <string name="agreement_5_4">5.4 The software which is not officially released or authorized by Jiubang Digital and the derivative works of the Software are illegal. User’s downloading, installation, and user this software may lead to unexpected risk. Jiubang Digital is not liable for any legal liabilities, issues arising from it.</string>
+    <string name="agreement_5_5">5.5 You agree to the most extent under applicable law, Jiubang Digital owns other disclaimer rights not listed in this agreement.</string>
+    <string name="agreement_6">6 Прекращение</string>
+    <string name="agreement_6_1">6.1 Вы имеете право полностью и навсегда удалить программное обеспечение с Вашего мобильного устройства в любое время и прекратить действие настоящего соглашения</string>
+    <string name="agreement_6_2">6.2 Unless Jiubang Digital unilaterally terminates this Agreement or you terminate this agreement as above, this agreement and the terms (including the updated agreement following) will remain effective.</string>
+    <string name="agreement_6_3">6.3 Your right will be terminated automatically if you breach any obligations stated in this Agreement. Jiubang Digital and any other third-parties have on need to send your additional notice.</string>
+    <string name="agreement_6_4">6.4 Прекращение действия настоящего соглашения не повлияет на обязательства и ответственность пользователей должны взять на себя до окончания.</string>
+    <string name="agreement_7">7 Другое</string>
+    <string name="agreement_7_1">7.1 You agree that if Jiubang Digital does not exercise or enforce any legal right or regulations, this will not be taken to be a formal waiver of Jiubang Digital’s rights and Jiubang Digital has the right to continuously exercise or enforce the right or regulation.</string>
+    <string name="agreement_7_2">7.2 Without written authorization from other side, user may not assign or transfer the rights granted by this Agreement, or assign the designated responsibilities and obligations to others.</string>
+    <string name="agreement_7_3">7.3 If any court of law, having the jurisdiction to decide on this matter, rules that any provision of this Agreement is invalid, then that provision will be removed from the Agreement without affecting the rest of the terms. The remaining provisions of the Agreement will continue to be valid and enforceable.</string>
+    <string name="agreement_7_4">7.4 The validity and interpretation of this Agreement is applicable to laws of the People’s Republic of China. If any provision in this Agreement conflicts with PRC Laws, the provision should be re-interpreted in accordance with relevant laws. The invalidity or re-interpretation of these provisions will not affect the validity and enforcement of the remaining provisions. Both Jiubang Digital and users agree to resolve the issues arising from this Agreement through consultation. If consultation fails, either side can submit settlement of lawsuits to competent court in Guangzhou where Jiubang Digital located.</string>
+    <string name="agreement_7_5">7.5 Jiubang Digital оставляет за собой право окончательной интерпретации настоящего договора</string>
     <string name="crash_notif_ticker_text">Неожиданная ошибка, отправьте отчет об ошибке…</string>
     <string name="crash_notif_title">Непредвиденная ошибка…</string>
-    <string name="crash_notif_text">Пожалуйста, выберите это, чтобы помочь нам решить эту проблему</string>
+    <string name="crash_notif_text">Пожалуйста, выберите, чтобы помочь нам решить эту проблему</string>
     <string name="crash_dialog_title">Отчет о ошибке</string>
     <string name="crash_dialog_text">Произошла непредвиденная ошибка, вызвавшая остановку программы. Нам нужен Ваш отзыв, чтобы помочь решить эту проблему. Вы можете быть уверены, что мы собираем только информацию об ошибке, а не личную.</string>
     <string name="crash_yes">Отправить</string>
     <string name="crash_no">Отмена</string>
     <string name="crash_subject">Ошибка</string>
     <string name="application_name">Next Launcher</string>
+    <string name="application_name_lite">Next Launcher Lite</string>
     <string name="folder_name">Папка</string>
     <string name="chooser_wallpaper">Выберите обои</string>
     <string name="wallpaper_instructions">Установить обои</string>
@@ -29,11 +90,13 @@
     <string name="screen_column_dialog_msg">Выберите количество колонок</string>
     <string name="func_app_grid_setting_hint">Выбор строк и столбцов меню приложений</string>
     <string name="check_version">Проверить обновление</string>
+    <string name="check_version_lite">Версия</string>
     <string name="version_info">Особенности версии</string>
     <string name="share_app">Поделиться</string>
     <string name="rate_go_launcher">Оценить приложение</string>
     <string name="share_app_summary">Поделитесь Next Launcher с друзьями</string>
-    <string name="rate_go_launcher_summary">Оцените Next Launcher в Google Play</string>
+    <string name="rate_go_launcher_summary">Оцените Next Launcher в %s</string>
+    <string name="rate_go_launcher_summary_lite">Оцените Next Launcher Lite в %s</string>
     <string name="follow_us">Мы в Facebook</string>
     <string name="follow_us_summary">Следите за нами и будьте в курсе последних новостей</string>
     <string name="feedback">Отправить отзыв</string>
@@ -47,16 +110,16 @@
     <string name="share_content">К концу 2012 года, у нас есть для Вас сюрприз! С великолепными эффектами перехода и гуманными жестами, Next Launcher уже выпущен! Более подробная информация --- ищите Next Launcher в Google Play.</string>
     <string name="choose_share_way">Отправить через</string>
     <string name="summary_backupdetail">Последний бэкап：</string>
-    <string name="restore_db_dialog_summary">Это позволит восстановить конфигурации Next Launcher из предыдущей резервной копии с SD-карты или внутренней памяти</string>
+    <string name="restore_db_dialog_summary">Это восстановит конфигурации Next Launcher из предыдущей резервной копии с SD-карты или внутренней памяти</string>
     <string name="backup_db_summary">Резервное копирование текущих настроек Next Launcher на SD-карту</string>
     <string name="resetDefault">Сброс всех настроек Next Launcher в начальное состояние. Нажмите клавишу Домой, чтобы перезагрузить Next Launcher.</string>
-    <string name="dbfile_export_dialog">Резервное копирование...</string>
+    <string name="dbfile_export_dialog">Резервное копирование…</string>
     <string name="import_export_sdcard_unmounted">Не удается прочитать SD-​​карту. Вставьте ее, чтобы продолжить.</string>
     <string name="dbfile_export_success">Бэкап успешно сохранен!</string>
     <string name="dbfile_export_error">Не удается создать резервную копию, попробуйте еще раз</string>
     <string name="dbfile_not_found">Не удается найти файл резервной копии, попробуйте еще раз</string>
     <string name="dbfile_not_readable">Не удается прочитать файл резервной копии, попробуйте еще раз</string>
-    <string name="dbfile_import_dialog">Восстановление конфигураций...</string>
+    <string name="dbfile_import_dialog">Восстановление конфигураций…</string>
     <string name="dbfile_import_error">Не удается восстановить. Попробуйте еще раз.</string>
     <string name="permlab_install_shortcut">установка ярлыков</string>
     <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без вмешательства пользователя</string>
@@ -72,7 +135,7 @@
     <string name="long_press_move_screen">Удерживайте экран в центре, для перемещения</string>
     <string name="no_more_screen">Экранов больше нет. Для удаления нажмите кнопку удалить.</string>
     <string name="upper_limit">Достигнут предел экранов!</string>
-    <string name="no_room_add_widget">Не хватает места для виджета. Продолжить добавление?</string>
+    <string name="no_room_add_widget">Не хватает места. Продолжить добавление?</string>
     <string name="delete_non_empty_screen">Удалить непустой экран?</string>
     <string name="downDialog_title">Внимание</string>
     <string name="downDialog_downForWhere">Выберите способ загрузки (если в поиске Google Play меньше, пожалуйста, скачайте с официального канала)</string>
@@ -87,9 +150,11 @@
     <string name="http_cur_newest_exception">У Вас последняя версия!</string>
     <string name="set_wallpaper_error">Не хватает памяти! Удалите виджеты или закройте запущенные приложения, чтобы продолжить.</string>
     <string name="wallpaper_photo">Фото</string>
+	<string name="wallpaper_nextbase">Next Base</string>
+    <string name="wallpaper_nextcore">Next Core</string>
     <string name="next_live_wallpaper">Живые обои Next</string>
     <string name="wallpaper_honeycomb">Glare Honeycomb</string>
-	<string name="wallpaper_bulbex">Magic Light</string>
+    <string name="wallpaper_bulbex">Magic Light</string>
     <string name="wallpaper_spacestation">Shield</string>
     <string name="wallpaper_tunnel">Time Tunnel</string>
     <string name="wallpaper_seaice">Sea ice</string>
@@ -99,7 +164,9 @@
     <string name="widget_music">Музыка</string>
     <string name="widget_clock">Часы</string>
     <string name="widget_calendar">Календарь</string>
-	<string name="widget_taskmanager">Next Taskmanager</string>
+    <string name="widget_taskmanager">Next Taskmanager</string>
+    <string name="widget_contact">Контакты</string>
+    <string name="widget_weather">Погода</string>
     <string name="wallpaper_icon_sel_text">Текущие обои</string>
     <string name="customname_dial">Телефон</string>
     <string name="customname_contacts">Контакты</string>
@@ -126,6 +193,7 @@
     <string name="screen_gesture_setting">ЖЕСТЫ ЭКРАНА</string>
     <string name="appdrawer_gesture_setting">ЖЕСТЫ МЕНЮ ПРИЛОЖЕНИЙ</string>
     <string name="more_setting">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ</string>
+    <string name="more_setting_2">Еще</string>
     <string name="about_go">О программе</string>
     <string name="exit_go">Выйти из приложения</string>
     <string name="reset_to_default_summary">Восстановить последнюю резервную копию настроек</string>
@@ -133,11 +201,11 @@
     <string name="background_setting">Обои</string>
     <string name="screen_indicator">Индикатор экрана</string>
     <string name="launcherbg_setting">ОБОИ ЭКРАНА</string>
-    <string name="launcher_wallpaper_setting">Выбрать обои</string>
+    <string name="launcher_wallpaper_setting">Обои экрана</string>
     <string name="wallpaper_cut_model_setting">Режим обоев</string>
     <string name="appfuncinfobg_setting">ФОН МЕНЮ ПРИЛОЖЕНИЙ</string>
     <string name="appdrwer_bg_setting">Фон меню приложений</string>
-    <string name="set_appdrawer_bg">Установить</string>
+    <string name="set_appdrawer_bg">Установить фон</string>
     <string name="fuzzy_appfuncinfobg_setting">Размывать фон</string>
     <string name="wallpaper_sroll_delay_setting">Динам. эффект обоев</string>
     <string name="wallpaper_sroll_delay_true_summary">Динамический эффект включен</string>
@@ -154,9 +222,9 @@
     <string name="screen_hide_iconname">Стиль иконок</string>
     <string name="func_app_looping">Циклическая прокрутка</string>
     <string name="func_vertical_effect">Вертик. эффект</string>
-    <string name="screen_iconline_summary">Показывать вспомогательные линии при перемещении иконок</string>
+    <string name="screen_iconline_summary">Показывать вспомогательные линии при перемещении иконки</string>
     <string name="screen_screengrid">Вспом. сетка</string>
-    <string name="screen_screengrid_summary">Показывать вспомогательную сетку при перемещении иконок</string>
+    <string name="screen_screengrid_summary">Показывать вспомогательную сетку при перемещении иконки</string>
     <string name="screen_looping_summary">Прокрутка всех экранов по кругу</string>
     <string name="screen_icon_auto_alignment">Выравнивание иконок</string>
     <string name="screen_screengrid_enable_tips">Автом. выравнивать иконки на рабочем столе</string>
@@ -164,6 +232,7 @@
  1. Перекрытию некоторых иконок на экране
  2. Изменению расположения иконок после смены ориентации экрана"</string>
     <string name="screen_grid_row_column_adjust">Размер сетки</string>
+    <string name="icon_edit_summary">Изменение размера, угола, стиля и иконок</string>
     <string name="func_app_looping_summary">Прокручивать все экраны по кругу</string>
     <string name="func_app_updowm_summary">Эффект по вертикали</string>
     <string name="screen_transition_effect">Скорость перехода</string>
@@ -172,28 +241,38 @@
     <string name="dock_looping">Циклическая прокрутка</string>
     <string name="dock_tips_change_count">Сокращение строк в панели, может удалить некоторые иконки в ней. Нажмите кнопку \"OK\" для завершения изменения.</string>
     <string name="dock_hide">Скрыть док-панель</string>
+    <string name="dock_hide_bg">Скрыть фон док-панели</string>
     <string name="dock_hide_summary">Показывать док-панель на экране</string>
     <string name="tips_hide_dock">Обратите внимание: для входа в меню приложений или активации главного меню (для устройств, таких как Galaxy Nexus) используйте ярлык Next или жесты, после скрытия док-панели</string>
+    <string name="screen_setting_folder">НАСТРОЙКИ ПАПКИ</string>
+    <string name="screen_setting_auto_close">Закрывать папку</string>
+    <string name="screen_setting_auto_close_summary">Автом. закрывать папку после запуска приложения</string>
+    <string name="appdrawer_appinfo_text">О приложении</string>
     <string name="pref_appfun_grid_size_title">Размер сетки</string>
     <string name="func_app_flip_horizontal">Прокрутка экрана</string>
     <string name="func_app_flip_horizontal_hint">Выберите ориентацию прокрутки в меню приложений</string>
+    <string name="func_app_other">РАЗНЫЕ НАСТРОЙКИ</string>
+    <string name="func_app_auto_close">Закрывать меню приложений</string>
+    <string name="func_app_auto_close_summary">Автом. закрывать меню приложений после запуска приложения</string>
+    <string name="func_app_row_col_alert_message">Установленный Вами размер сетки больше, чем рекомендуется. Возможны некоторые ошибки.</string>
     <string name="title_local_backup">ЛОКАЛЬНЫЙ БЭКАП</string>
     <string name="attention_title">Внимание!</string>
     <string name="title_backup_setting">Резервные копии</string>
-    <string name="backup_desk">Бэкап настроек</string>
+    <string name="backup_desk">Бэкап</string>
     <string name="summary_nonbackup">Нет резервных копий</string>
-    <string name="restore_db_title">Восстанов. параметров</string>
+    <string name="restore_db_title">Восстановление</string>
     <string name="reset_to_default_title">Сброс настроек</string>
     <string name="summary_reset">Сбросить настройки в состояние по умолчанию</string>
-    <string name="show_app_name">Скрыть название прил-ний</string>
+    <string name="show_app_name">Скрыть название приложений</string>
     <string name="show_app_name_hint">Показывать/скрывать названия приложений</string>
     <string name="pref_effects_folder">ДРУГИЕ ЭФФЕКТЫ</string>
     <string name="folder_effect">Эффект папки</string>
     <string name="folder_effect_hint">Эффект открытия папки</string>
+	<string name="dock_effect">Эффект док-панели</string>
     <string name="screen_transition_title">Переход экрана</string>
     <string name="desktop_transition">Эффект главного экрана</string>
     <string name="icon_follow_shake_title">Качание иконок</string>
-    <string name="icon_follow_shake_title_hint">"Еще не поддерживается в эффектах 'Полет' и 'Каскад'"</string>
+    <string name="icon_follow_shake_title_hint">"Не поддерживается в эффектах 'Полет', 'Каскад', 'Ткань' и 'Оригами'"</string>
     <string name="icon_follow_shake_level_title">Амплитуда качания</string>
     <string name="desktop_transition_hint">Выберите эффект перехода экрана</string>
     <string name="icon_menu_effect_hint">Выберите эффект иконок меню</string>
@@ -210,7 +289,9 @@
     <string name="double_up_gesture_setting">Сдвиг вверх (двумя пальцами)</string>
     <string name="double_down_gesture_setting">Сдвиг вниз (двумя пальцами)</string>
     <string name="double_click_gesture_setting">Двойное нажатие</string>
-    <string name="bakc_key_gesture_setting">Кнопка назад (только на рабочем столе)</string>
+    <string name="bakc_key_gesture_setting">Кнопка назад</string>
+    <string name="clockwise_key_gesture_setting">Двумя пальцами (по часовой стрелки)</string>
+    <string name="counterclockwise_key_gesture_setting">Двумя пальцами (против часовой стрелки)</string>
     <string name="appdrawer_up_gesture_setting_title">Сдвиг вверх</string>
     <string name="appdrawer_down_gesture_setting_title">Сдвиг вниз</string>
     <string name="home_gesture_hint">Действие клавиши домой</string>
@@ -221,10 +302,11 @@
     <string name="double_click_gesture_hint">Двойное нажатие</string>
     <string name="appdrawer_up_gesture_setting_hint">Показать/скрыть нижнюю панель</string>
     <string name="appdrawer_down_gesture_setting_hint">Добавить ярлыки на главный экран</string>
-    <string name="appdrawer_app_name_setting_title">Скрыть названия прил-ний</string>
-	<string name="screen_transition_3d">3D эффекты</string>
+    <string name="appdrawer_app_name_setting_title">Скрыть названия приложений</string>
+    <string name="screen_transition_3d">3D эффекты</string>
     <string name="screen_transition_crystal">Кристалл</string>
-    <string name="screen_transition_classic">Классические</string>
+    <string name="screen_transition_classic">Обычные эффекты</string>
+    <string name="screen_transition_cloth">Ткань</string>
     <string name="dialog_title_custom_effect">Случайный (свой)</string>
     <string name="toast_msg_noeffect_select">Неверная операция. Не выбран эффект перехода!</string>
     <string name="pref_effects_desk">ГЛАВНЫЙ ЭКРАН</string>
@@ -234,7 +316,7 @@
     <string name="locker_vip_low_verson_tips_content">Версия GO Locker слишком старая, чтобы использовть некоторые функции. Обновите до последней версии.</string>
     <string name="locker_low_verson_tips_title">Совет</string>
     <string name="locker_low_verson_update">Обновить</string>
-    <string name="locker_default_theme">Стандартная</string>
+    <string name="locker_default_theme">По умолчанию</string>
     <string name="random_locker_theme">Случайная</string>
     <string name="theme_tab_locker">Locker</string>
     <string name="theme_golockers_tips">Скачайте GO Locker, чтобы украсить свой экран блокировки</string>
@@ -258,8 +340,8 @@
     <string name="settings">Настройки</string>
     <string name="check_fail">Не удалось проверить обновление</string>
     <string name="check_fail_for_internet">Не удалось проверить обновление, нет интернета</string>
-    <string name="is_newest_version">Ваша текущая версия является последней</string>
-    <string name="wait_for_check_update">Проверка. Пожалуйста, подождите...</string>
+    <string name="is_newest_version">У Вас последняя версия</string>
+    <string name="wait_for_check_update">Проверка, подождите…</string>
     <string name="start_download">Начало загрузки…</string>
     <string name="update_title">Обновление Next Launcher</string>
     <string name="update_later">Позже</string>
@@ -277,10 +359,11 @@
     <string name="download_waiting">Ожидание загрузки</string>
     <string name="notify_update_tips">Обновление：</string>
     <string name="notify_update_info">Доступна новая версия</string>
-    <string name="notify_update_content">Доступна новая версия. Нажмите Обновить, чтобы скачать.</string>
+    <string name="notify_update_content">Доступна новая версия. Нажмите обновить, чтобы скачать.</string>
+	<string name="notify_theme_update_content">Доступно обновление темы. Нажмите обновить, чтобы скачать.</string>
     <string name="advanced_setting">Разные настройки</string>
     <string name="advanced_setting_message_tip">Уведомления</string>
-    <string name="advanced_setting_message_tip_content">Для работы необходим плагин Next Notification. Пожалуйста, сначала скачайте его с Google Play.</string>
+    <string name="advanced_setting_message_tip_content">Для работы необходим плагин Next Notification. Пожалуйста, скачайте его с Google Play.</string>
     <string name="gmailtip_2.0">Поддреживается только Gmail версии 2.3.6 или выше</string>
     <string name="gmailtip_4.0">Поддерживается только Gmail версии 4.0.5 или выше</string>
     <string name="advanced_setting_message_tip_hint">Отображение своевременных непрочитанных событий</string>
@@ -289,8 +372,6 @@
     <string name="advanced_setting_screen_lock_warn">Внимание: после блокировки экрана, главный экран, экран просмотра и меню приложений не будут редактироваться. А так же, не будет работать и долгое нажатие на экране. Вы можете нажать эту кнопку еще раз, чтобы разблокировать экран.</string>
     <string name="advanced_setting_smart_indicator">Кнопка Next</string>
     <string name="smart_indicator_summary">Вкл/выкл Next индикатор</string>
-    <string name="advanced_setting_importdata_tip">Импорт настроек</string>
-    <string name="advanced_setting_importdata_tip_content">Вы использовали версию Next Launcher 3D Lite. Хотите импортировать расположение иконок и его настройки?</string>
     <string name="advanced_setting_importdata_tip_no_data">Нет данных</string>
     <string name="import_data_from_lite">Импорт настроек Lite версии</string>
     <string name="folder_upper_limit">Папка заполнена</string>
@@ -310,7 +391,7 @@
     <string name="appdrawer_setting_verticalslide_on">Вкл. вертикальная прокрутка</string>
     <string name="appdrawer_setting_verticalslide_off">Вертикальная прокрутка отключена</string>
     <string name="appdrawer_setting_hide_app">Скрыть приложения</string>
-    <string name="dock_edit_app">Приложение</string>
+    <string name="dock_edit_app">Приложения</string>
     <string name="dock_edit_add">Добавить</string>
     <string name="dock_edit_folder">Папка</string>
     <string name="dock_edit_shortcut">Ярлыки</string>
@@ -320,7 +401,7 @@
     <string name="dock_edit_wallpaper">Обои</string>
     <string name="dock_edit_gowallpaper">Обои Next</string>
     <string name="dock_edit_individual">Личное</string>
-    <string name="dock_have_no_livepaper">К сожалению, Ваше устройство не поддерживает живые обои</string>
+    <string name="dock_have_no_livepaper">Ваше устройство не поддерживает живые обои</string>
     <string name="dock_edit_localthem">Установленные</string>
     <string name="dock_edit_theme">Темы</string>
     <string name="dock_edit_widget_manager">Менеджер</string>
@@ -369,7 +450,7 @@
     <string name="title_add2desk">Добавление иконок на экран</string>
     <string name="sub_add2desk">Перетащите иконку на выбранный экран</string>
     <string name="sub_multiadd2desk">Выберите и перетащите несколько иконок на экран</string>
-    <string name="guide_next_indicator">Next индикатор</string>
+    <string name="guide_next_indicator">Кнопка Next</string>
     <string name="guide_next_indicator_msg1">1.Скользите вверх и вниз для переключения столов</string>
     <string name="guide_next_indicator_msg2">2.Удерживайте и перетащите, чтобы переместить его на другую сторону</string>
     <string name="guide_workspace_float_mode_title">Спящий режим</string>
@@ -378,10 +459,10 @@
     <string name="guide_workspace_float_mode_tip3">3.Встряхните телефон для выхода</string>
     <string name="tips_drag_out_for_select">Переместите к краю экрана, чтобы выбрать нужный стол</string>
     <string name="tips_current_screen_full">Не хватает места. Пожалуйста, выберите другой экран.</string>
-    <string name="tips_widget_loading">Загрузка...</string>
+    <string name="tips_widget_loading">Загрузка…</string>
     <string name="tips_dock_full">Док заполнен</string>
     <string name="tips_screen_upper_limited">Достигнут лимит</string>
-    <string name="tips_drag_to_desk">Перетащите в выделенную область, чтобы добавить в рабочий стол</string>
+    <string name="tips_drag_to_desk">Перетащите в выделенную область, чтобы добавить на рабочий стол</string>
     <string name="coming_soon">Скоро!</string>
     <string name="coming_soon1">Недоступно в этой версии. Ожидайте в скором времени!</string>
     <string name="buy_launcher">Купить</string>
@@ -402,9 +483,13 @@
     <string name="screen_orientation_tips">Внимание!</string>
     <string name="screen_orientation_change_tips">"Некоторые иконки в док-панели могут быть удалены после изменения ориентации экрана. Нажмите 'OK' для подтверждения."</string>
     <string name="toast_msg_number_count">Превышено количество слов</string>
-    <string name="theme_version_low">Версия темы слишком стара, для применения</string>
+    <string name="theme_version_low">Версия темы слишком старая для применения</string>
     <string name="theme_already_using">Тема уже используется</string>
-    <string name="theme_applying">Применение темы...</string>
+    <string name="theme_applying">Применение темы…</string>
+    <string name="theme_download">Скачать</string>
+    <string name="theme_apply">Применить</string>
+    <string name="theme_buy_now">Купить</string>
+    <string name="theme_get_jar">Получить</string>
     <string name="icon_replace_default_theme">По умолчанию</string>
     <string name="icon_replace_reset">Сбросить</string>
     <string name="icon_replace_default_icon">По умолчанию</string>
@@ -417,7 +502,7 @@
     <string name="theme_pages_getmore">Еще больше тем</string>
     <string name="theme_pages_apply">Прим.</string>
     <string name="theme_pages_update">Обновить</string>
-    <string name="theme_loading">Загрузка...</string>
+    <string name="theme_loading">Загрузка…</string>
     <string name="theme_all_featured_installed">Все рекомендуемые темы были установлены. Ожидайте новые появления тем.</string>
     <string name="theme_cant_find_preview">Ошибка загрузки предпросмотра</string>
     <string name="theme_detail_menu_reset">Сбросить</string>
@@ -430,7 +515,7 @@
     <string name="theme_detail_feedback">Обратная связь:</string>
     <string name="theme_detail_feedback_content">nextlauncher@gmail.com</string>
     <string name="share_content_theme1">Я использую Next Launcher</string>
-    <string name="share_content_theme2">тему. Это прикольная темка. Ищите темы Next Launcher в %s или пройдите по ссылке http://goo.gl/9bipq</string>
+    <string name="share_content_theme2">тему. Это прикольная темка. Ищите темы для Next Launcher в %s или пройдите по ссылке http://goo.gl/9bipq</string>
     <string name="recommand_theme_sheep">Purpet-Sheep</string>
     <string name="recommand_theme_drock">Drock</string>
     <string name="recommand_theme_dark">Dark</string>
@@ -450,8 +535,8 @@
     <string name="lock_pure">Pure</string>
     <string name="crop_text">Обрезать</string>
     <string name="no_crop_text">Не обрезать</string>
-    <string name="wallpaper">Установка обоев, пожалуйста, подождите...</string>
-    <string name="savingImage">Сохранение...</string>
+    <string name="wallpaper">Установка обоев, подождите…</string>
+    <string name="savingImage">Сохранение…</string>
     <string name="save_image_error">Не удалось сохранить изображение, иконка не изменена</string>
     <string name="paypal_check_emailaddress">Формат электронной почты является неправильным</string>
     <string name="paypal_request_text">запрос...</string>
@@ -486,7 +571,7 @@
     <string name="guide_app_search_tap">Нажмите иконку для запуска приложений</string>
     <string name="guide_app_search_double_tap">Дважды нажмите иконку, чтобы перейти к приложению</string>
     <string name="guide_app_search_long_press">Долгим нажатием по иконке можно удалить приложение</string>
-    <string name="dock_edit_iconedit">Редактор иконок</string>
+    <string name="dock_edit_iconedit">Редактор</string>
     <string name="icon_edit_theme_mode">Исп. стиль темы</string>
     <string name="icon_edit_customer_mode">Исп. свой стиль</string>
     <string name="icon_edit_base_rotate_tips">Выберите базу</string>
@@ -497,19 +582,23 @@
     <string name="update_instructions_share">Поделиться</string>
     <string name="update_instructions_rate">Оценить</string>
     <string name="update_instructions_start">Начать</string>
-    <string name="update_instructions_details_130">"1. (Новое) Спящий режим (нажмите 'Кнопку Next' -> Спящий режим)
-2. (Новое) 'Пакетный выбор иконок - поддержка сортировки иконок (Отметьте иконки-> долго удерживайте и перетащите их в рамку сортировки)
-3. (Восстановление) исправление некоторых FC проблем"</string>
-    <string name="update_instructions_details_131">"1. (Новое) Жесты для ярлыков в док-панели (удерживайте ярлык в панель—>жесты)
-2. (Новое) Жест для кнопки 'Назад' (Меню—>Установки—>Настройки поведения—>Кнопка назад)
-3. (Новое) Размер шрифта (Меню—>Индивидуальные настройки—>Править ярлык—>изменить размер шрифта)
-4. (Оптимизация) Настройка эффекта качения (Меню—>Установки—>Настройки эффектов—>Амплитуда качения)
-5. (Оптимизация) Кнопка Next поддерживает вертикальное скольжение
-6. (Восстановление) исправление некоторых FC проблем"</string>
-    <string name="update_instructions_details_132">"1. (Новое) Новый эффект перехода столов - 3D кристалл (Установки -> Настройки эффектов -> Главный экран -> Кристалл)
-2. (Новое) Пакетная замена иконок с тем GO Launcher (Кнопка Next -> Компоненты)
-3. (Улучшение) Размер шрифта иконок доступен для всех систем Android (Личное-> Редактор иконок -> Размер иконок)
-4. (Фикс) Исправление некоторых FC проблем"</string>
+    <string name="update_instructions_details_138">"1.(Новое) Новая операция настройки эффектов иконок (кнопка Next -> Эффекты иконок)
+2.(Фикс) Уменьшена частота перезагрузок
+3.(Улучшение) Улучшение темы 2.0
+4.(Фикс) Исправление некоторых FC ошибок"</string>
+    <string name="update_instructions_details_139">"1.(Улучшение) Настройки эффектов перехода экарана на кнопке Next
+2.(Улучшение) Новый способ добавления виджетов
+3.(Улучшение) Рабочий экран поддерживает большие размеры сетки
+4.(Улучшение) Поддерживается автомат. закрытие папки и меню приложений после запуска приложения"</string>
+    <string name="update_instructions_details_150">"1.(Поддержка) Замена иконок в папке(откройте папку—>удерживайте иконку—>заменить)
+2.(Поддержка) Удаление приложений на рабочем столе(удерживайте иконку на раб. столе—>кнопка доп. операций—>удалить)"</string>
+    <string name="update_instructions_details_151">"1. (Новое) Добавлены новые эффекты сфера и цилинд (кнопка Next ->Эффекты экрана-> сфера/цилинд)
+2. (Оптимизация) Оптимизировано добавление системных виджетов (доступно только для Android 4.1 и выше)"</string>
+    <string name="update_instructions_details_152">"1.(Новое) Можно изменить цвет ярлыков при правке ярлыков (нажать Next key—>Редактор)
+2.(Новое) Пользовательские жесты (нажать Next key—>Жесты по-своему)"</string>
+    <string name="update_instructions_details_153">"1.(Новое) Жесты по и против часовой стрелки (нажмите кнопку Next->жесты)
+2.(Новое) Эффекты док-панели (нажмите меню->установки->настройки эффектов->Эффект док-панели)
+3.(Improve) Faster loading"</string>
     <string name="langapk_system_default">По умолчанию системный</string>
     <string name="langapk_language_setting">Язык приложения</string>
     <string name="langapk_switch_language">Перезапустить Next Launcher, чтобы сменить язык?</string>
@@ -541,17 +630,132 @@
     <string name="effect_random_custom">Случайный (свой)</string>
     <string name="anti_pricy_gotodownload">Попробуйте бесплатно</string>
     <string name="anti_pricy_bad_news">Плохие новости</string>
-    <string name="anti_pricy_bad_news_content">Мы не могли найти вашу покупку в Google Play.</string>
+    <string name="anti_pricy_bad_news_content">Мы не могли найти Вашу покупку в Google Play</string>
     <string name="anti_pricy_good_news">Хорошие новости</string>
     <string name="anti_pricy_good_news_content">Специально для Вас официальная триальная версия Next Launcher 3D</string>
     <string name="iconedit_appname_size_max">Максимум</string>
     <string name="iconedit_appname_size_min">Минимум</string>
-	<string name="folder_next_hot">Next Hot</string>
+    <string name="folder_next_hot">Next Hot</string>
     <string name="no_strength_effect_in_crystal">3D эффекты не поддерживаются</string>
-    <string name="theme_title">Стандартная тема</string>
+    <string name="setting_upgrade">Trial</string>
+    <string name="unable_add_folder">Не удалось добавить пустую папку</string>
+    <string name="edit_icon_success">Успешно изменено</string>
+    <string name="change_theme_mix_success">Тема успешно изменена</string>
+    <string name="is_setting_wallpaper">Установка обоев...</string>
+    <string name="is_adding_widget">Добавление...</string>
+    <string name="migrate_launcher">Копирование лончера (Beta)</string>
+    <string name="migrate_launcher_from_others">Скопировать расположение иконок или настройки других лончеров</string>
+    <string name="migrate_launcher_tips">Легко скопируйте расположение иконок с других лончеров, чтобы заменить текущее на Next Launcher. Выберите:</string>
+    <string name="migrating">Копировать</string>
+    <string name="unmigratable">Нет данных для копирования</string>
+    <string name="screen_transition_origami">Оригами</string>
+    <string name="try_ui_20">Новая стандартная темя Next Launcher доступна. Хотите попробовать?</string>
+    <string name="download_ui_10">Обновлена стандартная тема Next Launcher! Если Вам нравится старая тема, скачайте ее из каталога тем.</string>
+    <string name="theme_classic">Классическая</string>
+    <string name="try_later">Позже</string>
+    <string name="try_now">Скачать</string>
+    <string name="widget_add_operate_tips">Нажмите на виджет для добавления</string>
+    <string name="widget_manage">Управление виджетами</string>
+	<string name="gesture_my_gesture">Жесты</string>
+    <string name="gesture_for_app">Выберите приложение</string>
+    <string name="gesture_for_shortcut">Выберите ярлык Next</string>
+    <string name="redraw">Повторить</string>
+    <string name="back_redraw">Повторить</string>
+    <string name="gesture_recognise_result_title">Похожие с другими жестами:</string>
+    <string name="add_new_gesture_success">Жест добавлен</string>
+    <string name="add_new_gesture_fail">Ошибка добавления</string>
+    <string name="modify_gesture_title">Жест</string>
+    <string name="modify_gesture_success">Жест изменен</string>
+    <string name="modify_gesture_fail">Ошибка изменения</string>
+    <string name="no_sdcard">SD-карта не найдена. Для продолжения вставьте SD-карту.</string>
+    <string name="no_gesture_tips">Нет жестов. Нажмите \"+\", чтобы добавить.</string>
+    <string name="first_open_gesture_tips">Нарисуйте жест. Например:</string>
+    <string name="gesture_app">Приложение:</string>
+    <string name="gesture_shortcut">Ярлык:</string>
+    <string name="gesture_goshortcut">Ярлык Next:</string>
+    <string name="gesture_uninstalled">Удаленные:</string>
+    <string name="gesture_select_open_response">Выберите ответ:</string>
+    <string name="gesture_draw_one">Нарисуйте образец</string>
+    <string name="gesture_no_response">Жест не найден</string>
+    <string name="gesture_add_response">Добавить в новый</string>
+    <string name="gesture_select_response">Выберите ответ</string>
+    <string name="gesture_change_response">Изменить ответ</string>
+    <string name="gesture_draw_one_title">Нарисуйте образец</string>
+    <string name="gesture_select_response_title">Выберите ответ</string>
+    <string name="gesture_next_btn">Далее</string>
+    <string name="gesture_up_btn">Назад</string>
+    <string name="gesture_load_fail">Не удалось загрузить жест</string>
+    <string name="setting_dialog_dont_show_again">Больше не показывать</string>
+    <string name="close_gesture_dialog_title">Отключение жеста двойного нажатия</string>
+    <string name="close_gesture_dialog_contend_1">Если Вам не нужен жест двойного нажатия, можно отключить его в</string>
+    <string name="close_gesture_dialog_contend_2">\"Установки->Настройки поведения->Настройки жестов\"</string>
+    <string name="close_gesture_dialog_contend_3">.</string>
+    <string name="close_gesture_dialog_setbutton">Установить</string>
+    <string name="back">Назад</string>
+    <string name="customname_diygesture">Поль. жесты</string>
+    <string name="next_key_icon_effect">Эффекты иконок</string>
+    <string name="ad_trial">NextTrial</string>
+    <string name="ad_littlempire">Little Empire</string>
+    <string name="ad_poker">DH Texas Poker</string>
+    <string name="ad_antivirus">NQ Mobile Security &amp; Antivirus</string>
+    <string name="ad_conquer">Fort Conquer</string>
+    <string name="ad_vault">Vault-Hide SMS</string>
+    <string name="ad_clean_master">clean master</string>
+    <string name="desksetting_try_full_version">Полная версия</string>
+    <string name="agree">Согласен</string>
+    <string name="get_function">Получить новые возможности</string>
+    <string name="get_function_summary">Получить новые возможности</string>
+    <string name="pay_more">Купить</string>
+    <string name="next_launcher_agreement">Лицензионное соглашение</string>
+    <string name="next_launcher_agreement_summary">&lt; Лицензионное соглашение Next Launcher ></string>
+	<string name="next_launcher_agreement_accept">Я согласен с %s</string>
+    <string name="next_launcher_agreement_need_accept">Пожалуйста, сначала согласитесь с &lt; Лицензионным соглашением Next Launcher ></string>
+    <string name="account_needed_user_auth_title">Необходим аккаунт GMail</string>
+    <string name="get_jar_tip_singin">Войти</string>
+    <string name="get_jar_tip_check_for_purchases">Поиск прошлых покупок</string>
+    <string name="get_jar_tip_check_deals">Проверка последних предложений</string>
+    <string name="title_tip">Сообщение</string>
+    <string name="payment_method_title">Выберите метод оплаты</string>
+    <string name="google_play_pay">Google Checkout</string>
+    <string name="getjar_pay">Getjar Golds</string>
+    <string name="getjar_pay_product_description">Получите бесплатно с getjar gold</string>
+    <string name="loading_tip">Подождите…</string>
+    <string name="billing_succeed_title">Внимание</string>
+    <string name="billing_succeed_content">Покупка завершена</string>
+    <string name="billing_succeed_btn">OK</string>
+    <string name="system_notify">Уведомление</string>
+    <string name="learn_more">Подробнее</string>
+    <string name="billing_not_supported_message">Устройство не может подключиться к Google Play или покупки внутри приложения не поддерживаются</string>
+    <string name="market_not_supported_message">Сначала установите Google Play</string>
+    <string name="network_error">Нет сети. Проверьте подключение и повторите.</string>
+    <string name="purchase_fail">Ошибка покупки. Повторите еще раз.</string>
+    <string name="next_key_transition">Эффекты</string>
+    <string name="screen_transition_sphere">Сфера</string>
+    <string name="next_key_cell">Сетка</string>
+    <string name="next_key_gesture">Жесты</string>
+	<string name="update_last_version">Пожалуйста, обновите Next Launcher до последней версии</string>
+	<string name="pref_dialog_color_picker_alpha">Прозрачность</string>
+    <string name="pref_title_icon_highlights">Цвет выделения</string>
+    <string name="pref_summary_icon_highlights">Задайте цвет нажатия по иконке</string>
+    <string name="color_picker_alert_dialog_title">Ваши изменения не будут сохранены. Выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="ad_cm_title">Clean residue</string>
+    <string name="ad_cm_content">"Удаленные приложения могут оставлять остаточные файлы. Установить 'Clean Master' для полной очистки?"</string>
+    <string name="ad_cm_ok">Да</string>
+    <string name="ad_cm_cancal">Нет</string>
+	<string name="memory_pemanent">Держать в памяти</string>
+    <string name="memory_pemanent_summary">Приложение не будет закрываться. Чтобы отключить уведомление от Next, отключите это.</string>
+    <string name="restart_warning">Требуется перезагрузить Next Launcher. Продолжить?</string>
+    <string name="restart_now">Да</string>
+    <string name="restart_latter">Нет</string>
+    <string name="memory_permanent_notification_close">Держание Next Launcher в памяти покажет уведомление на экране. Выключить сейчас?</string>
+    <string name="next_launcher_running">Next Launcher запущен</string>
+    <string name="next_launcher_notification_touch">Нажмите для получения информации или остановки приложения</string>
+    <string name="theme_title">По умолчанию</string>
     <string name="theme_info">"Стандартная тема 
 
-Версия: V1.0 
+Версия:V1.0 
 
 Разработчик:
 NextLauncher Dev Team 
@@ -561,4 +765,18 @@ nextlauncher@gmail.com
 
 Facebook:
 www.facebook.com/NextLauncher"</string>
+    <string name="update_instructions_details_131">"1. (Новое) Жесты для ярлыков в док-панели (удерживайте ярлык в панель—>жесты)
+2. (Новое) Жест для кнопки 'Назад' (Меню—>Установки—>Настройки поведения—>Кнопка назад)
+3. (Новое) Размер шрифта (Меню—>Индивидуальные настройки—>Править ярлык—>изменить размер шрифта)
+4. (Оптимизация) Настройка эффекта качения (Меню—>Установки—>Настройки эффектов—>Амплитуда качения)
+5. (Оптимизация) Кнопка Next поддерживает вертикальное скольжение
+6. (Восстановление) исправление некоторых FC проблем"</string>
+    <string name="update_instructions_details_132">"1. (Новое) Новый эффект перехода столов - 3D кристалл (Установки -> Настройки эффектов -> Главный экран -> Кристалл)
+2. (Новое) Пакетная замена иконок с тем GO Launcher (Кнопка Next -> Компоненты)
+3. (Улучшение) Размер шрифта иконок доступен для всех систем Android (Личное-> Редактор иконок -> Размер иконок)
+4. (Фикс) Исправление некоторых FC проблем"</string>
+    <string name="update_instructions_details_137">"1.(Новое) Тема по умолчанию обновлена до 2.0
+2.(Новое) Доступно еще больше ярлыков в клавише Next
+3.(Фикс) Исправление некоторых FC ошибок"</string>
+    <string name="pemen">chang zhu neicun</string>
 </resources>

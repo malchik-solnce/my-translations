@@ -52,7 +52,7 @@
         <item>Ярлык</item>
     </string-array>
     <string-array name="select_desktop_transition">
-        <item>По умол.</item>
+        <item>По умолчанию</item>
         <item>Переворот (3D)</item>
         <item>Переворот</item>
         <item>Мельница</item>
@@ -63,6 +63,9 @@
         <item>Куб (снаружи)</item>
         <item>Волна</item>
         <item>Каскад</item>
+        <item>Стекло</item>
+        <item>Сдвиг</item>
+        <item>Цилиндр</item>
     </string-array>
     <string-array name="icon_menu_effect_type">
         <item>По умолчанию</item>
@@ -82,6 +85,10 @@
         <item>По умолчанию</item>
         <item>Ряд за рядом</item>
     </string-array>
+	<string-array name="dock_effect_type">
+        <item>По умолчанию</item>
+        <item>Переворот</item>
+    </string-array>
     <string-array name="desktop_preview_transition">
         <item>Цилиндр</item>
         <item>Проскость</item>
@@ -96,6 +103,8 @@
         <item>Мельница</item>
         <item>Полет</item>
         <item>Куб</item>
+        <item>Стекло</item>
+        <item>Сдвиг</item>
     </string-array>
     <string-array name="dock_bg_type_entris">
         <item>Скрыть фон</item>
@@ -132,11 +141,23 @@
         <item>Вкл./выкл. Next кнопку</item>
         <item>Установки</item>
         <item>Меню</item>
+        <item>Пользовательский жест</item>
     </string-array>
     <string-array name="folder_sort_value">
         <item>По алфавиту</item>
         <item>По времени (+)</item>
         <item>По времени (-)</item>
+    </string-array>
+    <string-array name="gesture_menu_item_names">
+        <item>Жест</item>
+        <item>Ответ</item>
+        <item>Удалить</item>
+        <item>Открыть</item>
+    </string-array>
+    <string-array name="gesture_dialog_types">
+        <item>Приложение</item>
+        <item>Функция</item>
+        <item>Ярлык</item>
     </string-array>
     <string-array name="dock_line_entries">
         <item>Одна</item>

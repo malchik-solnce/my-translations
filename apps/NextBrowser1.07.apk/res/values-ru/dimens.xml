@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="internal_plugin_about_version">7.0px</dimen>
+    <dimen name="internal_plugin_about_websit">5.0px</dimen>
+    <dimen name="internal_plugin_about_contact">17.0px</dimen>
+</resources>

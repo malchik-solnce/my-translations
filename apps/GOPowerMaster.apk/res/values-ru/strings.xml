@@ -30,7 +30,7 @@
     <string name="settings">Настройки</string>
     <string name="check_fail">Не удалось проверить обновление</string>
     <string name="is_newest_version">Ваша версия в актуальном состоянии</string>
-    <string name="wait_for_check_update">Проверка. Пожалуйста, подождите………</string>
+    <string name="wait_for_check_update">Проверка. Пожалуйста, подождите…</string>
     <string name="start_download">Начало загрузки…</string>
     <string name="downloading">Загрузка</string>
     <string name="download_touch_stop">Нажмите, чтобы остановить</string>
@@ -84,7 +84,7 @@
     <string name="cpu_con">ЦП</string>
     <string name="program_running">Запущено</string>
     <string name="program_stop">Остановлено</string>
-    <string name="unkill_condition">Это приложение - системное, его нельзя остановить</string>
+    <string name="unkill_condition">Системное приложение нельзя остановить</string>
     <string name="commer_save_name">Общий</string>
     <string name="supper_save_name">Суперэконом</string>
     <string name="long_state_name">Ожидание</string>
@@ -152,7 +152,7 @@
     <string name="not_change_prompt">Если текущий режим экономит больше энергии, чем целевой режим - переключение не произойдет</string>
     <string name="wifi_intelligent_title">Умное управление Wi-Fi</string>
     <string name="close_screen_close_wifi">Закр. Wi-Fi при отключении экрана</string>
-    <string name="open_screen_open_wifi">Вкл.Wi-Fi при работающем экране</string>
+    <string name="open_screen_open_wifi">Вкл. Wi-Fi при работающем экране</string>
     <string name="delay_close_wifi">Задержка отключения Wi-Fi</string>
     <string name="delay_close_wifi_content">Задержка закрытия Wi-Fi, если экран отключен</string>
     <string name="download_protected">Защита загрузок</string>
@@ -165,9 +165,9 @@
     <string name="three_minute">3 мин.</string>
     <string name="wifi_out_of_range">Вне зоне охвата</string>
     <string name="connected">Подключено</string>
-    <string name="wifi_close_tip">Пожалуйста, сначала включите Wi-Fi</string>
+    <string name="wifi_close_tip">Сначала включите Wi-Fi</string>
     <string name="please_choose_mode">Выберите режим</string>
-    <string name="prompt_time_duplicate">Время уже существует, пожалуйста, выберите его повторно</string>
+    <string name="prompt_time_duplicate">Время уже существует. Выберите его повторно.</string>
     <string name="media">Громкость</string>
     <string name="five_minute">5 мин.</string>
     <string name="ten_minute">10 мин.</string>
@@ -193,16 +193,16 @@
     <string name="charge_info">Информация о зарядке</string>
     <string name="charge_remain_time_hour">ч</string>
     <string name="charge_remain_time_minute">м</string>
-    <string name="the_last_charge_situation">Последняя зарядка</string>
-    <string name="charge_mode">Режим зарядки:</string>
-    <string name="charge_last_time">Время зарядки:</string>
-    <string name="charge_power_consumption">Зарядок:</string>
+    <string name="the_last_charge_situation">ПОСЛЕДНИЕ ЗАРЯДКИ</string>
+    <string name="charge_mode">Режим зарядки: </string>
+    <string name="charge_last_time">Время зарядки: </string>
+    <string name="charge_power_consumption">Зарядок: </string>
     <string name="charging_condition_this_month">История зарядок</string>
-    <string name="since_the_last_full_charge">После последней полной зарядки:</string>
-    <string name="normal_charging_times">Нормальных зарядок:</string>
-    <string name="full_charging_times">Полных зарядок:</string>
-    <string name="over_charging_times">Перезарядок:</string>
-    <string name="charge_guide">Руководство по зарядке</string>
+    <string name="since_the_last_full_charge">После последней полной зарядки: </string>
+    <string name="normal_charging_times">Нормальных зарядок: </string>
+    <string name="full_charging_times">Полных зарядок: </string>
+    <string name="over_charging_times">Перезарядок: </string>
+    <string name="charge_guide">РУКОВОДСТВО</string>
     <string name="temporary_no">Нет данных</string>
     <string name="day"> день</string>
     <string name="today">сегодня</string>
@@ -242,7 +242,7 @@
     <string name="gps">GPS</string>
     <string name="warning">Внимание</string>
 	<string name="detect_fake_signature">GO Power Master был приобретен незаконно. Для обеспечения безопасности используйте, официальную версию.</string>
-    <string name="download_golauncher_use_gowidget">Для использования GOWidget, сначала скачайте GO Launcher EX</string>
+    <string name="download_golauncher_use_gowidget">Для использования GO Widget, скачайте GO Launcher EX</string>
     <string name="support_dymatic">Поддержка фантастической анимации</string>
     <string name="support_skin">Поддержка настраевамых тем</string>
     <string name="three_style_choose">Для вас подготовлено 3 различных стиля</string>
@@ -365,10 +365,10 @@
     <string name="no_devices_front">Нет устройств</string>
     <string name="no_devices_match_front">Нет сопряженных устройств</string>
     <string name="no_devices_connect_front">Нет подключенных устройств</string>
-    <string name="high_temp_tip">Предупр. о аномальной температуре батареи</string>
+    <string name="high_temp_tip">Предупреждать температуре батареи</string>
     <string name="install">устан.</string>
     <string name="has_installed">установленно</string>
-    <string name="go_apps">Наши приложения</string>
+    <string name="go_apps">Приложения GO</string>
     <string name="go_apps_no_data">Сеть отсутствует или нет ответа от сервера</string>
 	<string name="backup_sdcard_write_protect">Записать на SD-карту не удалась. Пожалуйста, убедитесь, что защита от записи отключена.</string>
     <string name="backup_no_sdcard">SD-карта не найдена. Резервное копирование не удалось.</string>
@@ -409,9 +409,10 @@
     <string name="add_go_widget_matter">Примечание: GOWidget доступны только в GO Launcher EX</string>
     <string name="add_app_widget_title">Как добавить виджет</string>
     <string name="add_app_widget_step_1">Длительное нажатие на главном экране в GO Launcher EX</string>
+	<string name="add_app_widget_step_other1">Длительное нажатие на главном экране в лончере</string>
     <string name="add_app_widget_step_2">Выберите виджеты</string>
     <string name="add_app_widget_step_3">Выберите желаемый виджет</string>
-    <string name="add_app_widget_matter">Примечание: виджет будет недоступен, если вы переместите GO Power Master на SD-карту.</string>
+    <string name="add_app_widget_matter">Примечание: виджет будет недоступен, если Вы переместите GO Power Master на SD-карту</string>
     <string name="can_not_control_communication">GO Power Master не может контролировать Вашу связь</string>
     <string name="can_not_control_wifi">GO Power Master не может контролировать Ваш Wi-Fi</string>
     <string name="can_not_control_gprs">GO Power Master не может контролировать Ваш мобильный трафик</string>
@@ -488,7 +489,7 @@
     <string name="consume_state_normal_consume">Нормальное потребление</string>
     <string name="consume_state_save">Энегросбережение</string>
     <string name="consume_state_super_save">Супер энергосбережения</string>
-    <string name="optmize_tips_good">Очень хорошо. Поль. этим.</string>
+    <string name="optmize_tips_good">Оптимизация не нужна</string>
     <string name="optmize_tips_to_opt">Требуется оптимизация</string>
     <string name="one_key_optmize_finish">Готово</string>
     <string name="optimize_result_check">Проверить</string>
@@ -507,7 +508,7 @@
     <string name="optimize_result_opening">Открытие</string>
 	<string name="rate_tips_comment">Оцените нас в Google Play, если Вам нравится GO Power Master</string>
     <string name="rate_now">Перейти</string>
-    <string name="tip_no_more">Больше не показ.</string>
+    <string name="tip_no_more">Не напоминать</string>
 	<string name="other">Прочие</string>
     <string name="battery_curve_yesterday">Вчера</string>
     <string name="battery_curve_today">Сегодня</string>
@@ -528,7 +529,7 @@
     <string name="fee_entrance_title_2">Персональные темы</string>
     <string name="fee_entrance_content_2">Поддержка изменения тем виджетов</string>
     <string name="fee_entrance_title_3">Умный режим для энергосбережения</string>
-    <string name="fee_entrance_content_3">Автосинхронизация. Вкл/выкл Bluetooth и переключателей; автоматическая смена режима при зарядке</string>
+    <string name="fee_entrance_content_3">Автосинхронизация. Вкл/выкл Bluetooth и переключателей, автоматическая смена режима при зарядке.</string>
     <string name="fee_entrance_title_4">Потребление приложениями</string>
     <string name="fee_entrance_content_4">Узнавайте какие приложения поедают Вашу батарею</string>
     <string name="fee_entrance_title_5">Редактировнаие стандартного режима</string>
@@ -551,7 +552,7 @@
     <string name="save_tips_content_4">Если Вы не используете телефон, он может закрыть сеть для экономии энергии. Когда уровень зарядаочень низкий, он будет переключаться в режим супер сохранения автоматически. Более умные, как синхронизация и Bluetooth поддерживаются!</string>
     <string name="save_tips_content_5">Нажмите на панели уведомлений, чтобы открыть переключатели и режимы. Вы можете легко изменять состояние телефона.</string>
     <string name="save_tips_content_6">Добавьте виджет на рабочи стол. Он поддерживает изменение режима, убийство запущенных приложений и просмотр оставшегося заряда.</string>
-    <string name="save_tips_content_7">Use Optimize. Keep it high score will help you extend battery life.</string>
+    <string name="save_tips_content_7">Используйте оптимизацию. Keep it high score will help you extend battery life.</string>
 	<string name="battery_care">Обслуживание</string>
     <string name="battery_care_title_1">1. О времени работы аккумулятора</string>
     <string name="battery_care_title_2">2. Как потребляется энергия</string>
@@ -580,7 +581,7 @@
     <string name="lock_internal_error_new_screen">Внутренняя ошибка. Пожалуйста, отключите переключатель GO Widget в настройках системы.</string>
     <string name="lock_internal_error">Внутренняя ошибка. Пожалуйста, попробуйте заблокировать экран еще раз.</string>
     <string name="lock_screen_tips">Права автоблокировки даны GO SwitchWidget, чтобы активировать функцию блокировки экрана. Чтобы удалить виджет, пожалуйста, сначала отключите функциональность экран блокировки: Настройки -> Местоположение и безопасность -> Администраторы устройства -> Отключить GO SwitchWidget.</string>
-    <string name="button_open_white">Измененить на белый экран</string>
+    <string name="button_open_white">Экранный фонарик</string>
     <string name="prompt_open_camera_failed">Не удается запустить вспышку телефона</string>
     <string name="not_connect_not_support">USB is not connected or massive storage function is not supported</string>
     <string name="sd_mass_tips">Сначала подключите SD-карту</string>
@@ -696,8 +697,8 @@
     <string name="optimize_brightness_to_10">Подсветка установлена на 10%</string>
     <string name="status">СТАТУС</string>
     <string name="battery_endurance_time">ОСТАЛОСЬ</string>
-    <string name="main_tab_fast_consume">Высокое потребление</string>
-    <string name="main_tab_normal_consume">Нормальное потребление</string>
+    <string name="main_tab_fast_consume">Высокий расход</string>
+    <string name="main_tab_normal_consume">Нормальный расход</string>
     <string name="main_tab_save">Энергосбережение</string>
     <string name="main_tab_super_save">Супер энергосбережение</string>
     <string name="mode_detail_common">Моб. интернет вкл, автоподсветка</string>
@@ -709,8 +710,8 @@
     <string name="open_switch">Открыть</string>
     <string name="close_switch">Закрыть</string>
     <string name="optimize_now">Оптимизировать</string>
-    <string name="close_switches_to_save">ПРЕДЛАГАЮ ЗАКРЫТЬ</string>
-    <string name="use_intelligent_to_save">SUGGEST TO OPEN SMART SAVING</string>
+    <string name="close_switches_to_save">ПРЕДЛАГАЕМ ЗАКРЫТЬ</string>
+    <string name="use_intelligent_to_save">ПРЕДЛАГАЕМ ВКЛЮЧИТЬ СМАРТЭКОНОМ</string>
     <string name="entrance_fee_ad_1">Расширенное управление Wi-Fi и Mobile data</string>
     <string name="entrance_fee_ad_2">Экстримальный режим</string>
     <string name="entrance_fee_ad_3">Управление CPU/Sync/Bluetooth</string>
@@ -720,26 +721,36 @@
     <string name="entrance_fee_ad_7">Дополнительные переключатели в уведомлениях</string>
 	<string name="need_root_text">(требуется root)</string>
     <string name="guidance_score_text1">Новый тест</string>
-    <string name="guidance_score_text2">keep it high score to extend battery life</string>
+    <string name="guidance_score_text2">Держите высокие результаты для продления жизни батареи</string>
     <string name="killing_consuming_process">Закрытие приложений...</string>
     <string name="checking_network">Проверка сети...</string>
     <string name="checking_switches">Проверка Sync/GPS...</string>
     <string name="checking_feedback">Проверка предпочтений...</string>
     <string name="score_title">О питании</string>
-    <string name="about_score_title">Keep it high score to extend battery life. To get high score,you can：</string>
-    <string name="about_score_content_1">1.Use Optimize</string>
-    <string name="about_score_content_2">2.Turn on smart control.</string>
+    <string name="about_score_title">Держите высокие результаты для продления жизни батареи. Чтобы их достичь, Вы можете：</string>
+    <string name="about_score_content_1">1.Использовать оптимизацию</string>
+    <string name="about_score_content_2">2. Включить умное управление</string>
     <string name="power_testing">Тест питания</string>
-    <string name="power_testing_content">Keep it high score to extend battery life.</string>
+    <string name="power_testing_content">Держите выские результаты для продления жизни батареи</string>
     <string name="try_optimize_now">Оптимизировать</string>
-    <string name="about_score_content_3">3.Turn off switch when not use</string>
-    <string name="setting_display_charging_pop">Show charging prompt</string>
+    <string name="about_score_content_3">3. Выключить переключатели которые не используются</string>
+    <string name="setting_display_charging_pop">Показ. подсказки о зарядке</string>
     <string name="notify_charging_text">Зарядка (USB)</string>
     <string name="notify_charged_text">Зарядка завершена</string>
     <string name="google_play_iap">Google Play</string>
     <string name="get_jar_free">GetJar</string>
     <string name="task_manager">Task Manager</string>
     <string name="hack_message">Ошибка покупки. Попробуйте еще раз.</string>
+	<string name="auto_date_time_title">Автоматическая дата и время</string>
+    <string name="auto_date_time_zone_title">Автоматический часовой пояс</string>
+    <string name="auto_date_time_and_timezone">Автоматическое время, дата и часовой пояс</string>
+    <string name="auto_date_time_and_timezone_details">\"Автоматическая дата и время\" работает не всегда корректно, это может вызвать не работоспособность \"Смена режима по времени\" и потребление батареи. Мы предлагаем Вам отключить это. Но если вы найдете что-то не так, предлагаю вам включить его снова.</string>
+    <string name="last_three_days_charge_record">ЗАПИСИ ЗА 3 ДНЯ</string>
+    <string name="charge_habit">Привычная зарядка</string>
+    <string name="today_up">СЕГОДНЯ</string>
+    <string name="yesterday_up">ВЧЕРА</string>
+    <string name="the_day_before_yesterday_up">ПОЗАВЧЕРА</string>
+    <string name="more_charge_record">Больше записей</string>
 	<string name="batteryUse_text">Использование батареи &lt;font color=#67b237>( %1$s )&lt;/font></string>
     <string name="go_power_feedback">Обратная связь с GO Power Master %1$s</string>
     <string name="go_power_feedback_paid">Обратная связь с GO Power Master %1$s (полная версия)</string>
@@ -797,6 +808,6 @@
     <string name="show_less_time">(-%1$d ч %2$d м)</string>
     <string name="hours_ago">%1$d ч назад</string>
     <string name="minutes_ago">%1$d мин. назад</string>
-	<string name="power_features">Доступ к &lt;font color=#67b237>12&lt;/font> Доп. возможностям</string>
-	<string name="charging_pop_total_time">&lt;font color=#63e412>%1$d ч %2$d мин&lt;/font> зарядка завершена</string>
+	<string name="power_features">Доступ к &lt;font color=#67b237>12&lt;/font> доп. возможностям</string>
+	<string name="charging_pop_total_time">До полной зарядки &lt;font color=#63e412>%1$d ч %2$d мин&lt;/font></string>
 </resources>
