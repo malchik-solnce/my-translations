@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="controls_mode_choices">
+        <item>Эмул. гарнитуру управления</item>
+        <item>Google Play Music</item>
+        <item>PowerAMP</item>
+    </string-array>
     <string-array name="color_choices">
         <item>Single color 1</item>
         <item>Single color 2</item>
@@ -17,24 +22,6 @@
         <item>Plugged/unplugged 1</item>
         <item>Plugged/unplugged 2</item>
         <item>Plugged/unplugged 3</item>
-    </string-array>
-    <string-array name="color_values">
-        <item>Single 1</item>
-        <item>Single 2</item>
-        <item>Single 3</item>
-        <item>Single 4</item>
-        <item>Single 5</item>
-        <item>Single 6</item>
-        <item>Single 7</item>
-        <item>Single 8</item>
-        <item>Single 9</item>
-        <item>Single 10</item>
-        <item>Battery 1</item>
-        <item>Battery 2</item>
-        <item>Battery 3</item>
-        <item>Plugged 1</item>
-        <item>Plugged 2</item>
-        <item>Plugged 3</item>
     </string-array>
     <string-array name="particle_color_choices">
         <item>Match scene</item>
@@ -55,25 +42,6 @@
         <item>Plugged/unplugged 2</item>
         <item>Plugged/unplugged 3</item>
     </string-array>
-    <string-array name="particle_color_values">
-        <item>Match scene</item>
-        <item>Single 1</item>
-        <item>Single 2</item>
-        <item>Single 3</item>
-        <item>Single 4</item>
-        <item>Single 5</item>
-        <item>Single 6</item>
-        <item>Single 7</item>
-        <item>Single 8</item>
-        <item>Single 9</item>
-        <item>Single 10</item>
-        <item>Battery 1</item>
-        <item>Battery 2</item>
-        <item>Battery 3</item>
-        <item>Plugged 1</item>
-        <item>Plugged 2</item>
-        <item>Plugged 3</item>
-    </string-array>
     <string-array name="bar_colors_number_choices">
         <item>1</item>
         <item>2</item>
@@ -81,32 +49,23 @@
         <item>4</item>
         <item>6</item>
     </string-array>
-    <string-array name="bar_colors_number_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>6</item>
+	<string-array name="horizon_glow_mode_choices">
+        <item>Отключено</item>
+        <item>Если играет музыка</item>
+        <item>Всегда</item>
     </string-array>
     <string-array name="reflection_brightness_choices">
+	    <item>Нет</item>
         <item>Маленькая</item>
         <item>Средняя</item>
         <item>Большая</item>
-    </string-array>
-    <string-array name="reflection_brightness_values">
-        <item>Low</item>
-        <item>Medium</item>
-        <item>High</item>
+		<item>Огромная</item>
+        <item>Супер-огромная</item>
     </string-array>
     <string-array name="landscape_zoom_choices">
         <item>Близкий</item>
         <item>Средний</item>
         <item>Дальний (без прокрутки)</item>
-    </string-array>
-    <string-array name="landscape_zoom_values">
-        <item>Close</item>
-        <item>Medium</item>
-        <item>Far</item>
     </string-array>
     <string-array name="portrait_zoom_choices">
         <item>Очень близкий</item>
@@ -114,22 +73,11 @@
         <item>Средний</item>
         <item>Дальний (без прокрутки)</item>
     </string-array>
-    <string-array name="portrait_zoom_values">
-        <item>Very close</item>
-        <item>Close</item>
-        <item>Medium</item>
-        <item>Far</item>
-    </string-array>
     <string-array name="particles_choices">
         <item>Пусто</item>
+		<item>Очень мало</item>
         <item>Мало</item>
-        <item>Среднее</item>
+        <item>Средне</item>
         <item>Много</item>
-    </string-array>
-    <string-array name="particles_values">
-        <item>None</item>
-        <item>Few</item>
-        <item>Medium</item>
-        <item>Many</item>
     </string-array>
 </resources>

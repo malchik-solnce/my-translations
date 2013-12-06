@@ -23,7 +23,7 @@
         <item>Автофокус</item>
         <item>Макро</item>
         <item>Бесконечность</item>
-        <item>General Distance</item>
+        <item>Дистанция</item>
     </string-array>
 	<string-array name="meter_title">
         <item>Обычный</item>

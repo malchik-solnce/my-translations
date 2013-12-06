@@ -57,8 +57,8 @@ golauncher.goforandroid.com"</string>
     <string name="download_tips2">Вы должны сначала установить GOLauncher EX</string>
     <string name="download_tips3">GO Launcher EX является самым популярным лончером на Android :)</string>
     <string name="download_button">Скачать</string>
-    <string name="copyright">"Все права защищены © 2004-2012 3G.cn"</string>
-	<string name="about_copyright_summary1">Copyright ©2004-2013 3G.cn</string>
+    <string name="copyright">"Все права защищены ©2004-2013 3G.cn"</string>
+	<string name="about_copyright_summary1">Все права защищены ©2004-2013 3G.cn</string>
     <string name="about_copyright_summary2">Все права защищены</string>
     <string name="menu_setting">Настройки</string>
     <string name="menu_feedback">Связь</string>
@@ -69,7 +69,7 @@ golauncher.goforandroid.com"</string>
     <string name="rate_go_taskmanager">Оценить</string>
     <string name="copyright_info">Авторские права</string>
     <string name="summary_rate_go_taskmanager">Оцените GO TaskManager EX в Google Play</string>
-    <string name="summary_copyright_info">"Все права защищены © 2004-2012 3G.cn"</string>
+    <string name="summary_copyright_info">"Все права защищены © 2004-2013 3G.cn"</string>
     <string name="no_market">Вы должны сначала установить Google Play</string>
     <string name="language_translation">Перевод приложения</string>
     <string name="summary_language_translation">Помогите нам перевести GO TaskManager EX на Ваш родной язык</string>
@@ -92,6 +92,7 @@ golauncher.goforandroid.com"</string>
     <string name="refresh_all">Обновить</string>
     <string name="cancel_all">Снять все</string>
 	<string name="turn_on_mode">Очистить</string>
+	<string name="refresh_try_later">Обновление, попробуйте позже</string>
     <string name="memory_info">Информация о памяти</string>
     <string name="user_process">Пользовательские процессы</string>
     <string name="special_process">Постоянные процессы</string>
@@ -199,7 +200,7 @@ golauncher.goforandroid.com"</string>
     <string name="jump_warning">Автоочистка включена. Пожалуйста, установите черный список.</string>
     <string name="setup_black">Настроить</string>
 	<string name="auto_kill_cache">Регулярная очистка кэша</string>
-    <string name="auto_kill_cache_sumary">Настройте интервал для регулярной очистки кэша</string>
+    <string name="auto_kill_cache_sumary">Настройте интервал регулярной очистки кэша</string>
     <string name="clear_cache_amount" />
     <string name="clear_cache_amount_sumary" />
     <string name="clear_cache_amount_setting" />
@@ -254,10 +255,10 @@ golauncher.goforandroid.com"</string>
     <string name="notifi_fs_end">Бесплатная пробная версия закончилась</string>
     <string name="notifi_fs_end_sum">Обновитесь до ПРО версии чтобы продолжить пользоваться</string>
 	<string name="app2sd_tips_msg_sd">Откройте экран подробной информации, нажмите ‘Переместить на SD-карту’ или ‘Переместить в USB хранилище’, чтобы переместить</string>
-    <string name="widget_41_title">GO TaskManager EX (4x1)</string>
-    <string name="widget_11_title">GO TaskManager EX (1x1)</string>
+    <string name="widget_41_title">Kill task GO TaskManager EX (4x1)</string>
+    <string name="widget_11_title">Kill task GO TaskManager EX (1x1)</string>
     <string name="widget_load_data">Загрузка данных...</string>
-    <string name="widget_memory_show">Свободно/всего памяти: %1$s/%2$s</string>
+    <string name="widget_memory_show">Свободно/всего: %1$s/%2$s</string>
     <string name="widget_killer_toast">Освобождено: %1$s мб</string>
     <string name="widget_killer_toast_best">Устройство уже в лучшем состоянии</string>
 	<string name="widget_strafficstats_title">GO TaskManager EX (TrafficStats 4x1)</string>
@@ -318,7 +319,7 @@ golauncher.goforandroid.com"</string>
     <string name="mtextview_autorun">%1$s приложение(й)</string>
     <string name="mtextview_apk_version">версия: %1$s</string>
     <string name="select_all_apk_files">Выбрать все</string>
-    <string name="toast_faild_to_delect">Неизвестная ошибка, удаление не удалось</string>
+    <string name="toast_faild_to_delect">Неизвестная ошибка. Удаление не удалось.</string>
     <string name="start_exam_button">Начать</string>
     <string name="stop_exam_button">Остановить</string>
     <string name="stop_exam_wait">Подождите…</string>
@@ -474,7 +475,7 @@ golauncher.goforandroid.com"</string>
     <string name="fs_add_text">Вручную вкл. в настройках</string>
 	<string name="hack_bug_fail">Ошибка покупки. Попробуйте еще раз.</string>
     <string name="update_dialog_title">Что нового</string>
-    <string name="update_dialog_sum">Версия 3.51:</string>
+    <string name="update_dialog_sum">Версия 3.8:</string>
     <string name="adv_advanced_kill">Расширенное закрытие</string>
     <string name="adv_advanced_kill_one">Мощный процесс в убийстве программ</string>
     <string name="adv_advanced_kill_two">Один клик полностью заканчивает запущенные процессы и предотвращает автозапуск</string>
@@ -606,8 +607,8 @@ golauncher.goforandroid.com"</string>
     <string name="exam_new_tips_optimizationing">Оптимизация производительности</string>
     <string name="tab_title1">Задачи</string>
     <string name="tab_title2">Проверки</string>
-    <string name="tab_title3">Инстр.</string>
-    <string name="apptosd">"Приложения на SD
+    <string name="tab_title3">Инструменты</string>
+    <string name="apptosd">"Приложения на SD-карту
 (нужен ROOT)"</string>
     <string name="apptosd_tip1">Один клик для перемещения приложений на SD карту</string>
     <string name="apptosd_tip2">Сохраните больше памяти телефона</string>
@@ -631,7 +632,7 @@ golauncher.goforandroid.com"</string>
     <string name="sysclear_second_title">%1$s ненужных фалов, занимающих %2$s</string>
     <string name="sysclear_scanning">Сканируется, ждите…</string>
     <string name="sysclear_thumb">Кэш миниатюр</string>
-    <string name="sysclear_thumb_result">Найдено %1$s файлов, размером %2$s</string>
+    <string name="sysclear_thumb_result">Найдено файлов: %1$s, размером: %2$s</string>
     <string name="sysclear_null_result">Найдено %1$s файлов</string>
     <string name="sysclear_log">Журналы</string>
     <string name="sysclear_residual">Остаточные файлы</string>
@@ -654,9 +655,11 @@ golauncher.goforandroid.com"</string>
     <string name="clear_all_residue">Очистить</string>
     <string name="exam_trash">Системный мусор</string>
 	<string name="fee_ads_appmanager">Менеджер приложений</string>
-    <string name="fee_ads_appmanager_tips">Один клик для перемещения на SD-карту и ограничения загрузки приложений</string>
-    <string name="fee_ads_advanced_kill">Расширенное закрытие [ROOT]</string>
-    <string name="fee_ads_advanced_kill_tips">Полностью заканчивает фоновый процесс, предотвращая автозапуск</string>
+    <string name="fee_ads_appmanager_tips">"Перемещение приложений на SD-карту, ограничение загрузки приложений
+и удаление системных приложений"</string>
+    <string name="fee_ads_advanced_kill">Закрытие приложений</string>
+    <string name="fee_ads_advanced_kill_tips">"Расширенное закрытие [ROOT] и закрытие в уведомлениях
+2 пути для закрытия фоновых процессов"</string>
     <string name="fee_ads_network_contrl">Управление сетью</string>
     <string name="fee_ads_network_tips">Ограничение доступа приложений к сети и статистика трафика</string>
     <string name="uninstall_residual_tip1">"'%1$s' имеет еще остаточные файлы, хотите очистить?"</string>
@@ -679,7 +682,7 @@ golauncher.goforandroid.com"</string>
     <string name="theme_tip_no_go">Вы не используете GO TaskManager EX виджет</string>
     <string name="theme_tip_no_app_but_go">Вы исполь. виджет приложения, эта тема только для Go widget</string>
     <string name="theme_tip_no_go_but_app">Вы исполь. Go widget, эта тема только для виджета приложения</string>
-    <string name="theme_how_to_use">Как исполь.</string>
+    <string name="theme_how_to_use">Как испольпользовать</string>
     <string name="theme_add_go">Как добавить GOWidget</string>
     <string name="theme_add_app">Как добавить AppWidget</string>
     <string name="theme_go_tip1">Длительное нажатие на экрне в GO launcher EX</string>
@@ -703,7 +706,7 @@ golauncher.goforandroid.com"</string>
     <string name="theme_tips_gowidget_sum">GO виджет только для GO Launcher. Поддерживает больше динам. эффектов.</string>
     <string name="theme_tips_appwidget_sum">APP виджет подходит для любых лончеров</string>
 	<string name="theme_tips_nextwidget_sum">Виджет Next только для Next Launcher. Поддерживает больше динам. эффектов.</string>
-    <string name="theme_tips_more">* Доп. информация</string>
+    <string name="theme_tips_more">* Подробнее</string>
 	<string name="open_notify_button">Применить</string>
     <string name="skip_notify_button">Дальше</string>
 	<string name="defaultapp_tool_button">Приложения по умолчанию</string>
@@ -753,7 +756,7 @@ golauncher.goforandroid.com"</string>
     <string name="slim_disabled_text">Отключено</string>
     <string name="slim_cant_uninstall_sum">Некоторые неудаляемые приложения можно отключить, чтобы сохранить больше памяти. Просто найдите кнопку [Отключить].</string>
     <string name="notification_pip_on_top">Держать первым</string>
-    <string name="notification_pip_on_top_toast">Виджет будет показываться первым в уведомлениях</string>
+    <string name="notification_pip_on_top_toast">Сначала включите виджет уведомлений</string>
     <string name="stopUserTip">GO TaskManager сервис остановлен. Обновите до последней версии.</string>
     <string name="stop_version_title">Внимание</string>
     <string name="download_new">Скачать</string>
@@ -764,7 +767,7 @@ golauncher.goforandroid.com"</string>
     <string name="setting_white_list_title">Белый список</string>
     <string name="setting_auto_kill_apps_title">Автом. закрытие приложений</string>
     <string name="setting_kill_apps_setup_title">Настройки закрытия</string>
-    <string name="setting_main_page_display_setup_title">Main page display setup</string>
+    <string name="setting_main_page_display_setup_title">Настройки основной страницы</string>
 	<string name="down_load_nextlauncher">Скачать Next Launcher</string>
     <string name="install_google_play">Сначала установите Google Play</string>
     <string name="install_amazon_play">Сначала установите Amazon Market</string>
@@ -775,7 +778,7 @@ golauncher.goforandroid.com"</string>
     <string name="update_next_launcher_tips">Ваш next launcher не совместим для поддержки этого виджета. Нажмите OK для обновления.</string>
     <string name="update_next_launcher_ok">OK</string>
     <string name="install_official_next_launcher_title">Установите офиц. версию Next Launcher</string>
-    <string name="install_official_next_launcher_tips">"Your trial version of next launcher don't support this next widget，click OK to Install official version now"</string>
+    <string name="install_official_next_launcher_tips">"Ваша триальная версия next launcher не поддерживает этот next widget，нажмите OK, чтобы скачать оф. версию"</string>
     <string name="install_official_next_launcher_ok">OK</string>
     <string name="uid">200</string>
     <string name="type">1</string>
@@ -791,4 +794,13 @@ golauncher.goforandroid.com"</string>
     <string name="adb_app_cuxiao_sum">Спасибо за Вашу поддержку!</string>
 	<string name="adv_app_noad">Никакой рекламы</string>
     <string name="erase_history">Очистка</string>
+	<string name="start_exam_button_tools">Быстрая проверка</string>
+	<string name="mini_exam_text">Speed up your launcher with better experience</string>
+    <string name="mini_auncher">Mini Launcher</string>
+    <string name="tap2view">Нажмите, чтобы посмотреть</string>
+    <string name="recommend_mini_title">Простой и быстрый Launcher !</string>
+    <string name="recommend_mini_content">Looking for a launcher with best experience? Get Mini Launcher now!</string>
+    <string name="uninstall_residual_tip2_unpaid">Больше не показывать</string>
+    <string name="clear_all_residue_unpaid">Очистка ненужных файлов(PRO)</string>
+    <string name="uninstall_residual_tip1_check">Проверено систменого мусора: %1$s. Продолжить очистку?</string>
 </resources>

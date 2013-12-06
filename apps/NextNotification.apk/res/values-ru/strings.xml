@@ -27,8 +27,8 @@
     <string name="clickinputusername">Введите имя пользователя</string>
     <string name="clickinputpassword">Введите пароль</string>
     <string name="loginbutton">Войти</string>
-    <string name="usernameempty">Введите имя пользователя</string>
-    <string name="passwordempty">Введите пароль</string>
+    <string name="usernameempty">Имя пользователя</string>
+    <string name="passwordempty">Пароль</string>
     <string name="wait">Пожалуйста, подождите...</string>
     <string name="login_err">Ошибка входа</string>
     <string name="download_begin">Скачать</string>
@@ -38,11 +38,11 @@
     <string name="read_messages_label">read Emails</string>
     <string name="read_messages_desc">Allows this application to read your Emails.</string>
     <string name="menuitem_notification">Уведомления</string>
-    <string name="notification_setting_tips_unread_sms">Непр.текстовые сообщения</string>
+    <string name="notification_setting_tips_unread_sms">Непрочитанные сообщения</string>
     <string name="notification_setting_tips_miss_call">Пропущенные вызовы</string>
-    <string name="notification_setting_tips_unread_gmail">Gmail</string>
-    <string name="notification_setting_tips_unread_k9mail">K9mail</string>
-    <string name="notification_setting_tips_unread_facebook">Facebook</string>
+    <string name="notification_setting_tips_unread_gmail">Непрочитанные Gmail</string>
+    <string name="notification_setting_tips_unread_k9mail">Непрочитанные K9mail</string>
+    <string name="notification_setting_tips_unread_facebook">Непрочитанные Facebook</string>
     <string name="notification_setting_tips_unread_sinaweibo">Sina Weibo</string>
     <string name="notification_setting_subtitle">Непрочитанные сообщения</string>
     <string name="notification_setting_subtitle_more">Больше приложений</string>
@@ -66,6 +66,10 @@
     <string name="down_load_nextlauncher">Скачать</string>
     <string name="need_nextlauncher">Next Notification только для Next Launcher 3D</string>
     <string name="install_google_play">Сначала установите Google Play</string>
+	<string name="install_amazon_play">Сначала установите Amazon Market</string>
+	<string name="mark_cannot_use">Маркет не может быть использован</string>
+	<string name="noti_title">Уведомление</string>
+    <string name="noti_content">Уведомления запущены</string>
     <string name="crash_notif_ticker_text">Неожиданная ошибка Уведомлений, отправьте отчет…</string>
     <string name="crash_notif_title">Произошла ошибка приложения…</string>
     <string name="crash_notif_text">Пожалуйста, выберите это, чтобы помочь нам решить эту проблему</string>

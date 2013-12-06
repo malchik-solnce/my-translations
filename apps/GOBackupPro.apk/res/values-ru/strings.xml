@@ -170,18 +170,18 @@
     <string name="attentions_insert">2. Общий и хронологический вид</string>
     <string name="attentions_insert_content">"Общий вид—подходит для одиночного р.к. и просмотра всех существующих копий.
 Хронологический—легко восстановить состояние телефона к определенному времени"</string>
-    <string name="attentions_two">2. Слияние резервных копий</string>
+    <string name="attentions_two">3. Слияние резервных копий</string>
     <string name="attentions_two_content">"Все резервные копии будут объединены в одну комплексную посредством операции 'Слияния'. Резервные копии не могут быть объединены, когда у вас есть только одна резервная копия."</string>
-    <string name="attentions_three">3. Бэкап по расписанию</string>
+    <string name="attentions_three">4. Бэкап по расписанию</string>
     <string name="attentions_three_content">Можно сделать только одно запланированное резервное копирование, старая копия будет заменена новой.</string>
-    <string name="attentions_four">4. Облачный бэкап</string>
+    <string name="attentions_four">5. Облачный бэкап</string>
     <string name="attentions_four_content">Dropbox и Google Drive поддерживается для бэкапа в облако. Вы можете выбрать любой файл из резервных копий.</string>
     <string name="attentions_four_content_two">Если же файл уже был загружен, он будет заменен на новый</string>
-    <string name="attentions_five">5. Путь хранения</string>
+    <string name="attentions_five">6. Путь хранения</string>
     <string name="attentions_five_content">Резервные копии могут быть сохранены во внутренней или внешней памяти, или на внешнем накопителе (по умолчанию). Если текущий путь удален или поврежден, он будет замене на другой автоматически.</string>
-    <string name="attentions_six">6. Календарь</string>
+    <string name="attentions_six">7. Календарь</string>
     <string name="attentions_six_content">Если гости включены в календарь, они будут получать электронную почту при восстановлении календаря</string>
-	<string name="help_title_freeze_app">7. Замораживание приложений</string>
+	<string name="help_title_freeze_app">8. Замораживание приложений</string>
     <string name="help_freeze_app">Замороженное приложение отключено полностью - оно не будет показываться в меню приложений и не будет автоматически запускаться в фоновом режиме. Замороженное приложение в любом случае не будут работать, пока Вы не “разморозите” его. Рекомендуется замораживать приложения малого пользования, для уменьшения мощности и потребления памяти.</string>
     <string name="root_one">1. Для чего нужны ROOT права?</string>
     <string name="root_function_one">Делать бэкап данных приложений</string>
@@ -211,8 +211,8 @@
     <string name="discard">Отменить</string>
     <string name="attention">Внимание</string>
     <string name="msg_loading">Загрузка…</string>
-	<string name="msg_rooting">Получение прав суперпользователя, подождите...</string>
-    <string name="msg_no_record_to_merge">Резервных копий нет (меньше двух)</string>
+	<string name="msg_rooting">Получение прав суперпользователя...</string>
+    <string name="msg_no_record_to_merge">Резервных копий нет (меньше двух) и операция не доступна</string>
     <string name="msg_no_record_to_delete">Резервных копий нет</string>
     <string name="msg_delete_record">Удалить бэкап?</string>
     <string name="alert_dialog_title">Внимание</string>
@@ -244,7 +244,7 @@
     <string name="unavailable">Недоступно</string>
 	<string name="dropbox">Dropbox</string>
     <string name="google_drive">Google Drive</string>
-	<string name="copy_right_info">"Все права защищены © 2004-2012 3G.cn"</string>
+	<string name="copy_right_info">"Все права защищены © 2004-2013 3G.cn"</string>
     <string name="btn_new_backup">Бэкап</string>
     <string name="btn_restore">Восстановление</string>
     <string name="sd_card_unavailable">SD-карта недоступна</string>
@@ -414,7 +414,7 @@
     <string name="msg_delete_records">Удалить выбранные резервные копии?</string>
     <string name="msg_wait">Пожалуйста, подождите...</string>
     <string name="title_scheduled_backup">Запланированное резервное копирование</string>
-    <string name="msg_no_schedules">Нет графиков</string>
+    <string name="msg_no_schedules">Нет расписаний</string>
     <string name="msg_no_active_action">Нет активных действий</string>
     <string name="msg_next_backup_time">"Следующий бэкап в : "</string>
     <string name="title_edit_plan">Редактирование задачи</string>
@@ -442,7 +442,7 @@
     <string name="root_desc_summary">"1.Для резервного копирования данных приложений
 
 2.Для скрытия интерфейса установки приложений при восстановлении"</string>
-    <string name="introduction_what_is_root">Что такое Root？</string>
+    <string name="introduction_what_is_root">Что такое Root?</string>
     <string name="introduction_how_to_get_root">Как получить root права?</string>
     <string name="root_state_rooted">Устройсво с ROOT</string>
     <string name="root_state_unrooted">Без ROOT</string>
@@ -479,7 +479,7 @@
     <string name="entry_title_dropbox_backup">Аккаунт Dropbox</string>
     <string name="entry_summary_unlogin_dropbox">Нажмите, чтобы войти</string>
     <string name="entry_summary_soft_rate">Оцените GO Backup в Google Play</string>
-	<string name="entry_summary_copyright_info">"Все права защищены © 2004-2012 3G.cn"</string>
+	<string name="entry_summary_copyright_info">"Все права защищены © 2004-2013 3G.cn"</string>
     <string name="go_backup_noEmailApplication">Нет почтового клиента！</string>
     <string name="title_logout">Выйти</string>
     <string name="msg_delete_cloud_backup">Это очистит все резервные копии на Dropbox, продолжить?</string>
@@ -572,8 +572,8 @@
     <string name="msg_no_app_to_unfreeze">Нет доступных приложений для размораживания</string>
     <string name="title_freeze_app">Заморозить</string>
     <string name="title_unfreeze_app">Разморозить</string>
-    <string name="freezing_apps">Замораживание, подождите...</string>
-    <string name="unfreezing_apps">Размораживание, подождите...</string>
+    <string name="freezing_apps">Замораживание...</string>
+    <string name="unfreezing_apps">Размораживание...</string>
     <string name="msg_sorting">Сортировка приложений...</string>
     <string name="msg_refresh_app_list">Обновление списка приложений...</string>
     <string name="btn_freeze_app">Заморозить</string>
@@ -590,4 +590,13 @@
     <string name="hours">%s часов</string>
     <string name="one_minute">1 минута</string>
     <string name="minutes">%s минут</string>
+	<string name="valentine_title1">Скидка 40% на GO Backup Pro</string>
+    <string name="valentine_detail1">Only $2.99 to get the Pro Version</string>
+    <string name="valentine_title2">GO Backup Pro 40% OFF Last Call</string>
+    <string name="valentine_detail2">Only $2.99 to get the Pro Version</string>
+    <string name="happy_father_day_time">on 11.28-12.1</string>
+    <string name="cloud_bottom_unpaid_text1">Поддержка бэкапа в Google Drive, Dropbox</string>
+    <string name="cloud_bottom_unpaid_text2">Сначала войдите в сетевой диск</string>
+    <string name="autobackup_title">Автобэкап</string>
+    <string name="autobackup_summary">Автоматический бэкап новых апк/апк и данных приложений при установки или обновлении</string>
 </resources>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="add_new_song">
-        <item quantity="other">Найдено треков: %d</item>
-        <item quantity="one">Найдено треков: %d</item>
-    </plurals>
-</resources>

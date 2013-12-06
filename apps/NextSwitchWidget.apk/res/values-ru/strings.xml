@@ -33,6 +33,7 @@ golauncher.goforandroid.com"</string>
     <string name="permdesc_write_settings">Allows an application to change the switcher widget settings</string>
     <string name="style_large_title">Переключатели (4x1)</string>
     <string name="style_1_1_title">Переключатель (1x1)</string>
+	<string name="style_3_3_title">Переключатели (3x3)</string>
     <string name="wifi">Wi-Fi</string>
     <string name="gps">GPS</string>
     <string name="gprs">Данные</string>
@@ -89,9 +90,10 @@ golauncher.goforandroid.com"</string>
     <string name="gprs_func_sdk_tips">Мобильная сеть поддерживается только на Android 2.2 и выше</string>
     <string name="bluetooth_airplane_on_tips">Телефон находится в режиме самолета, вы не можете управлять Bluetooth</string>
     <string name="sd_mass_tips">Сначала подключите SD-карту</string>
-    <string name="gps_func_tips">Не удается включить/отключить GPS с помощью GO SwitchWidget</string>
+    <string name="gps_func_tips">Не удается включить/отключить GPS с помощью Next SwitchWidget</string>
+	<string name="airplane_func_tips">Не удается включить/отключить AIRPLANE с помощью Next SwitchWidget</string>
     <string name="bettery_circs_not_found">Нет разрешения. Информация о батарее не может быть показана.</string>
-    <string name="lock_screen_tips">право автоматической блокировки для Go SwitchWidget, чтобы активировать функцию блокировки экрана. Чтобы удалить виджет, пожалуйста, сначала отключите блокировку экрана в Настройки -> Местоположение и безопасность -> Администраторы устройства -> Отключить GO SwitchWidget</string>
+    <string name="lock_screen_tips">право автоматической блокировки для Next SwitchWidget, чтобы активировать функцию блокировки экрана. Чтобы удалить виджет, пожалуйста, сначала отключите блокировку экрана в Настройки -> Местоположение и безопасность -> Администраторы устройства -> Отключить GO SwitchWidget</string>
     <string name="default_theme_title">Стандартная</string>
     <string name="not_connect_not_support">USB не подключен или функция массивного хранения не поддерживается</string>
     <string name="choose_switch">Выберите переключатель:</string>
@@ -117,4 +119,6 @@ golauncher.goforandroid.com"</string>
     <string name="need_nextlauncher">Next Launcher является необходимым условием для Next Switch Widget</string>
     <string name="down_load_nextlauncher">Скачать</string>
     <string name="install_google_play_first">Пожалуйста, сначала установите Google Play</string>
+	<string name="mark_cannot_use">Маркет не может быть использован</string>
+	<string name="not_sd_mount">Операции с SD-картой не поддерживается на этом устройстве</string>
 </resources>

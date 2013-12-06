@@ -18,7 +18,7 @@
     <string name="rate_go_power">Оценить GO Power Master</string>
     <string name="copyright_info">Авторские права</string>
     <string name="summary_rate_go_power">Оцените GO Power Master в Google Play</string>
-    <string name="summary_copyright_info">"© Все права защищены 2004-2012 3G.cn"</string>
+    <string name="summary_copyright_info">"© Все права защищены 2004-2013 3G.cn"</string>
     <string name="summary_share_info">Поделитесь GO Power Master с друзьями</string>
     <string name="share_title">Рекомендуйте использовать GO Power Master</string>
     <string name="share_content">Привет, я использую GO Power Master. Это действительно полезная программа и экономит заряд батареи. Хотите попробовать? Ссылка для загрузки: http://goo.gl/dM90k</string>
@@ -60,11 +60,11 @@
     <string name="gowidget_41_title">GO Power Master (4×1)</string>
     <string name="select_mode">Выбор режима</string>
     <string name="ok">OK</string>
-    <string name="best_state">Оптимизация уже выполнена. Попробуйте позже.</string>
+    <string name="best_state">Оптимизация не требуется</string>
     <string name="choose">Применить</string>
     <string name="brightness_auto">Авто</string>
-    <string name="off">Выкл</string>
-    <string name="on">Вкл</string>
+    <string name="off">Выкл.</string>
+    <string name="on">Вкл.</string>
     <string name="undefined">Не изменять</string>
     <string name="silent">Без звука</string>
     <string name="battery_health_good">Хорошее</string>
@@ -120,8 +120,8 @@
     <string name="music">Музыка</string>
     <string name="network">Интернет</string>
     <string name="calls">Звонки</string>
-    <string name="low_power_title">Смена режима по уровню заряда</string>
-    <string name="time_to_set_up_title">Смена режима по времени</string>
+    <string name="low_power_title">Смена по уровню заряда</string>
+    <string name="time_to_set_up_title">Смена по времени</string>
     <string name="my_mode">Мой режим</string>
     <string name="backup_title">Бэкап настроек</string>
     <string name="backup_content">Бэкап режимов и настроек умной экономии</string>
@@ -139,7 +139,7 @@
     <string name="low_power_prompt">Оповещение о разряде батареи</string>
     <string name="switch_now">Переключиться</string>
     <string name="not_switch_now">Отмена</string>
-    <string name="switch_to_super_save">Умная экономия: переключиться в режим Суперэконом автоматически</string>
+    <string name="switch_to_super_save">Умная экономия: переключиться в режим суперэконом автоматически</string>
     <string name="battery_temperature_mark">Шкала температуры</string>
     <string name="battery_temperature_centigrade_to">℃</string>
     <string name="battery_temperature_fahrenheit_to">℉</string>
@@ -156,7 +156,7 @@
     <string name="delay_close_wifi">Задержка отключения Wi-Fi</string>
     <string name="delay_close_wifi_content">Задержка закрытия Wi-Fi, если экран отключен</string>
     <string name="download_protected">Защита загрузок</string>
-    <string name="download_protected_content">Не откл. Wi-Fi сразу же после загрузки</string>
+    <string name="download_protected_content">Не откл. Wi-Fi сразу после загрузки</string>
     <string name="locked_name_list">Список блокировки Wi-Fi</string>
     <string name="delay_time_title">Время задержки</string>
     <string name="without_delay">Без задержки</string>
@@ -223,7 +223,7 @@
     <string name="application_detail">Сведения</string>
     <string name="per_time_power_consu">Потребляемая мощность</string>
     <string name="power_cons_attation">Расчёт потребления энергии каждые 2 часа</string>
-    <string name="mobile_data_intentelligent_title">Управление Передачей данный</string>
+    <string name="mobile_data_intentelligent_title">Управление мабильным интернетом</string>
     <string name="close_screen_close_mobile_data">Отключать передачу данных, когда экран выключен</string>
     <string name="open_screen_open_mobile_data">Автовосстан. передачи данных при включении экрана</string>
     <string name="delay_close_mobile_data">Задержка отключения</string>
@@ -290,7 +290,7 @@
     <string name="battery_info">Информация о батарее</string>
     <string name="power_consumption">(заряд)</string>
     <string name="have_data_statu">Нормальная</string>
-    <string name="no_data_statu">Нет данных</string>
+    <string name="no_data_statu">Н/д</string>
     <string name="battery_statu">Статус</string>
     <string name="curve_battery_temperature">Температура:</string>
     <string name="curve_battery_voltage">Напряжение:</string>
@@ -334,7 +334,7 @@
     <string name="mobile_not_activated_mode_subtitle">Режим не будет зависеть от Данных Smart Control</string>
     <string name="syuc_not_activated_mode_subtitle">Режим не будет зависеть от Sync Smart Control</string>
     <string name="autosync_open_frequency_subtitle">Интервал синхронизации</string>
-    <string name="autosync_duration_subtitle">Продолжительность синхронизации</string>
+    <string name="autosync_duration_subtitle">Время синхронизации</string>
     <string name="choose_wifi_lock_list">Независимые точки доступа</string>
     <string name="choose_wifi_lock_list_subtitle">Точка доступа Wi-Fi не будет зависеть от Wi-Fi Smart Control</string>
     <string name="choose_close_time">Таймаут соединения</string>
@@ -358,7 +358,7 @@
     <string name="bluetooth_close_title">Умное управление Bluetooth</string>
     <string name="check_interval_time_title">Интервал проверки Bluetooth</string>
     <string name="close_condition_title">Отключение через</string>
-    <string name="two_minute">2 минуты</string>
+    <string name="two_minute">2 мин.</string>
     <string name="no_devices">Выключать, если в диапазоне нет устройств</string>
     <string name="no_devices_match">Выключать, если в диапазоне нет сопряженного устройства</string>
     <string name="no_devices_connect">Выключать, если не подключен к устройству</string>
@@ -429,13 +429,13 @@
     <string name="ringer_name">Звонок</string>
     <string name="network_autosync">Автосинхр.</string>
     <string name="enter_gopowermaster">Открыть GO Power Master</string>
-    <string name="charging_estimate_time">Расчетное время：</string>
+    <string name="charging_estimate_time">Расчетное время:</string>
     <string name="not_charging">Разрядка...</string>
     <string name="charging_text_default">Зарядка   </string>
     <string name="charging_text_first">Зарядка.  </string>
     <string name="charging_text_second">Зарядка.. </string>
     <string name="charging_text_third">Зарядка...</string>
-    <string name="battery_temp">Температура：</string>
+    <string name="battery_temp">Температура:</string>
     <string name="once">Один раз</string>
     <string name="twice">Два раза</string>
     <string name="history_times">раз</string>
@@ -553,7 +553,7 @@
     <string name="save_tips_content_5">Нажмите на панели уведомлений, чтобы открыть переключатели и режимы. Вы можете легко изменять состояние телефона.</string>
     <string name="save_tips_content_6">Добавьте виджет на рабочи стол. Он поддерживает изменение режима, убийство запущенных приложений и просмотр оставшегося заряда.</string>
     <string name="save_tips_content_7">Используйте оптимизацию. Keep it high score will help you extend battery life.</string>
-	<string name="battery_care">Обслуживание</string>
+	<string name="battery_care">ОБСЛУЖИВАНИЕ</string>
     <string name="battery_care_title_1">1. О времени работы аккумулятора</string>
     <string name="battery_care_title_2">2. Как потребляется энергия</string>
     <string name="battery_care_title_3">3. Избегайте длительной зарядки</string>
@@ -573,7 +573,7 @@
 	<string name="sdMass">SD-карта</string>
     <string name="rotate">Поворот</string>
     <string name="lock_screen">Блок. экрана</string>
-    <string name="sdVolume">Извлечь SD</string>
+    <string name="sdVolume">Откл. SD</string>
     <string name="flashlight">Фонарик</string>
     <string name="wifiAP">Wi-Fi модем</string>
 	<string name="lock_screen_func_tips">Блокировка экрана поддерживается только на Android 2.2 и выше</string>
@@ -583,7 +583,7 @@
     <string name="lock_screen_tips">Права автоблокировки даны GO SwitchWidget, чтобы активировать функцию блокировки экрана. Чтобы удалить виджет, пожалуйста, сначала отключите функциональность экран блокировки: Настройки -> Местоположение и безопасность -> Администраторы устройства -> Отключить GO SwitchWidget.</string>
     <string name="button_open_white">Экранный фонарик</string>
     <string name="prompt_open_camera_failed">Не удается запустить вспышку телефона</string>
-    <string name="not_connect_not_support">USB is not connected or massive storage function is not supported</string>
+    <string name="not_connect_not_support">USB не подключен или функция не поддерживается</string>
     <string name="sd_mass_tips">Сначала подключите SD-карту</string>
     <string name="sdk_sd_in_mass">Вы не можете размонтировать SD-карту, когда она в активном состоянии</string>
     <string name="display_notification_switch">УВЕДОМЛЕНИЯ</string>
@@ -664,7 +664,7 @@
     <string name="consumption_choose_four_hour">4 часа</string>
     <string name="consumption_choose_three_hour">3 часа</string>
     <string name="consumption_choose_two_hour">2 часа</string>
-    <string name="consumption_choose_hour">час</string>
+    <string name="consumption_choose_hour">часов</string>
     <string name="get_plus">Получить Plus</string>
     <string name="get_ultimate">Получить Ultimate</string>
     <string name="update_to_ultimate">Обновление до полной версии</string>
@@ -685,12 +685,12 @@
     <string name="main_tab_tool">ИНСТРУМЕНТЫ</string>
     <string name="main_tab_available">Доступо:</string>
     <string name="extreme_mode_name">Экстремальный</string>
-    <string name="mode_switch_select_title">Switcher under mode control</string>
+    <string name="mode_switch_select_title">Перейти в режим</string>
     <string name="charge_maintenance">Зарядка</string>
     <string name="power_ranking">Потребление</string>
     <string name="widget_theme">Темы</string>
     <string name="root_prompt_title">С ROOT правами экономия энергии еще эффективнее</string>
-    <string name="root_prompt_subtitle">С ROOT правами Вы можете:</string>
+    <string name="root_prompt_subtitle">С ROOT Вы можете:</string>
     <string name="root_prompt_content_1">Умно управлять ЦП</string>
     <string name="root_prompt_content_2">Переключать режим полета</string>
     <string name="root_prompt_content_3">Управлять GPS</string>
@@ -707,8 +707,8 @@
     <string name="mode_detail_my_mode">Пользовательский</string>
     <string name="available">Осталось:</string>
     <string name="start_text_detail">Ваш истинный защитник батареи</string>
-    <string name="open_switch">Открыть</string>
-    <string name="close_switch">Закрыть</string>
+    <string name="open_switch">ВКЛЮЧЕННЫЕ</string>
+    <string name="close_switch">ВЫКЛЮЧЕННЫЕ</string>
     <string name="optimize_now">Оптимизировать</string>
     <string name="close_switches_to_save">ПРЕДЛАГАЕМ ЗАКРЫТЬ</string>
     <string name="use_intelligent_to_save">ПРЕДЛАГАЕМ ВКЛЮЧИТЬ СМАРТЭКОНОМ</string>
@@ -740,6 +740,7 @@
     <string name="google_play_iap">Google Play</string>
     <string name="get_jar_free">GetJar</string>
     <string name="task_manager">Task Manager</string>
+	<string name="mini_launcher">Mini Launcher</string>
     <string name="hack_message">Ошибка покупки. Попробуйте еще раз.</string>
 	<string name="auto_date_time_title">Автоматическая дата и время</string>
     <string name="auto_date_time_zone_title">Автоматический часовой пояс</string>
@@ -751,6 +752,96 @@
     <string name="yesterday_up">ВЧЕРА</string>
     <string name="the_day_before_yesterday_up">ПОЗАВЧЕРА</string>
     <string name="more_charge_record">Больше записей</string>
+	<string name="network_off_when_screen_off">ОТКЛЮЧАТЬ СЕТИ КОГДА ЭКРАН ВЫКЛЮЧЕН</string>
+    <string name="smart_control_new">УМНОЕ УПРАВЛЕНИЕ</string>
+    <string name="smart_mode_by_power">По питанию</string>
+    <string name="smart_mode_by_time">По времени</string>
+    <string name="smart_mode_when_charged">При зарядке</string>
+    <string name="mini_text1">Mini Launcher</string>
+    <string name="mini_text2">Новое приложение от</string>
+    <string name="mini_text3">Go Dev Team</string>
+    <string name="mini_download">СКАЧАТЬ</string>
+	<string name="skip">Далее</string>
+    <string name="about_more">Подробнее</string>
+    <string name="quickmode_recommend_text">Переключайтесь в режим экономии быстрее</string>
+    <string name="quickmode_recommend_text2">Когда используете виджет или всплывающее окно</string>
+    <string name="quickmode_recommend_title">Быстрый режим</string>
+    <string name="quickmode_more_features">Дополнительные функции</string>
+    <string name="change_mode_successed">Успешно изменено</string>
+    <string name="create_shortcut_turn">Создать ярлык на рабочем столе</string>
+    <string name="no_cache_to_clean">Нет кэша для очистки</string>
+    <string name="all_cache_cleared">Весь кэш был очищен</string>
+    <string name="download_task_manage_title">GO TaskManager EX</string>
+    <string name="download_task_manage_content">Проф. очистит память и мусор</string>
+    <string name="update_task_manage_content">Обновите до последней версии</string>
+    <string name="no_data_text_bg">Ошибка загрузки</string>
+    <string name="suspension_bg_app">Фон APP</string>
+    <string name="setting_display_suspension">Отображать всплыващее окно</string>
+    <string name="enter_setting_menu">Настройки</string>
+	<string name="minisiderbarkill">MiniSideBar Killer</string>
+    <string name="minisiderbar_2">Только для Mini Launcher</string>
+    <string name="minisiderbar_dont_show">Больше не показывать</string>
+	<string name="sysclear_title">Системный мусор</string>
+    <string name="sysclear_sum_text">Очищайте своевременно для ускорения телефона</string>
+    <string name="sysclear_second_title_scanning">Сканирование: %1$s</string>
+    <string name="sysclear_second_title">%1$s ненужных фалов, занимающих %2$s</string>
+    <string name="sysclear_scanning">Сканирование, подождите…</string>
+    <string name="sysclear_thumb">Кэш миниатюр</string>
+    <string name="sysclear_thumb_result">Найдено файлов: %1$s/размером: %2$s</string>
+    <string name="sysclear_null_result">Найдено %1$s файлов</string>
+    <string name="sysclear_log">Журналы</string>
+    <string name="sysclear_residual">Остаточные файлы</string>
+    <string name="sysclear_lost">Бесполезные файлы</string>
+    <string name="sysclear_null">Пустые каталоги</string>
+    <string name="sysclear_clear_main">Очистить</string>
+    <string name="sysclear_no_file">Нет файлов</string>
+    <string name="sysclear_no_sdcard">Не удалось. SD-карта не подключена.</string>
+    <string name="sysclear_tmp">Временные файлы</string>
+    <string name="clear_residual_toast">Очищено: %1$s/Освобождено: %2$s</string>
+    <string name="mtextview_cache">%1$s прил., %2$s</string>
+    <string name="turn_on_mode">Очистить</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="no_select">Нет выбранных элементов</string>
+    <string name="cancel_all">Отменить все</string>
+    <string name="tab_residuefile_clear">Останочные файлы</string>
+    <string name="no_data_now">нет данных</string>
+    <string name="claer_data_sumtitle">Описание</string>
+    <string name="residue_desc_one">1. Некоторые приложения могут сохранять настройки на SD-карте</string>
+    <string name="residue_desc_two">2. Удаление их может потерять настройки о приложении</string>
+    <string name="ad_fee_trash">Очистка системного мусора</string>
+    <string name="no_data_now_examination">Оптимизация не требуется</string>
+	<string name="valentine_title1">Скидка 40% на версию Pro</string>
+    <string name="valentine_detail1">Thanks For Continued support!</string>
+    <string name="valentine_title2">Promotion last call!</string>
+    <string name="valentine_detail2">Скидка 40% на версию Pro</string>
+    <string name="happy_father_day_time">на 9.27-9.29</string>
+    <string name="optimize_result_more">еще</string>
+    <string name="getjar_preparing">Preparing</string>
+    <string name="getjar_check_record">Проверка покупок</string>
+    <string name="getjar_check_price">Looking for the lastest price</string>
+    <string name="getjar_pay_way">Купить с Getjar</string>
+	<string name="exam_gobackup">Backup</string>
+    <string name="no_market">Сначала установите Google Play</string>
+    <string name="menu_next_browser">Next Browser</string>
+	<string name="advanced_content0">Без рекламы в GO Power Master</string>
+    <string name="advanced_content1">Быстрое переключение режимов в прик. интерфейсе</string>
+    <string name="advanced_content2">Больше инфо о истории зарядок</string>
+    <string name="advanced_content3">Автопереключение режима экноном по времени</string>
+    <string name="advanced_content4">Более красивый и персонализированный</string>
+    <string name="advanced_content5">Очистка бесполезных ненужных файлов</string>
+    <string name="advanced_content6">Больше возможностей ждет вас</string>
+	<string name="advanced_content7">Продление жизни батареи</string>
+    <string name="appmarket_unavailable">Ошибка запуска Google Play</string>
+    <string name="msg_center_new_msgs">Сообщение GO PowerMaster: %1$s</string>
+    <string name="live_wallpaper_settings">Настройки живых обоев</string>
+    <string name="msg_center_dialog_title">Сообщение от GO PowerMaster</string>
+    <string name="menu_msg_center">Сообщения</string>
+    <string name="msg_center_no_msg">Пусто</string>
+    <string name="recommend_gotool_text">Приложение от GO Tool Dev Team чтобы держать телефон чистым и эффективным</string>
+    <string name="recommend_gotool_title">GO Tool</string>
+    <string name="optimize_exit_taskmanager">Больше оптимизации</string>
+    <string name="consume_state_save_taskmanager">Еще лучшая и быстрая оптимизация до 30%</string>
+    <string name="exam_nextlauncher">Next Launcher</string>
 	<string name="batteryUse_text">Использование батареи &lt;font color=#67b237>( %1$s )&lt;/font></string>
     <string name="go_power_feedback">Обратная связь с GO Power Master %1$s</string>
     <string name="go_power_feedback_paid">Обратная связь с GO Power Master %1$s (полная версия)</string>
@@ -769,9 +860,9 @@
     <string name="prompt_change_suggest2">Рекомендуем переключиться в режим &lt;font color=#e32323>Суперэконом&lt;/font>. Время работы увеличится на %1$d ч %2$d м</string>
     <string name="prompt_normal_charge">Заряд менее %1$d%%. Вовремя зарядите устройство.</string>
     <string name="prompt_switch_add_time1">"Заряд менее %1$d%%. 
-Переключитесь на режим Суперэконом, чтобы продлить время работы %2$d ч %3$d м"</string>
+Переключитесь в режим Суперэконом, чтобы продлить время работы %2$d ч %3$d м."</string>
     <string name="prompt_switch_add_time2">"Заряд менее %1$d%%. 
-Переключитесь на режим Суперэконом, чтобы продлить время работы %2$d м"</string>
+Переключитесь в режим Суперэконом, чтобы продлить время работы %2$d м."</string>
     <string name="low_power_change">&lt;font color=#D2D2D2>Super Save&lt;/font> будет активирован когда питание ниже, чем %1$d%%</string>
     <string name="autosync_close_after_five_mins">Синхронизация будет отключена автоматически через %1$s</string>
     <string name="autosync_open_after_thirty_mins">Для включения синхронизации вновь, автоматически включается через %1$s</string>
@@ -787,7 +878,7 @@
     <string name="day_hour_min">%1$d д %2$d ч %3$d м</string>
     <string name="hour_min">%1$d ч %2$d м</string>
     <string name="min">%1$d м</string>
-	<string name="selected_app_count">Выбрано %1$s прил.</string>
+	<string name="selected_app_count">Выбрано: %1$s</string>
     <string name="can_update_to">Доступна новая версия %1$s</string>
     <string name="second">%1$d с</string>
     <string name="one_key_stop_tip">%1$d прил. закрыто GO Power Master</string>
@@ -808,6 +899,6 @@
     <string name="show_less_time">(-%1$d ч %2$d м)</string>
     <string name="hours_ago">%1$d ч назад</string>
     <string name="minutes_ago">%1$d мин. назад</string>
-	<string name="power_features">Доступ к &lt;font color=#67b237>12&lt;/font> доп. возможностям</string>
+	<string name="power_features">Доступ к &lt;font color=#67b237>12&lt;/font> дополнительным функциям</string>
 	<string name="charging_pop_total_time">До полной зарядки &lt;font color=#63e412>%1$d ч %2$d мин&lt;/font></string>
 </resources>

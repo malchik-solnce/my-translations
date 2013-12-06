@@ -8,10 +8,6 @@
         <item>Жанры</item>
         <item>Популярные</item>
     </string-array>
-    <string-array name="pref_gallery_sort_values">
-        <item>descending</item>
-        <item>ascending</item>
-    </string-array>
     <string-array name="pref_crossfading_entries">
         <item>Отключено</item>
         <item>1 секунда</item>
@@ -22,25 +18,10 @@
         <item>6 секунд</item>
         <item>7 секунд</item>
     </string-array>
-    <string-array name="pref_crossfading_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
     <string-array name="pref_recently_ad_choices">
-        <item>Последняя сессия сканирования</item>
+        <item>Последнее сканирование</item>
         <item>Последние 2 недели</item>
         <item>Последние 2 месяца</item>
-    </string-array>
-    <string-array name="pref_recently_ad_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="pref_gallery_sort_choices">
         <item>Сначала новые</item>
@@ -52,12 +33,6 @@
         <item>4 секунды</item>
         <item>5 секунд</item>
     </string-array>
-    <string-array name="pref_gallery_slideshow_interval_values">
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-    </string-array>
     <string-array name="pref_gallery_slideshow_transition_choices">
         <item>Вход и выход</item>
         <item>Слайд влево - вправо</item>
@@ -65,26 +40,12 @@
         <item>Случайный выбор</item>
         <item>Без эффекта</item>
     </string-array>
-    <string-array name="pref_gallery_slideshow_transition_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="pref_dmgr_activeDownloads_choices">
         <item>Одна</item>
         <item>Две</item>
         <item>Три</item>
         <item>Четыре</item>
         <item>Пять</item>
-    </string-array>
-    <string-array name="pref_dmgr_activeDownloads_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
     </string-array>
     <string-array name="equalzier_custom_name">
         <item>Мой 1</item>
