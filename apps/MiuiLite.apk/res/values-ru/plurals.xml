@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="a_hour_ago">
         <item quantity="other">Час назад</item>
@@ -95,12 +95,12 @@
      </plurals>
      <plurals name="numSelectedSimContacts">
         <item quantity="one">Выбрано: %1$d</item>
-		<item quantity="other">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
         <item quantity="zero">Выбрано: %1$d</item>
      </plurals>
      <plurals name="num_contacts_in_group">
         <item quantity="one">%1$d чел. в группе %2$s</item>
-		<item quantity="other">%1$d чел. в группе %2$s</item>
+        <item quantity="other">%1$d чел. в группе %2$s</item>
      </plurals>
      <plurals name="num_groups_in_account">
         <item quantity="one">Групп: 1</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="act_weather_main_listview_json_key">
         <item>wind1</item>
@@ -94,14 +94,6 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
-     <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-        <item>5x5</item>
-        <item>5x6</item>
-        <item>6x5</item>
-        <item>6x6</item>
-     </string-array>
      <string-array name="contact_entries">
         <item>Имя</item>
         <item>Ник</item>
@@ -141,33 +133,6 @@
      <string-array name="entries_date_type">
         <item>Время получения</item>
         <item>Время отправки</item>
-     </string-array>
-     <string-array name="gadget_weather_image">
-        <item>Солнечно</item>
-        <item>Облачно</item>
-        <item>Облачно</item>
-        <item>Туман</item>
-        <item>Сильный дождь</item>
-        <item>Ливень</item>
-        <item>Ливень с ураганом</item>
-        <item>Местами грозы</item>
-        <item>Ливни</item>
-        <item>Сильный дождь</item>
-        <item>Умеренный дождь</item>
-        <item>Небольшой дождь</item>
-        <item>Дождь со снегом</item>
-        <item>Метель</item>
-        <item>Ливни со снегом</item>
-        <item>Сильный снегопад</item>
-        <item>Умеренный снег</item>
-        <item>Небольшой снег</item>
-        <item>Сильная пыльная буря</item>
-        <item>Пыльная буря</item>
-        <item>Пыль</item>
-        <item>Песчаная буря</item>
-        <item>Град</item>
-        <item>Грязь</item>
-        <item>Смог</item>
      </string-array>
      <string-array name="gadget_weather_theme_type_entries">
         <item>Стандартный</item>
