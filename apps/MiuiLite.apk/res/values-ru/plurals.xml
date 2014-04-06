@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="a_hour_ago">
+        <item quantity="other">Час назад</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Час назад</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Час назад</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Полчаса назад</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Только что</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="one">в 1 мин.</item>
+        <item quantity="other">в %d мин.</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="one">1 мин. назад</item>
+        <item quantity="other">%d мин. назад</item>
+     </plurals>
+     <plurals name="all_numbers_count">
+        <item quantity="one">Всего: 1</item>
+        <item quantity="other">Всего: %d</item>
+     </plurals>
+     <plurals name="confirm_delete_conversation">
+        <item quantity="one">Цепочка будет удалена</item>
+        <item quantity="other">Цепочки (%1$s) будут удалены</item>
+     </plurals>
+     <plurals name="group_add_success_toast">
+        <item quantity="one">Добавлен %1$d контакт</item>
+        <item quantity="other">" Добавлено %1$d контактов"</item>
+     </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">Контактов: %1$d</item>
+        <item quantity="other">Контактов: %1$d</item>
+     </plurals>
+     <plurals name="group_list_num_numbers_in_group">
+        <item quantity="one">Номеров: %1$d</item>
+        <item quantity="other">Номеров: %1$d</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Час назад</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Полчаса назад</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Только что</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="one">в 1 минуту</item>
+        <item quantity="other">в %d минут</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+     </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="one">Найдено: 1</item>
+        <item quantity="other">Найдено: %d</item>
+     </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="one">Контактов: 1</item>
+        <item quantity="other">Контактов: %d</item>
+     </plurals>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+        <item quantity="other">Контакты с номерами телефонов: %d</item>
+     </plurals>
+     <plurals name="merge_info">
+        <item quantity="one">не объединен</item>
+        <item quantity="other">объединено из нескольких источников (%0$d)</item>
+     </plurals>
+     <plurals name="message_count">
+        <item quantity="one">Сообщений: %1$s</item>
+        <item quantity="other">Сообщений: %1$s</item>
+     </plurals>
+     <plurals name="notification_voicemail_title">
+        <item quantity="one">Голосовое сообщение</item>
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+     </plurals>
+     <plurals name="numSelectedSimContacts">
+        <item quantity="one">Выбрано: %1$d</item>
+		<item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="one">%1$d чел. в группе %2$s</item>
+		<item quantity="other">%1$d чел. в группе %2$s</item>
+     </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="one">Групп: 1</item>
+        <item quantity="other">Групп: %0$d</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="one">1 мин. назад</item>
+        <item quantity="other">%d мин. назад</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+     </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="one">Найдено: 1</item>
+        <item quantity="other">Найдено: %d</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+     </plurals>
+     <plurals name="slide_duration">
+        <item quantity="few">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="other">%s с.</item>
+     </plurals>
+     <plurals name="smart_group_member_count">
+        <item quantity="one">Контактов: 1</item>
+        <item quantity="other">Контактов: %d</item>
+     </plurals>
+     <plurals name="v5_edit_mode_title">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+     </plurals>
+</resources>
